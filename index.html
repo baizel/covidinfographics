@@ -22,6 +22,15 @@
         .select-dropdown.dropdown-trigger {
             color: white;
         }
+        body {
+            display: flex;
+            min-height: 100vh;
+            flex-direction: column;
+        }
+
+        main {
+            flex: 1 0 auto;
+        }
     </style>
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
@@ -29,7 +38,7 @@
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
-<body class="grey darken-3 white-text">
+<main class="grey darken-3 white-text">
 <div class="container">
     <div class="row white-text">
         <h1 class="col s12 center">Covid-19 Infographics</h1>
@@ -52,5 +61,30 @@
 <!-- Scripts -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="js/script.js" rel="script"></script>
-</body>
+</main>
+<footer class="page-footer grey darken-2">
+    <div class="container">
+        <div class="row">
+            <div class="col l6 s12">
+                <h5 class="white-text">Made by Volunters</h5>
+                <p class="grey-text text-lighten-4">Patients from ethnic minorities are disproportionately affected by
+                    Covid-19. As a group of doctors, medical students and volunteers,
+                    we’ve created infographics to help summarise key points about Covid-19 in a variety of languages
+                    to reach communities.</p>
+            </div>
+            <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Links</h5>
+                <ul>
+                    <li><a class="grey-text text-lighten-3" href="https://www.facebook.com/COVID2019Infographics">Facebook</a></li>
+                    <li><a class="grey-text text-lighten-3" href="https://baizel.dev">Developer site</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            © 2020 Copyright
+        </div>
+    </div>
+</footer>
 </html>
