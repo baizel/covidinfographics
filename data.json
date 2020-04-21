@@ -1,0 +1,42 @@
+[
+  {
+    "language": "English",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": " graphics/english.png"
+        }
+      },
+      {
+        "info": {
+          "name": "AName",
+          "translation": "",
+          "src": "src of image.png"
+        }
+      }
+
+    ]
+  },
+  {
+    "language": "Arabic",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "نظرة عامة",
+          "src": " /graphics/english.png"
+        }
+      },
+      {
+        "info": {
+          "name": "AName",
+          "translation": "نظرة",
+          "src": "src of image.png"
+        }
+      }
+    ]
+  }
+]
+

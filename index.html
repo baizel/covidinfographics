@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title> Covid-19 infographics </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135027670-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-135027670-2');
+    </script>
+
+</head>
+<body class="grey darken-3 white-text">
+<div class="container">
+    <div class="row white-text">
+        <h1 class="col s12 center">Covid-19 Infographics</h1>
+        <div class="input-field col offset-m3 s12 m6 offset-m3 center white-text">
+            <select id="lanSel" class="white-text grey darken-2" onchange="showInfos()">
+                <option class="white-text" value="" disabled selected>Choose a Language</option>
+            </select>
+            <label class="white-text">Please Select A Language</label>
+        </div>
+    </div>
+    <h5 class="center">Info Graphics</h5>
+    <div class="center row">
+        <div class="col s12">
+            <ul id="allGraphics">
+                <li class="red-text">Please select a language first</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Scripts -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="js/script.js" rel="script"></script>
+</body>
+</html>
