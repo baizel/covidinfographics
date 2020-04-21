@@ -1,24 +1,36 @@
 [
   {
-    "language": "Lithuanian",
+    "language": "Arabic",
     "graphics": [
       {
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Lithuanian/Coronavirus Lithuaninan infographic.PNG"
+          "src": "graphics/Arabic/image.png"
         }
       }
     ]
   },
   {
-    "language": "Tamil",
+    "language": "Bengali",
     "graphics": [
       {
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Tamil/Slide1.png"
+          "src": "graphics/Bengali/Bengali infographic.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Bulgarian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Bulgarian/Slide1.PNG"
         }
       }
     ]
@@ -36,61 +48,13 @@
     ]
   },
   {
-    "language": "Turkish",
+    "language": "German",
     "graphics": [
       {
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Turkish/Slide1.PNG"
-        }
-      }
-    ]
-  },
-  {
-    "language": "Polish",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "translation": "",
-          "src": "graphics/Polish/COVID Outreach Polish.PNG"
-        }
-      }
-    ]
-  },
-  {
-    "language": "Malayalam",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "translation": "",
-          "src": "graphics/Malayalam/COVID Outreach Final Poster Malayalam.PNG"
-        }
-      }
-    ]
-  },
-  {
-    "language": "Arabic",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "translation": "",
-          "src": "graphics/Arabic/image.png"
-        }
-      }
-    ]
-  },
-  {
-    "language": "Mandarin (Simplified)",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "translation": "",
-          "src": "graphics/Mandarin (Simplified)/Slide1.PNG"
+          "src": "graphics/German/Slide1.png"
         }
       }
     ]
@@ -108,13 +72,85 @@
     ]
   },
   {
-    "language": "Bengali",
+    "language": "Kurdish",
     "graphics": [
       {
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Bengali/Bengali infographic.png"
+          "src": "graphics/Kurdish/Slide1.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Lithuanian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Lithuanian/Coronavirus Lithuaninan infographic.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Malayalam",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Malayalam/COVID Outreach Final Poster Malayalam.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Mandarin (Simplified)",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Mandarin (Simplified)/Slide1.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Polish",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Polish/COVID Outreach Polish.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Tamil",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Tamil/Slide1.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Turkish",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Turkish/Slide1.PNG"
         }
       }
     ]
@@ -139,42 +175,6 @@
           "name": "Overview",
           "translation": "",
           "src": "graphics/Vietnamese/Vietnamese infographic.png"
-        }
-      }
-    ]
-  },
-  {
-    "language": "Bulgarian",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "translation": "",
-          "src": "graphics/Bulgarian/Slide1.PNG"
-        }
-      }
-    ]
-  },
-  {
-    "language": "German",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "translation": "",
-          "src": "graphics/German/Slide1.png"
-        }
-      }
-    ]
-  },
-  {
-    "language": "Kurdish",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "translation": "",
-          "src": "graphics/Kurdish/Slide1.PNG"
         }
       }
     ]

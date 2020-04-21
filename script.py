@@ -1,5 +1,6 @@
 import os
 import json
+import operator
 
 data = []
 for dir in os.listdir("graphics/"):
@@ -16,13 +17,13 @@ for dir in os.listdir("graphics/"):
                          }
                      ]}
             path = "graphics"+"/"+dir+"/"+file
-            path.strip()
-            os.rename("graphics"+"/"+dir+"/"+file,path)
+#             path.strip()
+#             os.rename("graphics"+"/"+dir+"/"+file,path)
             entry["language"] = dir
             entry["graphics"][0]["info"]["name"] = "Overview"
             entry["graphics"][0]["info"]["src"] = path
             data.append(entry)
-            print(path)
-        else:
-            print(file.split(".")[-1])
-print(json.dumps(data))
+
+t = sorted(data, key=lambda k: k['language'])
+# print(t)
+print(json.dumps(t))
