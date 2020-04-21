@@ -1,22 +1,74 @@
 [
   {
+    "language": "Lithuanian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Lithuanian/Coronavirus Lithuaninan infographic.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Tamil",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Tamil/Slide1.png"
+        }
+      }
+    ]
+  },
+  {
     "language": "English",
     "graphics": [
       {
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": " graphics/english.png"
-        }
-      },
-      {
-        "info": {
-          "name": "AName",
-          "translation": "",
-          "src": "src of image.png"
+          "src": "English/Slide1.png"
         }
       }
-
+    ]
+  },
+  {
+    "language": "Turkish",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Turkish/Slide1.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Polish",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Polish/COVID Outreach Polish.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Malayalam",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Malayalam/COVID Outreach Final Poster Malayalam.PNG"
+        }
+      }
     ]
   },
   {
@@ -25,18 +77,118 @@
       {
         "info": {
           "name": "Overview",
-          "translation": "نظرة عامة",
-          "src": " /graphics/english.png"
+          "translation": "",
+          "src": "Arabic/image.png"
         }
-      },
+      }
+    ]
+  },
+  {
+    "language": "Mandarin (Simplified)",
+    "graphics": [
       {
         "info": {
-          "name": "AName",
-          "translation": "نظرة",
-          "src": "src of image.png"
+          "name": "Overview",
+          "translation": "",
+          "src": "Mandarin (Simplified)/Slide1.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Hebrew",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Hebrew/Slide1.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Bengali",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Bengali/Bengali infographic.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Urdu",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Urdu/Urdu infographic.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Vietnamese",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Vietnamese/Vietnamese infographic.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Bulgarian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Bulgarian/Slide1.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "German",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "German/Slide1.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Kurdish",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Kurdish/Slide1.PNG"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Yoruba",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "Yoruba/Slide1.PNG"
         }
       }
     ]
   }
 ]
-

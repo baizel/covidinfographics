@@ -22,11 +22,11 @@ function populate(arr) {
 
 function showInfos() {
     let indx = $("#lanSel").val();
-    let val = data[indx].graphics;
+    let val = data[indx];
 
     $("#allGraphics").text("");
-    val.forEach(function (ele, indx) {
+    val.graphics.forEach(function (ele, indx) {
         console.log(ele);
-        $("#allGraphics").append('<li><a href="' +ele.info.src+'">'+ ele.info.name +' (' + ele.info.translation +')</a></li>');
+        $("#allGraphics").append('<li  class="collection-item"><a href="' +ele.info.src+'">'+ ele.info.name +' ( in ' + val.language +')</a></li>');
     })
 }

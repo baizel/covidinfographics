@@ -1,6 +1,15 @@
 <!doctype html>
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135027670-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-135027670-3');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title> Covid-19 infographics </title>
@@ -9,26 +18,16 @@
 
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
+    <style>
+        .select-dropdown.dropdown-trigger {
+            color: white;
+        }
+    </style>
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135027670-2"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-
-        gtag('js', new Date());
-
-        gtag('config', 'UA-135027670-2');
-    </script>
-
 </head>
 <body class="grey darken-3 white-text">
 <div class="container">
@@ -43,9 +42,9 @@
     </div>
     <h5 class="center">Info Graphics</h5>
     <div class="center row">
-        <div class="col s12">
-            <ul id="allGraphics">
-                <li class="red-text">Please select a language first</li>
+        <div class="col offset-m3 s12 m6 offset-m3">
+            <ul id="allGraphics" class="collection">
+                <li class="red-text collection-item">Please select a language first</li>
             </ul>
         </div>
     </div>

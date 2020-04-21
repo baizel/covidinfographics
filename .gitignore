@@ -1,0 +1,8 @@
+*.docx
+*.doc
+
+/.idea
+*.pptx
+*.pub
+*.pdf
+*.jpg
