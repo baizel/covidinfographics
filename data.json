@@ -6,7 +6,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Lithuanian/Coronavirus Lithuaninan infographic.PNG"
+          "src": "graphics/Lithuanian/Coronavirus Lithuaninan infographic.PNG"
         }
       }
     ]
@@ -18,7 +18,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Tamil/Slide1.png"
+          "src": "graphics/Tamil/Slide1.png"
         }
       }
     ]
@@ -30,7 +30,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "English/Slide1.png"
+          "src": "graphics/English/Slide1.png"
         }
       }
     ]
@@ -42,7 +42,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Turkish/Slide1.PNG"
+          "src": "graphics/Turkish/Slide1.PNG"
         }
       }
     ]
@@ -54,7 +54,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Polish/COVID Outreach Polish.PNG"
+          "src": "graphics/Polish/COVID Outreach Polish.PNG"
         }
       }
     ]
@@ -66,7 +66,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Malayalam/COVID Outreach Final Poster Malayalam.PNG"
+          "src": "graphics/Malayalam/COVID Outreach Final Poster Malayalam.PNG"
         }
       }
     ]
@@ -78,7 +78,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Arabic/image.png"
+          "src": "graphics/Arabic/image.png"
         }
       }
     ]
@@ -90,7 +90,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Mandarin (Simplified)/Slide1.PNG"
+          "src": "graphics/Mandarin (Simplified)/Slide1.PNG"
         }
       }
     ]
@@ -102,7 +102,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Hebrew/Slide1.PNG"
+          "src": "graphics/Hebrew/Slide1.PNG"
         }
       }
     ]
@@ -114,7 +114,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Bengali/Bengali infographic.png"
+          "src": "graphics/Bengali/Bengali infographic.png"
         }
       }
     ]
@@ -126,7 +126,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Urdu/Urdu infographic.png"
+          "src": "graphics/Urdu/Urdu infographic.png"
         }
       }
     ]
@@ -138,7 +138,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Vietnamese/Vietnamese infographic.png"
+          "src": "graphics/Vietnamese/Vietnamese infographic.png"
         }
       }
     ]
@@ -150,7 +150,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Bulgarian/Slide1.PNG"
+          "src": "graphics/Bulgarian/Slide1.PNG"
         }
       }
     ]
@@ -162,7 +162,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "German/Slide1.png"
+          "src": "graphics/German/Slide1.png"
         }
       }
     ]
@@ -174,7 +174,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Kurdish/Slide1.PNG"
+          "src": "graphics/Kurdish/Slide1.PNG"
         }
       }
     ]
@@ -186,7 +186,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "Yoruba/Slide1.PNG"
+          "src": "graphics/Yoruba/Slide1.PNG"
         }
       }
     ]
