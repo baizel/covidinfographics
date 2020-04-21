@@ -29,4 +29,12 @@ function showInfos() {
         console.log(ele);
         $("#allGraphics").append('<li  class="collection-item"><a href="' +ele.info.src+'">'+ ele.info.name +' ( in ' + val.language +')</a></li>');
     })
+
+    $("#language_selection").css("opacity", "0.5");
+    $("#infographic_selection").css("visibility", "visible");
+}
+
+function resetSelection() {
+    $("#language_selection").css("opacity", "1.0");
+    $("#infographic_selection").css("visibility", "hidden");
 }

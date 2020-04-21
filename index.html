@@ -1,6 +1,9 @@
 <!doctype html>
 <html>
+
 <head>
+    <!-- === Begin 3rd party dependencies === -->
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135027670-3"></script>
     <script>
@@ -10,14 +13,28 @@
 
         gtag('config', 'UA-135027670-3');
     </script>
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- Compiled and minified jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+    <!-- === End 3rd party dependencies === -->
+
+    <!-- Logic -->
+    <script src="./js/script.js" rel="script"></script>
+
+    <!-- Metadata -->
+    <title>Covid-19 infographics</title>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Covid-19 infographics </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- Style -->
     <style>
         .select-dropdown.dropdown-trigger {
             color: white;
@@ -31,52 +48,58 @@
         main {
             flex: 1 0 auto;
         }
-    </style>
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
-    <!-- Material Icons -->
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        h1 {
+            opacity: 0.5;
+        }
+    </style>
 </head>
+
+<!-- === Begin Content === -->
+
 <main class="grey darken-3 white-text">
 <div class="container">
-    <div class="row white-text">
-        <h1 class="col s12 center">Covid-19 Infographics</h1>
-        <div class="input-field col offset-m3 s12 m6 offset-m3 center white-text">
+
+    <h1 class="col s12 center">Covid-19 Infographics</h1>
+
+    <div class="center row" id="language_selection">
+        <h5>Step 1: Select your language below</h5>
+        <div class="input-field col offset-m3 s12 m6 offset-m3 center white-text" onclick="resetSelection()">
             <select id="lanSel" class="white-text grey darken-2" onchange="showInfos()">
-                <option class="white-text" value="" disabled selected>Choose a Language</option>
+                <option class="white-text" value="" disabled selected>Click here to choose a language</option>
             </select>
-            <label class="white-text">Please Select A Language</label>
         </div>
     </div>
-    <h5 class="center">Info Graphics</h5>
-    <div class="center row">
+
+    <div class="center row" id="infographic_selection" style="visibility: hidden;">
+        <h5>Step 2: Select an infographic</h5>
         <div class="col offset-m3 s12 m6 offset-m3">
             <ul id="allGraphics" class="collection">
                 <li class="red-text collection-item">Please select a language first</li>
             </ul>
         </div>
     </div>
+
 </div>
-<!-- Scripts -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="js/script.js" rel="script"></script>
+
 </main>
 <footer class="page-footer grey darken-2">
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="white-text">Made by Volunters</h5>
+                <h5 class="white-text">Made by Volunteers</h5>
                 <p class="grey-text text-lighten-4">Patients from ethnic minorities are disproportionately affected by
                     Covid-19. As a group of doctors, medical students and volunteers,
                     we’ve created infographics to help summarise key points about Covid-19 in a variety of languages
                     to reach communities.</p>
+                <a class="grey-text text-lighten-1" href="https://baizel.dev">Developer site</a>
             </div>
             <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
-                    <li><a class="grey-text text-lighten-3" href="https://www.facebook.com/COVID2019Infographics">Facebook</a></li>
-                    <li><a class="grey-text text-lighten-1" href="https://baizel.dev">Developer site</a></li>
+                    <li><a class="grey-text text-lighten-1" href="https://www.facebook.com/COVID2019Infographics">Covid Infographics Facebook</a></li>
+                    </br>
+                    <li><a class="grey-text text-lighten-1" href="https://www.nhs.uk/conditions/coronavirus-covid-19/">NHS Covid-19 Advice</a></li>
                 </ul>
             </div>
         </div>
@@ -87,4 +110,7 @@
         </div>
     </div>
 </footer>
+
+<!-- === End Content === -->
+
 </html>
