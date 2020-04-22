@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 
 <head>
     <!-- === Begin 3rd party dependencies === -->
@@ -8,7 +8,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135027670-3"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-135027670-3');
@@ -39,6 +43,7 @@
         .select-dropdown.dropdown-trigger {
             color: white;
         }
+
         body {
             display: flex;
             min-height: 100vh;
@@ -58,29 +63,30 @@
 <!-- === Begin Content === -->
 
 <main class="grey darken-3 white-text">
-<div class="container">
 
-    <h1 class="col s12 center">Covid-19 Infographics</h1>
+    <div class="container">
 
-    <div class="center row" id="language_selection">
-        <h5>Step 1: Select your language below</h5>
-        <div class="input-field col offset-m3 s12 m6 offset-m3 center white-text" onclick="resetSelection()">
-            <select id="lanSel" class="white-text grey darken-2" onchange="showInfos()">
-                <option class="white-text" value="" disabled selected>Click here to choose a language</option>
-            </select>
+        <h1 class="col s12 center">Covid-19 Infographics</h1>
+        <br>
+        <div class="center row" id="language_selection">
+            <h5>Step 1: Select your language below</h5>
+            <div class="input-field col offset-m3 s12 m6 offset-m3 center white-text" onclick="resetSelection()">
+                <select id="lanSel" class="white-text grey darken-2" onchange="showInfos()">
+                    <option class="white-text" value="" disabled selected>Click here to choose a language</option>
+                </select>
+            </div>
         </div>
-    </div>
 
-    <div class="center row" id="infographic_selection" style="visibility: hidden;">
-        <h5>Step 2: Select an infographic</h5>
-        <div class="col offset-m3 s12 m6 offset-m3">
-            <ul id="allGraphics" class="collection">
-                <li class="red-text collection-item">Please select a language first</li>
-            </ul>
+        <div class="center row" id="infographic_selection" style="visibility: hidden;">
+            <h5>Step 2: Select an infographic</h5>
+            <div class="col offset-m3 s12 m6 offset-m3">
+                <ul id="allGraphics" class="collection">
+                    <li class="red-text collection-item">Please select a language first</li>
+                </ul>
+            </div>
         </div>
-    </div>
 
-</div>
+    </div>
 
 </main>
 <footer class="page-footer grey darken-2">
@@ -99,9 +105,11 @@
             <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
-                    <li><a class="grey-text text-lighten-1" href="https://www.facebook.com/COVID2019Infographics">Covid Infographics Facebook</a></li>
+                    <li><a class="grey-text text-lighten-1" href="https://www.facebook.com/COVID2019Infographics">Covid
+                        Infographics Facebook</a></li>
                     </br>
-                    <li><a class="grey-text text-lighten-1" href="https://www.nhs.uk/conditions/coronavirus-covid-19/">NHS Covid-19 Advice</a></li>
+                    <li><a class="grey-text text-lighten-1" href="https://www.nhs.uk/conditions/coronavirus-covid-19/">NHS
+                        Covid-19 Advice</a></li>
                 </ul>
             </div>
         </div>
