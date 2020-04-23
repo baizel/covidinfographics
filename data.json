@@ -6,7 +6,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Arabic/image.png"
+          "src": "graphics/Arabic/Overview/COVID Outreach Arabic Final.png"
         }
       }
     ]
@@ -18,7 +18,19 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Bengali/Bengali infographic.png"
+          "src": "graphics/Bengali/Overview/Bengali infographic.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Bengali",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Bengali/Overview/COVID Outreach Arabic Final.png"
         }
       }
     ]
@@ -30,7 +42,31 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Bulgarian/Slide1.PNG"
+          "src": "graphics/Bulgarian/Overview/graphics/Bulgarian/Overview/Slide1.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Bulgarian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Bulgarian/Overview/COVID Outreach Arabic Final.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Chinese",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Chinese/Overview/Slide1.png"
         }
       }
     ]
@@ -42,7 +78,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/English/Slide1.png"
+          "src": "graphics/English/Overview/Slide1.png"
         }
       }
     ]
@@ -54,7 +90,19 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/German/Slide1.png"
+          "src": "graphics/German/Overview/Slide1.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Gujurati",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Gujurati/Overview/graphics/Gujurati/Overview/Slide1.png"
         }
       }
     ]
@@ -66,7 +114,31 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Hebrew/Slide1.PNG"
+          "src": "graphics/Hebrew/Overview/graphics/Hebrew/Overview/Slide1.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Japanese",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Japanese/Overview/graphics/Japanese/Overview/Slide1.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Korean",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Korean/Overview/graphics/Korean/Overview/Slide1.png"
         }
       }
     ]
@@ -78,7 +150,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Kurdish/Slide1.PNG"
+          "src": "graphics/Kurdish/Overview/graphics/Kurdish/Overview/Slide1.png"
         }
       }
     ]
@@ -90,7 +162,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Lithuanian/Coronavirus Lithuaninan infographic.PNG"
+          "src": "graphics/Lithuanian/Overview/graphics/Lithuanian/Overview/Coronavirus Lithuaninan infographic.png"
         }
       }
     ]
@@ -102,19 +174,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Malayalam/COVID Outreach Final Poster Malayalam.PNG"
-        }
-      }
-    ]
-  },
-  {
-    "language": "Mandarin (Simplified)",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "translation": "",
-          "src": "graphics/Mandarin (Simplified)/Slide1.PNG"
+          "src": "graphics/Malayalam/Overview/graphics/Malayalam/Overview/COVID Outreach Final Poster Malayalam.png"
         }
       }
     ]
@@ -126,7 +186,19 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Polish/COVID Outreach Polish.PNG"
+          "src": "graphics/Polish/Overview/graphics/Polish/Overview/COVID Outreach Polish.png"
+        }
+      }
+    ]
+  },
+  {
+    "language": "Swedish",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "translation": "",
+          "src": "graphics/Swedish/Overview/graphics/Swedish/Overview/Slide1.png"
         }
       }
     ]
@@ -138,7 +210,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Tamil/Slide1.png"
+          "src": "graphics/Tamil/Overview/Slide1.png"
         }
       }
     ]
@@ -150,7 +222,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Turkish/Slide1.PNG"
+          "src": "graphics/Turkish/Overview/graphics/Turkish/Overview/Slide1.png"
         }
       }
     ]
@@ -162,7 +234,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Urdu/Urdu infographic.png"
+          "src": "graphics/Urdu/Overview/Urdu infographic.png"
         }
       }
     ]
@@ -174,7 +246,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Vietnamese/Vietnamese infographic.png"
+          "src": "graphics/Vietnamese/Overview/Vietnamese infographic.png"
         }
       }
     ]
@@ -186,7 +258,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Yoruba/Slide1.PNG"
+          "src": "graphics/Yoruba/Overview/graphics/Yoruba/Overview/Slide1.png"
         }
       }
     ]

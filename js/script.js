@@ -27,7 +27,7 @@ function showInfos() {
     $("#allGraphics").text("");
     val.graphics.forEach(function (ele, indx) {
         console.log(ele);
-        $("#allGraphics").append('<li  class="collection-item"><a href="' +ele.info.src+'">'+ ele.info.name +' ( in ' + val.language +')</a></li>');
+        $("#allGraphics").append('<li  class="collection-item"><a href="' +ele.info.src+'">'+ ele.info.name +' (in ' + val.language +')</a></li>');
     })
 
     $("#language_selection").css("opacity", "0.5");
