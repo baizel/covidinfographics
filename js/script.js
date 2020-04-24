@@ -38,7 +38,7 @@ function showInfos() {
             '                    </li>'
         $("#allGraphics").append(htmlstr);
         //TODO: Decide which one should bne shared
-        setShareLinks(window.location.hostname + "/" + ele.info.src, "COVID-19 information in " + val.language)
+        setShareLinks("https://"+window.location.hostname + "/" + ele.info.src, "COVID-19 information in " + val.language)
     })
     // $("#language_selection").css("opacity", "0.5");
     // $("#infographic_selection").css("visibility", "visible");
@@ -55,10 +55,10 @@ function setShareLinks(url, txt) {
     let twitter = "https://twitter.com/intent/tweet/?text=" + txt + "&amp;url=" + url;
     let mail = "mailto:?subject=" + txt + "&amp;body=" + url;
 
-    document.getElementById("facebookSocial").href = facebook;
-    document.getElementById("twitterSocial").href = twitter;
-    document.getElementById("mailSocial").href = mail;
-    document.getElementById("whatsappSocial").href = whatsApp;
+    document.getElementById("facebookSocial").href = encodeURI(facebook);
+    document.getElementById("twitterSocial").href = encodeURI(twitter);
+    document.getElementById("mailSocial").href = encodeURI(mail);
+    document.getElementById("whatsappSocial").href = encodeURI(whatsApp);
 
 
 }
