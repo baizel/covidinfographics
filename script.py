@@ -4,12 +4,16 @@ from shutil import move
 
 
 def renameToPng(path):
+    rt = path
     if path.endswith("PNG"):
         fileName = path.split(".")[0]
         move(fileName + ".PNG", fileName + ".png")
         print("renamed file ", path)
-        return fileName + ".png"
-    return file
+        rt = fileName + ".png"
+    org = rt
+    striped = rt.replace(" ","")
+    move(org,striped)
+    return striped
 
 
 data = []
