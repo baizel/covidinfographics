@@ -11,8 +11,8 @@ def renameToPng(path):
         print("renamed file ", path)
         rt = fileName + ".png"
     org = rt
-    striped = rt.replace(" ","")
-    move(org,striped)
+    striped = rt.replace(" ", "")
+    move(org, striped)
     return striped
 
 
@@ -23,22 +23,18 @@ for dir in os.listdir("graphics/"):
             for file in os.listdir("graphics/" + dir + "/" + subDir):
                 if file.endswith("png") or file.endswith("PNG"):
                     reNamed = renameToPng("graphics" + "/" + dir + "/" + subDir + "/" + file)
-                    entry = {"language": "",
-                             "graphics": [
-                                 {
-                                     "info": {
-                                         "name": "",
-                                         "translation": "",
-                                         "src": ""
-                                     }
-                                 }
-                             ]}
-                    path = "graphics" + "/" + dir + "/" + subDir + "/" + reNamed
-                    #             path.strip()
-                    #             os.rename("graphics"+"/"+dir+"/"+file,path)
-                    entry["language"] = dir
+                    entry = {"language": dir, "graphics": [
+                        {
+                            "info": {
+                                "name": "",
+                                "translation": "",
+                                "src": ""
+                            }
+                        }
+                    ]}
+
                     entry["graphics"][0]["info"]["name"] = subDir
-                    entry["graphics"][0]["info"]["src"] = path
+                    entry["graphics"][0]["info"]["src"] = reNamed
                     data.append(entry)
 
 t = sorted(data, key=lambda k: k['language'])

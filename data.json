@@ -6,7 +6,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Arabic/Overview/graphics/Arabic/Overview/COVIDOutreachArabicFinal.png"
+          "src": "graphics/Arabic/Overview/COVIDOutreachArabicFinal.png"
         }
       }
     ]
@@ -18,7 +18,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Bengali/Overview/graphics/Bengali/Overview/Bengaliinfographic.png"
+          "src": "graphics/Bengali/Overview/Bengaliinfographic.png"
         }
       }
     ]
@@ -30,7 +30,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Bulgarian/Overview/graphics/Bulgarian/Overview/Slide1.png"
+          "src": "graphics/Bulgarian/Overview/Slide1.png"
         }
       }
     ]
@@ -42,7 +42,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Chinese/Overview/graphics/Chinese/Overview/Slide1.png"
+          "src": "graphics/Chinese/Overview/Slide1.png"
         }
       }
     ]
@@ -54,7 +54,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/English/Overview/graphics/English/Overview/Slide1.png"
+          "src": "graphics/English/Overview/Slide1.png"
         }
       }
     ]
@@ -66,7 +66,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/German/Overview/graphics/German/Overview/Slide1.png"
+          "src": "graphics/German/Overview/Slide1.png"
         }
       }
     ]
@@ -78,7 +78,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Gujurati/Overview/graphics/Gujurati/Overview/Slide1.png"
+          "src": "graphics/Gujurati/Overview/Slide1.png"
         }
       }
     ]
@@ -90,7 +90,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Hebrew/Overview/graphics/Hebrew/Overview/Slide1.png"
+          "src": "graphics/Hebrew/Overview/Slide1.png"
         }
       }
     ]
@@ -102,7 +102,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Japanese/Overview/graphics/Japanese/Overview/Slide1.png"
+          "src": "graphics/Japanese/Overview/Slide1.png"
         }
       }
     ]
@@ -114,7 +114,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Korean/Overview/graphics/Korean/Overview/Slide1.png"
+          "src": "graphics/Korean/Overview/Slide1.png"
         }
       }
     ]
@@ -126,7 +126,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Kurdish/Overview/graphics/Kurdish/Overview/Slide1.png"
+          "src": "graphics/Kurdish/Overview/Slide1.png"
         }
       }
     ]
@@ -138,7 +138,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Lithuanian/Overview/graphics/Lithuanian/Overview/CoronavirusLithuaninaninfographic.png"
+          "src": "graphics/Lithuanian/Overview/CoronavirusLithuaninaninfographic.png"
         }
       }
     ]
@@ -150,7 +150,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Malayalam/Overview/graphics/Malayalam/Overview/COVIDOutreachFinalPosterMalayalam.png"
+          "src": "graphics/Malayalam/Overview/COVIDOutreachFinalPosterMalayalam.png"
         }
       }
     ]
@@ -162,7 +162,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Polish/Overview/graphics/Polish/Overview/COVIDOutreachPolish.png"
+          "src": "graphics/Polish/Overview/COVIDOutreachPolish.png"
         }
       }
     ]
@@ -174,7 +174,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Swedish/Overview/graphics/Swedish/Overview/Slide1.png"
+          "src": "graphics/Swedish/Overview/Slide1.png"
         }
       }
     ]
@@ -186,7 +186,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Tamil/Overview/graphics/Tamil/Overview/Slide1.png"
+          "src": "graphics/Tamil/Overview/Slide1.png"
         }
       }
     ]
@@ -198,7 +198,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Turkish/Overview/graphics/Turkish/Overview/Slide1.png"
+          "src": "graphics/Turkish/Overview/Slide1.png"
         }
       }
     ]
@@ -210,7 +210,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Urdu/Overview/graphics/Urdu/Overview/Urduinfographic.png"
+          "src": "graphics/Urdu/Overview/Urduinfographic.png"
         }
       }
     ]
@@ -222,7 +222,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Vietnamese/Overview/graphics/Vietnamese/Overview/Vietnameseinfographic.png"
+          "src": "graphics/Vietnamese/Overview/Vietnameseinfographic.png"
         }
       }
     ]
@@ -234,7 +234,7 @@
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Yoruba/Overview/graphics/Yoruba/Overview/Slide1.png"
+          "src": "graphics/Yoruba/Overview/Slide1.png"
         }
       }
     ]
