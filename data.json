@@ -36,13 +36,13 @@
     ]
   },
   {
-    "language": "Chinese",
+    "language": "Chinese (Simplified)",
     "graphics": [
       {
         "info": {
           "name": "Overview",
           "translation": "",
-          "src": "graphics/Chinese/Overview/Slide1.png"
+          "src": "graphics/Chinese (Simplified)/Overview/Slide1.png"
         }
       }
     ]

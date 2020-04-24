@@ -10,10 +10,12 @@ def renameToPng(path):
         move(fileName + ".PNG", fileName + ".png")
         print("renamed file ", path)
         rt = fileName + ".png"
-    org = rt
-    striped = rt.replace(" ", "")
-    move(org, striped)
-    return striped
+    split = rt.split("/")
+    orgFile = split[-1]
+    striped = split[-1].replace(" ", "")
+    split.pop(-1)
+    move("/".join(split + [orgFile]), "/".join(split + [striped]))
+    return "/".join(split + [striped])
 
 
 data = []
