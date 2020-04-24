@@ -27,14 +27,15 @@ function showInfos() {
     $("#allGraphics").text("");
     val.graphics.forEach(function (ele, indx) {
         console.log(ele);
-        $("#allGraphics").append('<li  class="collection-item"><a href="' +ele.info.src+'">'+ ele.info.name +' (in ' + val.language +')</a></li>');
+        $("#allGraphics").append('<a class="collection-item" href="' +ele.info.src+'">'+ ele.info.name +' (in ' + val.language +')</a>');
     })
 
-    $("#language_selection").css("opacity", "0.5");
-    $("#infographic_selection").css("visibility", "visible");
+    $("#card1Container").removeClass("offset-m3");
+
+    $("#language_selection").css("opacity", "0.3");
+    $("#infographic_selection").removeClass("scale-out");
 }
 
 function resetSelection() {
     $("#language_selection").css("opacity", "1.0");
-    $("#infographic_selection").css("visibility", "hidden");
 }
