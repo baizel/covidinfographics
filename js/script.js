@@ -52,8 +52,8 @@ function resetSelection() {
 function setShareLinks(url, txt) {
     let facebook = "https://facebook.com/sharer/sharer.php?u=" + url;
     let whatsApp = "whatsapp://send?text=" + txt + "%20" + url;
-    let twitter = "https://twitter.com/intent/tweet/?text=" + txt + "&amp;url=" + url;
-    let mail = "mailto:?subject=" + txt + "&amp;body=" + url;
+    let twitter = "https://twitter.com/intent/tweet/?text=" + txt + "&url=" + url;
+    let mail = "mailto:?subject=" + txt + "&body=" + url;
 
     document.getElementById("facebookSocial").href = encodeURI(facebook);
     document.getElementById("twitterSocial").href = encodeURI(twitter);
