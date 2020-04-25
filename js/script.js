@@ -46,6 +46,7 @@ function showInfos() {
 }
 
 function resetSelection() {
+    document.getElementById("card2Container").style.position = "";
     $("#language_selection").css("opacity", "1.0");
 }
 
