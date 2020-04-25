@@ -4,12 +4,18 @@ from shutil import move
 
 
 def renameToPng(path):
+    rt = path
     if path.endswith("PNG"):
         fileName = path.split(".")[0]
         move(fileName + ".PNG", fileName + ".png")
         print("renamed file ", path)
-        return fileName + ".png"
-    return file
+        rt = fileName + ".png"
+    split = rt.split("/")
+    orgFile = split[-1]
+    striped = split[-1].replace(" ", "")
+    split.pop(-1)
+    move("/".join(split + [orgFile]), "/".join(split + [striped]))
+    return "/".join(split + [striped])
 
 
 data = []
@@ -19,22 +25,18 @@ for dir in os.listdir("graphics/"):
             for file in os.listdir("graphics/" + dir + "/" + subDir):
                 if file.endswith("png") or file.endswith("PNG"):
                     reNamed = renameToPng("graphics" + "/" + dir + "/" + subDir + "/" + file)
-                    entry = {"language": "",
-                             "graphics": [
-                                 {
-                                     "info": {
-                                         "name": "",
-                                         "translation": "",
-                                         "src": ""
-                                     }
-                                 }
-                             ]}
-                    path = "graphics" + "/" + dir + "/" + subDir + "/" + reNamed
-                    #             path.strip()
-                    #             os.rename("graphics"+"/"+dir+"/"+file,path)
-                    entry["language"] = dir
+                    entry = {"language": dir, "graphics": [
+                        {
+                            "info": {
+                                "name": "",
+                                "translation": "",
+                                "src": ""
+                            }
+                        }
+                    ]}
+
                     entry["graphics"][0]["info"]["name"] = subDir
-                    entry["graphics"][0]["info"]["src"] = path
+                    entry["graphics"][0]["info"]["src"] = reNamed
                     data.append(entry)
 
 t = sorted(data, key=lambda k: k['language'])
