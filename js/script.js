@@ -36,15 +36,12 @@ function showInfos() {
             '                            </a>\n' +
             '                        </div>\n' +
             '                    </li>'
-        // TODO: Add download button
         $("#allGraphics").append(htmlstr);
         //TODO: Decide which one should bne shared
         setShareLinks("https://" + window.location.hostname + "/" + ele.info.src, "COVID-19 information in " + val.language)
     })
 
-    $("#card1Container").removeClass("offset-m3");
-
-    $("#language_selection").css("opacity", "0.3");
+    $("#language_selection").css("opacity", "0.7");
     $("#infographic_selection").removeClass("scale-out");
 }
 

@@ -78,22 +78,29 @@
         }
 
         .select-dropdown.dropdown-trigger {
-            color: black;
+            color: #00838f;
         }
 
         .card-title {
             font-weight: 400;
         }
 
-        /* Allow Scrollbar, limit height */
+        /* Allow Scrollbar, limit height 
         .select-dropdown {
             max-height: 50vh;
             overflow-y: auto !important;
         }
+        */
 
         .select-wrapper input.select-dropdown,
         .select-wrapper input.select-dropdown:focus {
-            border: none;
+            background-color: white;
+            border-radius: 3px;
+            border: 1px solid #e0e0e0;
+        }
+
+        .select-wrapper input.select-dropdown:hover {
+            background-color: #fafafa;
         }
 
         .dropdown-content li > a, .dropdown-content li > span {
@@ -120,6 +127,9 @@
             height: 1em;
         }
 
+        nav {
+            border-bottom: 3px solid #d50000;
+        }
     </style>
 </head>
 
@@ -128,22 +138,6 @@
 <nav class="cyan darken-2">
     <div class="brand-logo center">Covid-19 Infographics</div>
 </nav>
-<!--<nav>-->
-<!--    <div class="nav-wrapper red accent-4">-->
-<!--        <a href="#" data-target="mobile-menu" class="sidenav-trigger"><i class="material-icons">menu</i></a>-->
-<!--        <ul class="right hide-on-med-and-down">-->
-<!--            <li><a href="https://www.nhs.uk/conditions/coronavirus-covid-19">NHS Advice</a></li>-->
-<!--            <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization (WHO)</a></li>-->
-<!--            <li><a href="https://www.nice.org.uk/covid-19"> National Institute for Health and Care Excellence (NICE)</a></li>-->
-<!--        </ul>-->
-<!--    </div>-->
-<!--</nav>-->
-
-<!--<ul class="sidenav" id="mobile-menu">-->
-<!--    <li><a href="https://www.nhs.uk/conditions/coronavirus-covid-19">NHS Advice</a></li>-->
-<!--    <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization (WHO)</a></li>-->
-<!--    <li><a href="https://www.nice.org.uk/covid-19"> National Institute for Health and Care Excellence (NICE)</a></li>-->
-<!--</ul>-->
 
 <main class="white">
 
@@ -163,7 +157,7 @@
             </div>
         </div>
 
-        <div id="card1Container" class="col s12 m6 ">
+        <div id="card1Container" class="col s12 m6">
             <div class="card grey lighten-4" id="language_selection">
                 <div class="card-content">
                     <span class="card-title cyan-text text-darken-2">Step 1</span>
