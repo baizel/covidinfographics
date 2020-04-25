@@ -1,6 +1,16 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/html">
 
+<!--
+    Colour Palette:
+    Colour  | Hex       | Materialize
+    --------+-----------+--------------
+    Red     | #d50000   | red accent-4
+    Cyan    | #0097a7   | cyan darken-2
+    White   | #ffffff   | white
+    Black   | #000000   | black
+-->
+
 <head>
     <!-- === Begin 3rd party dependencies === -->
 
@@ -17,13 +27,14 @@
 
         gtag('config', 'UA-135027670-3');
     </script>
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <link rel="stylesheet" href="css/social.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Compiled and minified jquery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -38,7 +49,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1 minimum-scale=1.0, maximum-scale=1.0">
 
     <!-- Style -->
     <style>
@@ -46,8 +57,53 @@
             color: #00838f;
         }
 
+        .sidenav li > a {
+            white-space: nowrap;
+        }
+
+        .card .card-action > a {
+            color: #d50000 !important;
+        }
+
+        .card .card-action > a:hover {
+            color: #ef9a9a !important;
+        }
+
+        a.graphic-link, a.graphic-download {
+            color: #00838f;
+        }
+
+        a.graphic-link:hover, a.graphic-download:hover {
+            color: #26c6da;
+        }
+
         .select-dropdown.dropdown-trigger {
-            color: black;
+            color: #00838f;
+        }
+
+        .card-title {
+            font-weight: 400;
+        }
+
+        /* Allow Scrollbar, limit height   */
+        .select-dropdown {
+            max-height: 50vh;
+            overflow-y: auto !important;
+        }
+
+        .select-wrapper input.select-dropdown,
+        .select-wrapper input.select-dropdown:focus {
+            background-color: white;
+            border-radius: 3px;
+            border: 1px solid #e0e0e0;
+        }
+
+        .select-wrapper input.select-dropdown:hover {
+            background-color: #fafafa;
+        }
+
+        .dropdown-content li > a, .dropdown-content li > span {
+            color: #0097a7;
         }
 
         body {
@@ -58,187 +114,148 @@
 
         main {
             flex: 1 0 auto;
+            padding: 10px;
         }
 
-        h1 {
-            opacity: 0.5;
+        #card1Container, #card2Container {
+            transition-duration: 0.5s;
+            transition-timing-function: linear;
+        }
+
+        .img-icon {
+            height: 1em;
+        }
+
+        nav {
+            border-bottom: 3px solid #d50000;
         }
     </style>
 </head>
 
 <!-- === Begin Content === -->
 
+<nav class="cyan darken-2">
+    <div class="brand-logo center">Covid-19 Infographics</div>
+</nav>
+
 <main class="white">
-    <!----- nav bar and mobile ----->
-    <nav>
-        <div class="nav-wrapper cyan darken-2">
-            <!--            <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>-->
-            <ul class="right hide-on-med-and-down">
-                <li><a href="https://www.nhs.uk/conditions/coronavirus-covid-19">NHS Advice</a></li>
-                <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization
-                    (WHO)</a></li>
-                <li><a href="https://www.nice.org.uk/covid-19"> National Institute for Health and Care Excellence
-                    (NICE)</a></li>
-            </ul>
-        </div>
-    </nav>
-    <!--    <ul class="sidenav" id="mobile-demo">-->
-    <!--        <li><a href="#">Useful Links</a>-->
-    <!--        </li>-->
-    <!--        <li><a href="https://www.nhs.uk/conditions/coronavirus-covid-19">NHS COVID 19 Advice</a></li>-->
-    <!--        <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organisation (WHO)-->
-    <!--            Advice</a></li>-->
-    <!--        <li><a href=""> National Institute for Health and Care Excellence</a></li>-->
-    <!--    </ul>-->
-    <!----- End nav bar and mobile ----->
 
-    <div class="container">
-        <h1 class="col s12 center cyan-text text-darken-3">COVID-19 Infographics</h1>
-        <br>
-        <div class="center row" id="language_selection">
-            <h5>Step 1: Select your language below</h5>
-            <div class="input-field col offset-m3 s12 m6 offset-m3 center white-text">
-                <select id="lanSel" class="white-text grey darken-2" onchange="showInfos()">
-                    <option class="white-text" value="" disabled selected>Click here to choose a language</option>
-                </select>
-            </div>
-        </div>
-        </br>
-        <div class="center row" id="infographic_selection">
-            <h5>Step 2: Save or View Infographic</h5>
-            <div class="col offset-m3 s12 m6 offset-m3">
-                <ul id="allGraphics" class="collection">
-                    <li class="collection-item">
-                        <div class="red-text">Please Select a language first
-                            <a href="#!" class="secondary-content" style="visibility: hidden">
-                                <i class="material-icons ">file_download</i>
-                            </a>
-                        </div>
-                    </li>
-                </ul>
+    <div class="container row">
+
+        <div class="col s12 m12">
+            <div class="card grey lighten-4">
+                <div class="card-content">
+                    <span class="card-title cyan-text text-darken-2">About</span>
+                    <p>Patients from ethnic minorities are disproportionately affected by
+                        Covid-19. As a group of doctors, medical students and volunteers,
+                        we’ve created infographics to help summarise key points about Covid-19 in a variety of languages
+                        to reach communities.</p>
+                    <br/>
+                    <p>Follow the steps below to view or download an infographic in your preferred langauge.</p>
+                </div>
             </div>
         </div>
 
-        <div class="center row" id="share">
-            <h5>Step 3: Share info graphics with friends and family</h5>
-            <div class="container">
-                <!-- Sharingbutton Facebook -->
-                <a id="facebookSocial" class="resp-sharing-button__link" href=""
-                   target="_blank" rel="noopener" aria-label="">
-                    <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small">
-                        <div aria-hidden="true"
-                             class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                                <path d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm3.6 11.5h-2.1v7h-3v-7h-2v-2h2V8.34c0-1.1.35-2.82 2.65-2.82h2.35v2.3h-1.4c-.25 0-.6.13-.6.66V9.5h2.34l-.24 2z"/>
-                            </svg>
-                        </div>
+        <div id="card1Container" class="col s12 m6">
+            <div class="card grey lighten-4" id="language_selection">
+                <div class="card-content">
+                    <span class="card-title cyan-text text-darken-2">Step 1</span>
+                    <p class="black-text">First, select your preferred language</p>
+                    <br/>
+                    <div onclick="resetSelection()">
+                        <select class="white materialSelect" id="lanSel" onchange="showInfos()">
+                            <option value="" disabled selected>Choose here...</option>
+                        </select>
                     </div>
-                </a>
+                </div>
+            </div>
+        </div>
 
-                <!-- Sharingbutton Twitter -->
-                <a id="twitterSocial" class="resp-sharing-button__link" href=""
-                   target="_blank" rel="noopener" aria-label="">
-                    <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small">
-                        <div aria-hidden="true"
-                             class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                                <path d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm5.26 9.38v.34c0 3.48-2.64 7.5-7.48 7.5-1.48 0-2.87-.44-4.03-1.2 1.37.17 2.77-.2 3.9-1.08-1.16-.02-2.13-.78-2.46-1.83.38.1.8.07 1.17-.03-1.2-.24-2.1-1.3-2.1-2.58v-.05c.35.2.75.32 1.18.33-.7-.47-1.17-1.28-1.17-2.2 0-.47.13-.92.36-1.3C7.94 8.85 9.88 9.9 12.06 10c-.04-.2-.06-.4-.06-.6 0-1.46 1.18-2.63 2.63-2.63.76 0 1.44.3 1.92.82.6-.12 1.95-.27 1.95-.27-.35.53-.72 1.66-1.24 2.04z"/>
-                            </svg>
-                        </div>
+        <div id="card2Container" class="col s12 m6">
+            <div class="card grey lighten-4 scale-transition scale-out" id="infographic_selection">
+                <div class="card-content">
+                    <span class="card-title cyan-text text-darken-2">Step 2</span>
+                    <p class="black-text">View or download infographics from the list below</p>
+                    <br/>
+                    <ul id="allGraphics" class="collection">
+                        <li class="collection-item">
+                            <div class="red-text">Please Select a language first
+                                <a href="#!" class="secondary-content" style="visibility: hidden">
+                                    <i class="material-icons ">file_download</i>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                    <br/>
+                    <p class="black-text">You can share the infographics with others using the buttons below</p>
+                    <br/>
+                    <div class="card-action center">
+                        <a id="facebookSocial" href="#"><i class="fa fa-facebook fa-3x"></i></a>
+                        <a id="twitterSocial" href="#"><i class="fa fa-twitter fa-3x"></i></a>
+                        <a id="mailSocial" href="#"><i class="fa fa-envelope fa-3x"></i></a>
+                        <a id="whatsappSocial" href="#"><i class="fa fa-whatsapp fa-3x"></i></a>
                     </div>
-                </a>
-
-                <!-- Sharingbutton E-Mail -->
-                <a id="mailSocial" class="resp-sharing-button__link" href="" target="_self"
-                   rel="noopener" aria-label="">
-                    <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small">
-                        <div aria-hidden="true"
-                             class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                                <path d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm8 16c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2V8c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v8z"/>
-                                <path d="M17.9 8.18c-.2-.2-.5-.24-.72-.07L12 12.38 6.82 8.1c-.22-.16-.53-.13-.7.08s-.15.53.06.7l3.62 2.97-3.57 2.23c-.23.14-.3.45-.15.7.1.14.25.22.42.22.1 0 .18-.02.27-.08l3.85-2.4 1.06.87c.1.04.2.1.32.1s.23-.06.32-.1l1.06-.9 3.86 2.4c.08.06.17.1.26.1.17 0 .33-.1.42-.25.15-.24.08-.55-.15-.7l-3.57-2.22 3.62-2.96c.2-.2.24-.5.07-.72z"/>
-                            </svg>
-                        </div>
-                    </div>
-                </a>
-
-                <!-- Sharingbutton WhatsApp -->
-                <a id="whatsappSocial" class="resp-sharing-button__link" href="" target="_blank"
-                   rel="noopener" aria-label="">
-                    <div class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--small">
-                        <div aria-hidden="true"
-                             class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
-                                <path d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"/>
-                            </svg>
-                        </div>
-                    </div>
-                </a>
-
+                </div>
             </div>
         </div>
 
     </div>
 
 </main>
-<footer class="page-footer cyan darken-3">
-    <div class="container">
+
+<footer class="page-footer grey darken-2">
+
+    <div class="container grey-text text-lighten-2">
         <div class="row">
+            <h5 class="col s12 m12 grey-text text-lighten-1">Links</h5>
             <div class="col l6 s12">
-                <h5 class="black-text">About Us</h5>
-                <p class="black-text text-lighten-4">
-                    Patients from ethnic minorities are disproportionately affected by
-                    Covid-19. As a group of doctors, medical students and volunteers,
-                    we’ve created infographics to help summarise key points about Covid-19 in a variety of languages
-                    to reach communities.</p>
-                <p class="black-text">Made by Volunteers</p>
-            </div>
-            <div class="col l4 offset-l2 s12">
-                <h5 class="black-text">Links</h5>
                 <ul>
-                    <li><u><a class="white-text text-lighten-1" href="https://www.facebook.com/COVID2019Infographics">
+                    <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
                         COVID-19 Infographics Facebook</a></u></li>
-                    <li><u><a class="white-text text-lighten-1" href="https://www.facebook.com/COVID2019Infographics">
+                    <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
                         Contact us</a></u></li>
-                    <li><u><a class="white-text text-lighten-1" href="mailto:contact@baizel.dev?subject=Get Involved!">
+                    <li><u><a class="cyan-text text-lighten-2" href="mailto:contact@baizel.dev?subject=Get Involved!">
                         Get Involved</a></u></li>
-                    </br>
-                    <li>
-                        <div class="row">
-                            <div class="col s3 left">
-                                <a href="https://www.facebook.com/COVID2019Infographics">
-                                    <img src="assets/logo-400x400.jpg" height="26px" alt="logo"></a>
-                            </div>
-                            <div class="col s3 left">
-                                <a href="https://www.nice.org.uk/covid-19">
-                                    <img src="assets/nice.png" height="26px"> </a>
-                            </div>
-                            <div class="col s3 left">
-                                <a href="https://www.nhs.uk/conditions/coronavirus-covid-19">
-                                    <img src="assets/NHS-Logo.svg" height="26px"> </a>
-                            </div>
-                            <div class="col s3 left">
-                                <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">
-                                    <img src="assets/who.png" height="26px"> </a>
-                            </div>
-                        </div>
-                    </li>
                 </ul>
             </div>
-        </div>
-    </div>
-    <div class="footer-copyright black-text">
-        <div class="container">
-            <div class="left">© 2020 Copyright</div>
-            <div class="right">
-                <a class="black-text text-lighten-1" href="https://baizel.dev">Developer site</a>
-                <a class="black-text text-lighten-1"> | </a>
-                <a class="black-text text-lighten-1" href="https://github.com/baizel/covidinfographics">Source
-                    code</a>
+            <div class="col l4 offset-l2 s12">
+                <div class="row">
+                <div class="col s6">
+                    <a href="https://www.facebook.com/COVID2019Infographics">
+                        <img src="assets/logo-400x400.jpg" height="40px" alt="logo"></a>
+                </div>
+                <div class="col s6">
+                    <a href="https://www.nice.org.uk/covid-19">
+                        <img src="assets/nice.png" height="40px"> </a>
+                </div>
+                <div class="col s6">
+                    <a href="https://www.nhs.uk/conditions/coronavirus-covid-19">
+                        <img src="assets/NHS-Logo.svg" height="40px"> </a>
+                </div>
+                <div class="col s6">
+                    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">
+                        <img src="assets/who.png" height="40px"> </a>
+                </div>
+            </div>
             </div>
         </div>
 
     </div>
+    <div class="footer-copyright grey-text text-lighten-1">
+        <div class="container">
+            <div class="left">© 2020 Copyright</div>
+            <div class="right">
+                <span>Developers: </span>
+                <a href="https://baizel.dev"><img class="img-icon"
+                                                  src="https://avatars1.githubusercontent.com/u/14371879?s=460&u=93c44dd1020f86976cc852d01bd170138ebb1f31&v=4"></a>
+                <a href="https://szy.wtf"><img class="img-icon" src="https://avatars3.githubusercontent.com/u/19878551?s=460&u=84d35790c466c07ba4dd3f6fd0b0c1823e1bb98c&v=4"></a>
+                <span> | </span>
+                <a class="cyan-text text-lighten-2" href="https://github.com/baizel/covidinfographics">Source code</a>
+            </div>
+        </div>
+
+    </div>
+
 </footer>
 
 <!-- === End Content === -->

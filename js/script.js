@@ -30,23 +30,23 @@ function showInfos() {
     val.graphics.forEach(function (ele, indx) {
         console.log(ele);
         let htmlstr = '<li class="collection-item">\n' +
-            '                        <div><a href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
-            '                            <a href="' + ele.info.src + '" class="secondary-content" download>\n' +
+            '                        <div><a class="graphic-link" href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
+            '                            <a href="' + ele.info.src + '" class="secondary-content graphic-download" download>\n' +
             '                                <i class="material-icons ">file_download</i>\n' +
             '                            </a>\n' +
             '                        </div>\n' +
             '                    </li>'
         $("#allGraphics").append(htmlstr);
         //TODO: Decide which one should bne shared
-        setShareLinks("https://"+window.location.hostname + "/" + ele.info.src, "COVID-19 information in " + val.language)
+        setShareLinks("https://" + window.location.hostname + "/" + ele.info.src, "COVID-19 information in " + val.language)
     })
-    // $("#language_selection").css("opacity", "0.5");
-    // $("#infographic_selection").css("visibility", "visible");
+
+    $("#language_selection").css("opacity", "0.7");
+    $("#infographic_selection").removeClass("scale-out");
 }
 
 function resetSelection() {
-    // $("#language_selection").css("opacity", "1.0");
-    // $("#infographic_selection").css("visibility", "hidden");
+    $("#language_selection").css("opacity", "1.0");
 }
 
 function setShareLinks(url, txt) {
@@ -59,6 +59,4 @@ function setShareLinks(url, txt) {
     document.getElementById("twitterSocial").href = encodeURI(twitter);
     document.getElementById("mailSocial").href = encodeURI(mail);
     document.getElementById("whatsappSocial").href = encodeURI(whatsApp);
-
-
-}
+} 
