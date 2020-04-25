@@ -1,6 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
     var selectElem = document.querySelectorAll('select');
     var sideNavElem = document.querySelectorAll('.sidenav');
+    var colpaseElem = document.querySelectorAll('.collapsible');
+    M.Collapsible.init(colpaseElem);
     M.Sidenav.init(sideNavElem);
     M.FormSelect.init(selectElem);
 });

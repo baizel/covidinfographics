@@ -133,9 +133,15 @@
 </head>
 
 <!-- === Begin Content === -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
 
 <nav class="cyan darken-2">
     <div class="brand-logo center">COVID-19 Infographics</div>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="get-involved.html">Get involved</a></li>
+    </ul>
 </nav>
 
 <main class="white">
@@ -154,24 +160,35 @@
                 </div>
             </div>
         </div>
-
-        <div id="card1Container" class="col s12 m6">
-            <div class="card grey lighten-4" id="language_selection">
-                <div class="card-content">
-                    <span class="card-title cyan-text text-darken-2">Step 1</span>
-                    <p class="black-text">First, select your preferred language</p>
-                    <br/>
-                    <div onclick="resetSelection()">
-                        <select class="white materialSelect" id="lanSel" onchange="showInfos()">
-                            <option value="" disabled selected>Choose here...</option>
-                        </select>
+        <div class="col s12 m6 row">
+            <div id="card1Container" class="s12">
+                <div class="card grey lighten-4" id="language_selection">
+                    <div class="card-content">
+                        <span class="card-title cyan-text text-darken-2">Step 1</span>
+                        <p class="black-text">First, select your preferred language</p>
+                        <br/>
+                        <div onclick="resetSelection()">
+                            <select class="white materialSelect" id="lanSel" onchange="showInfos()">
+                                <option value="" disabled selected>Choose here...</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="socialContainer" class=" s12 hide-on-small-only">
+                <br>
+                <div class="card grey lighten-4">
+                    <div class="card-content">
+                        <span class="card-title cyan-text text-darken-2">Like and Share our Facebook page</span>
+                        <div class="fb-like" data-href="https://www.facebook.com/COVID2019Infographics" data-width=""
+                             data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
                     </div>
                 </div>
             </div>
         </div>
 
         <div id="card2Container" class="col s12 m6" style="position: absolute">
-            <div class="card grey lighten-4 scale-transition scale-out" id="infographic_selection" >
+            <div class="card grey lighten-4 scale-transition scale-out" id="infographic_selection">
                 <div class="card-content">
                     <span class="card-title cyan-text text-darken-2">Step 2</span>
                     <p class="black-text">View or download infographics from the list below</p>
@@ -197,7 +214,17 @@
                 </div>
             </div>
         </div>
-
+        <div class="col s12 hide-on-med-and-up show-on-small">
+            <br>
+            <div class="card grey lighten-4">
+                <div class="card-content">
+                    <span class="card-title cyan-text text-darken-2">Like and Share our Facebook page</span>
+                    <div class="fb-like" data-href="https://www.facebook.com/COVID2019Infographics" data-width=""
+                         data-layout="standard" data-action="like" data-size="small" data-share="false"></div>
+                </div>
+            </div>
+        </div>
+    </div>
     </div>
 
 </main>
@@ -211,12 +238,12 @@
 
             <div class="col l6 s12">
                 <ul>
+                    <li><u><a class="cyan-text text-lighten-2" href="get-involved.html">
+                        We have open roles, Get Involved!</a></u></li>
                     <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
                         COVID-19 Infographics Facebook</a></u></li>
-                    <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
+                    <li><u><a class="cyan-text text-lighten-2" href="mailto:covid19infographics@gmail.com">
                         Contact us</a></u></li>
-                    <li><u><a class="cyan-text text-lighten-2" href="mailto:contact@baizel.dev?subject=Get Involved!">
-                        Get Involved</a></u></li>
                 </ul>
             </div>
             <h5 class="col s12 hide-on-med-and-up show-on-medium-and-down grey-text text-lighten-1">Sources</h5>
