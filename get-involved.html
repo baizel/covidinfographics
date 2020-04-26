@@ -53,10 +53,23 @@
 
     <!-- Style -->
     <style>
-        i {
+        .collapsible-header i {
             color: #d50000;
         }
 
+        .collapsible-header:hover {
+            background-color: #fafafa;
+        }
+
+        #nav-mobile li > a {
+            color: white;
+            background-color: #d50000;
+        }
+
+        #nav-mobile li > a:hover {
+            color: white;
+            background-color: #ef9a9a;
+        }
 
         .card .card-action > a {
             color: #d50000 !important;
@@ -99,7 +112,10 @@
 <!-- === Begin Content === -->
 
 <nav class="cyan darken-2">
-    <div class="brand-logo center"><a href="index.html">Get Involved</a></div>
+    <div class="brand-logo center">Get Involved!</div>
+    <ul id="nav-mobile" class="left">
+        <li><a href="index.html"><i class="material-icons">navigate_before</i> back</a></li>
+    </ul>
 </nav>
 
 <main class="white">
@@ -192,21 +208,21 @@
 
     <div class="container grey-text text-lighten-2">
         <div class="row">
-            <h5 class="col s6 m6 left grey-text text-lighten-1">Links</h5>
-            <h5 class="col s6 center hide-on-med-and-down grey-text text-lighten-1">Sources</h5>
 
-            <div class="col l6 s12">
+            <div class="col s12 m6">
+                <h5 class="grey-text text-lighten-1">Links</h5>
                 <ul>
+                    <li><u><a class="cyan-text text-lighten-2" href="get-involved.html">
+                        We have open roles, Get Involved!</a></u></li>
                     <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
                         COVID-19 Infographics Facebook</a></u></li>
-                    <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
+                    <li><u><a class="cyan-text text-lighten-2" href="mailto:covid19infographics@gmail.com">
                         Contact us</a></u></li>
-                    <li><u><a class="cyan-text text-lighten-2" href="mailto:contact@baizel.dev?subject=Get Involved!">
-                        Get Involved</a></u></li>
                 </ul>
             </div>
-            <h5 class="col s12 hide-on-med-and-up show-on-medium-and-down grey-text text-lighten-1">Sources</h5>
-            <div class="col l4 offset-l2 s12">
+
+            <div class="col s12 m6">
+                <h5 class="grey-text text-lighten-1">Sources</h5>
                 <div class="row">
                     </br>
                     <div class="col s6">
@@ -227,9 +243,10 @@
                     </div>
                 </div>
             </div>
-        </div>
 
+        </div>
     </div>
+
     <div class="footer-copyright grey-text text-lighten-1">
         <div class="container">
             <div class="left">© 2020 Copyright</div>
@@ -237,16 +254,14 @@
                 <span>Developers: </span>
                 <a href="https://baizel.dev"><img class="img-icon"
                                                   src="https://avatars1.githubusercontent.com/u/14371879?s=460&u=93c44dd1020f86976cc852d01bd170138ebb1f31&v=4"></a>
-                <a href="https://szy.wtf"><img class="img-icon"
+                <a href="http://szy.wtf"><img class="img-icon"
                                                src="https://avatars3.githubusercontent.com/u/19878551?s=460&u=84d35790c466c07ba4dd3f6fd0b0c1823e1bb98c&v=4"></a>
                 <span> | </span>
                 <a class="cyan-text text-lighten-2" href="https://github.com/baizel/covidinfographics">Source code</a>
             </div>
         </div>
-
     </div>
 
 </footer>
-
 <!-- === End Content === -->
 </html>
