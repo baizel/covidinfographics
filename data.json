@@ -39,6 +39,13 @@
           "src": "graphics/Bulgarian/Overview/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Bulgarian/Self care/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -227,6 +234,25 @@
     ]
   },
   {
+    "language": "Portuguese",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Portuguese/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Portuguese/Self care/Slide2.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
     "language": "Russian",
     "graphics": [
       {
@@ -247,6 +273,13 @@
           "src": "graphics/Spanish/Overview/SpanishInfographic1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Spanish/Self care/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -257,6 +290,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Swedish/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Swedish/Self care/Slide1.png",
           "translation": ""
         }
       }
