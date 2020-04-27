@@ -8,6 +8,13 @@
           "src": "graphics/Arabic/Overview/COVIDOutreachArabicFinal.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Arabic/Self care/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -80,6 +87,13 @@
           "src": "graphics/German/Overview/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/German/Self care/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -108,6 +122,25 @@
     ]
   },
   {
+    "language": "Hindi",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Hindi/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Hindi/Self care/Slide2.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
     "language": "Japanese",
     "graphics": [
       {
@@ -126,6 +159,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Korean/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Korean/Self care/Slide1.png",
           "translation": ""
         }
       }
