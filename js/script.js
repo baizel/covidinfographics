@@ -22,12 +22,18 @@ function populate(arr) {
     $('#lanSel').append(opts);
     let elems = document.querySelectorAll('select');
     M.FormSelect.init(elems);
+
+    if (Cookies.get("selected") !== undefined) {
+        $('#lanSel').val(parseInt(Cookies.get("selected")));
+        M.FormSelect.init(elems);
+        showInfos();
+    }
 }
 
 function showInfos() {
     let indx = $("#lanSel").val();
     let val = data[indx];
-
+    Cookies.set("selected", indx);
     $("#allGraphics").text("");
     val.graphics.forEach(function (ele, indx) {
         console.log(ele);
