@@ -58,6 +58,25 @@
           "src": "graphics/Chinese (simplified)/Overview/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Chinese (simplified)/Self care/COVIDOutreachInfographic2_chinese[5870].png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
+    "language": "Dutch",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Dutch/Overview/DutchOverviewInfographic.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -239,14 +258,26 @@
       {
         "info": {
           "name": "Overview",
-          "src": "graphics/Portuguese/Overview/Slide2.png",
+          "src": "graphics/Portuguese/Overview/Slide1.png",
           "translation": ""
         }
       },
       {
         "info": {
           "name": "Self care",
-          "src": "graphics/Portuguese/Self care/Slide1.png",
+          "src": "graphics/Portuguese/Self care/Slide2.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
+    "language": "Punjabi",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Punjabi/Overview/COVIDPunjabiInfographic1.png",
           "translation": ""
         }
       }
@@ -259,6 +290,25 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Russian/Overview/RussianInfographic1.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
+    "language": "Sinhalese",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Sinhalese/Overview/COVIDSinhaleseInfographic1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Sinhalese/Self care/SinhaleseSelfcareinfographic.png",
           "translation": ""
         }
       }
@@ -328,6 +378,18 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Turkish/Overview/Slide1.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
+    "language": "Ukrainian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Ukrainian/Overview/UkranianInfographic1.png",
           "translation": ""
         }
       }
