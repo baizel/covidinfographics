@@ -89,6 +89,13 @@
           "src": "graphics/English/Overview/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/English/Self care/EnglishInfographicSelf-care.png",
+          "translation": ""
+        }
       }
     ]
   },
