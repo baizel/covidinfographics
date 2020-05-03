@@ -104,6 +104,13 @@
     "graphics": [
       {
         "info": {
+          "name": "Overview",
+          "src": "graphics/French/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
           "name": "Self care",
           "src": "graphics/French/Self care/Slide1.png",
           "translation": ""
@@ -335,6 +342,18 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Spanish/Self care/Slide1.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
+    "language": "Swahili",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Swahili/Infographic 1/swahili.png",
           "translation": ""
         }
       }
