@@ -77,6 +77,13 @@
           "src": "graphics/Dutch/Overview/DutchOverviewInfographic.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Dutch/Self care/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -144,6 +151,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Gujurati/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Gujurati/Self care/Slide1.png",
           "translation": ""
         }
       }
@@ -298,6 +312,18 @@
     ]
   },
   {
+    "language": "Romanian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Romanian/Overview/Slide1.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
     "language": "Russian",
     "graphics": [
       {
@@ -329,6 +355,25 @@
     ]
   },
   {
+    "language": "Somali",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Somali/Overview/Slide2.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Somali/Self care/Slide1.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
     "language": "Spanish",
     "graphics": [
       {
@@ -353,7 +398,7 @@
       {
         "info": {
           "name": "Overview",
-          "src": "graphics/Swahili/Infographic 1/swahili.png",
+          "src": "graphics/Swahili/Overview/swahili.png",
           "translation": ""
         }
       }
