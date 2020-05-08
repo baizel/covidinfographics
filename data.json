@@ -103,6 +103,13 @@
           "src": "graphics/English/Self care/EnglishInfographicSelf-care.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Myths",
+          "src": "graphics/English/Myths/Infographic4_final.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -172,6 +179,13 @@
           "src": "graphics/Hebrew/Overview/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Hebrew/Self care/COVID-Outreach-Infographic-2-Final.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -189,6 +203,25 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Hindi/Self care/Slide2.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
+    "language": "Italian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Italian/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Italian/Self care/Slide1.png",
           "translation": ""
         }
       }
@@ -234,6 +267,13 @@
           "src": "graphics/Kurdish/Overview/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Kurdish/Self care/COVIDInfographic2KurdishSorani.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -256,6 +296,32 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Malayalam/Overview/COVIDOutreachFinalPosterMalayalam.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Malayalam/Self care/Slide1.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
+    "language": "Persian",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Persian/Overview/PersianInfographic1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Persian/Self care/Slide1.png",
           "translation": ""
         }
       }
