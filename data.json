@@ -27,6 +27,13 @@
           "src": "graphics/Bengali/Overview/Bengaliinfographic.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Bengali/Self care/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -50,6 +57,32 @@
     ]
   },
   {
+    "language": "Chinese (Traditional)",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Chinese (Traditional)/Overview/Infographic1\u2013TraditionalChinese-1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Chinese (Traditional)/Self care/Infographic2\u2013TraditionalChinese-1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Chinese (Traditional)/Mythbuster/Infographic3-TraditionalChinese-1.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
     "language": "Chinese (simplified)",
     "graphics": [
       {
@@ -62,7 +95,7 @@
       {
         "info": {
           "name": "Self care",
-          "src": "graphics/Chinese (simplified)/Self care/COVIDOutreachInfographic2_chinese[5870].png",
+          "src": "graphics/Chinese (simplified)/Self care/Infographic2\u2013SimplifiedChinese\u2013UpdatedFormatting-1.png",
           "translation": ""
         }
       }
@@ -286,6 +319,13 @@
           "src": "graphics/Lithuanian/Overview/CoronavirusLithuaninaninfographic.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Lithuanian/Self care/LithuanianInfographic2-1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -467,6 +507,13 @@
           "src": "graphics/Swahili/Overview/swahili.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Swahili/Self care/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -570,6 +617,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Yoruba/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Yoruba/Self care/Slide1.png",
           "translation": ""
         }
       }
