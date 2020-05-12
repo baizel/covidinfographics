@@ -15,6 +15,13 @@
           "src": "graphics/Arabic/Self care/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Myth busters",
+          "src": "graphics/Arabic/Myth busters/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -89,6 +96,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Chinese (simplified)/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Chinese (simplified)/Self care/COVIDOutreachInfographic2_chinese[5870].png",
           "translation": ""
         }
       },
@@ -383,6 +397,13 @@
           "src": "graphics/Polish/Self care/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Myth busters",
+          "src": "graphics/Polish/Myth busters/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -424,6 +445,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Romanian/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbusters",
+          "src": "graphics/Romanian/Mythbusters/Slide1.png",
           "translation": ""
         }
       }
@@ -493,6 +521,13 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Spanish/Self care/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbusters",
+          "src": "graphics/Spanish/Mythbusters/Slide1.png",
           "translation": ""
         }
       }
