@@ -102,14 +102,14 @@
       {
         "info": {
           "name": "Self care",
-          "src": "graphics/Chinese (simplified)/Self care/COVIDOutreachInfographic2_chinese[5870].png",
+          "src": "graphics/Chinese (simplified)/Self care/Infographic2\u2013SimplifiedChinese\u2013UpdatedFormatting-1.png",
           "translation": ""
         }
       },
       {
         "info": {
-          "name": "Self care",
-          "src": "graphics/Chinese (simplified)/Self care/Infographic2\u2013SimplifiedChinese\u2013UpdatedFormatting-1.png",
+          "name": "Mythbusters",
+          "src": "graphics/Chinese (simplified)/Mythbusters/Infographic3-SimplifiedChinese-1.png",
           "translation": ""
         }
       }
@@ -340,6 +340,13 @@
           "src": "graphics/Lithuanian/Self care/LithuanianInfographic2-1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Lithuanian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Lithuanian).png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -376,6 +383,13 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Persian/Self care/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbusters",
+          "src": "graphics/Persian/Mythbusters/Slide1.png",
           "translation": ""
         }
       }
@@ -433,6 +447,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Punjabi/Overview/COVIDPunjabiInfographic1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Myth busters",
+          "src": "graphics/Punjabi/Myth busters/Slide1.png",
           "translation": ""
         }
       }
@@ -597,6 +618,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Turkish/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Turkish/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Turkish).png",
           "translation": ""
         }
       }
