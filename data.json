@@ -60,6 +60,13 @@
           "src": "graphics/Bulgarian/Self care/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Mythbusters",
+          "src": "graphics/Bulgarian/Mythbusters/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -271,6 +278,13 @@
           "src": "graphics/Italian/Self care/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Italian/Mythbuster/ItalianCOVIDInfographic3.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -300,6 +314,13 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Korean/Self care/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Korean/Mythbuster/COVID19MYTHBUSTERgraphicfinal(KOR).png",
           "translation": ""
         }
       }
@@ -437,6 +458,13 @@
           "src": "graphics/Portuguese/Self care/Slide2.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Portuguese/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Portuguese).png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -485,6 +513,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Russian/Overview/RussianInfographic1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Russian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Russian).png",
           "translation": ""
         }
       }
@@ -606,6 +641,13 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Tamil/Self care/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbusters",
+          "src": "graphics/Tamil/myth busters/Slide1.png",
           "translation": ""
         }
       }
