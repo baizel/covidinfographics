@@ -190,6 +190,13 @@
           "src": "graphics/French/Self care/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/French/Mythbuster/COVID19MYTHBUSTERgraphicfinal(French).png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -207,6 +214,13 @@
         "info": {
           "name": "Self care",
           "src": "graphics/German/Self care/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "myth busters",
+          "src": "graphics/German/myth busters/Slide1.png",
           "translation": ""
         }
       }
@@ -520,6 +534,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Russian/Overview/RussianInfographic1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Russian/Self care/COVIDOutreachInfographicSelfcare(Russian).png",
           "translation": ""
         }
       },
