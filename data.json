@@ -37,6 +37,13 @@
       },
       {
         "info": {
+          "name": "Myth buster",
+          "src": "graphics/Bengali/Myth buster/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
           "name": "Self care",
           "src": "graphics/Bengali/Self care/Slide1.png",
           "translation": ""
@@ -76,14 +83,14 @@
       {
         "info": {
           "name": "Overview",
-          "src": "graphics/Chinese (Traditional)/Overview/Infographic1\u2013TraditionalChinese-1.png",
+          "src": "graphics/Chinese (Traditional)/Overview/Infographic1\u2013TraditionalChinese.png",
           "translation": ""
         }
       },
       {
         "info": {
           "name": "Self care",
-          "src": "graphics/Chinese (Traditional)/Self care/Infographic2\u2013TraditionalChinese-1.png",
+          "src": "graphics/Chinese (Traditional)/Self care/Infographic2\u2013TraditionalChinese.png",
           "translation": ""
         }
       },
@@ -102,14 +109,14 @@
       {
         "info": {
           "name": "Overview",
-          "src": "graphics/Chinese (simplified)/Overview/Slide1.png",
+          "src": "graphics/Chinese (simplified)/Overview/Infographic1\u2013SimplifiedChinese\u2013UpdatedFormatting.png",
           "translation": ""
         }
       },
       {
         "info": {
           "name": "Self care",
-          "src": "graphics/Chinese (simplified)/Self care/Infographic2\u2013SimplifiedChinese\u2013UpdatedFormatting-1.png",
+          "src": "graphics/Chinese (simplified)/Self care/Infographic2\u2013SimplifiedChinese\u2013UpdatedFormatting.png",
           "translation": ""
         }
       },
@@ -129,6 +136,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Dutch/Overview/DutchOverviewInfographic.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Myth buster",
+          "src": "graphics/Dutch/Myth buster/Slide1.png",
           "translation": ""
         }
       },
@@ -227,6 +241,32 @@
     ]
   },
   {
+    "language": "Gujarati",
+    "graphics": [
+      {
+        "info": {
+          "name": "Overview",
+          "src": "graphics/Gujarati/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Gujarati/Self care/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Spread and Prevention",
+          "src": "graphics/Gujarati/Spread and Prevention/COVID-19SpreadandPrevention(Gujarati).png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
     "language": "Gujurati",
     "graphics": [
       {
@@ -261,6 +301,13 @@
           "src": "graphics/Hebrew/Self care/COVID-Outreach-Infographic-2-Final.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Hebrew/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Hebrew).png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -278,6 +325,13 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Hindi/Self care/Slide2.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbusters",
+          "src": "graphics/Hindi/Mythbusters/Slide1.png",
           "translation": ""
         }
       }
@@ -520,6 +574,13 @@
       },
       {
         "info": {
+          "name": "Self care",
+          "src": "graphics/Romanian/Self care/COVID-19SpreadandPrevention(Romanian).png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
           "name": "Mythbusters",
           "src": "graphics/Romanian/Mythbusters/Slide1.png",
           "translation": ""
@@ -611,7 +672,7 @@
       {
         "info": {
           "name": "Mythbusters",
-          "src": "graphics/Spanish/Mythbusters/Slide1.png",
+          "src": "graphics/Spanish/Mythbusters/COVID-19MythbustingInfographic(Spanish).png",
           "translation": ""
         }
       }
@@ -633,6 +694,13 @@
           "src": "graphics/Swahili/Self care/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "myth busters",
+          "src": "graphics/Swahili/myth busters/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -650,6 +718,13 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Swedish/Self care/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "myth busters",
+          "src": "graphics/Swedish/myth busters/Slide1.png",
           "translation": ""
         }
       }
