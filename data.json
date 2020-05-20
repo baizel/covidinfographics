@@ -288,25 +288,6 @@
     ]
   },
   {
-    "language": "Gujurati",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Gujurati/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Gujurati/Self care/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
     "language": "Hebrew",
     "graphics": [
       {
