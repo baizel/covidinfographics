@@ -403,6 +403,13 @@
       },
       {
         "info": {
+          "name": "Spread and Prevention",
+          "src": "graphics/Korean/Spread and Prevention/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
           "name": "Mythbuster",
           "src": "graphics/Korean/Mythbuster/Slide1.png",
           "translation": ""
@@ -495,6 +502,13 @@
         "info": {
           "name": "Mythbusters",
           "src": "graphics/Persian/Mythbusters/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Spread and Prevention",
+          "src": "graphics/Persian/Spread and Prevention/COVID-19SpreadandPrevention(Persian).png",
           "translation": ""
         }
       }
@@ -606,6 +620,13 @@
         "info": {
           "name": "Mythbusters",
           "src": "graphics/Romanian/Mythbusters/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Spread and Prevention",
+          "src": "graphics/Romanian/Spread and Prevention/COVID-19SpreadandPrevention(Romanian).png",
           "translation": ""
         }
       }
@@ -757,6 +778,13 @@
           "src": "graphics/Swedish/myth busters/Slide1.png",
           "translation": ""
         }
+      },
+      {
+        "info": {
+          "name": "Spread and Prevention",
+          "src": "graphics/Swedish/Spread and Prevention/Slide1.png",
+          "translation": ""
+        }
       }
     ]
   },
@@ -793,6 +821,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Turkish/Overview/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Spread and Prevention",
+          "src": "graphics/Turkish/Spread and Prevention/COVID-19SpreadandPrevention(Turkish).png",
           "translation": ""
         }
       },
