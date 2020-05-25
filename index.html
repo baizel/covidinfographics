@@ -158,84 +158,105 @@
 <nav class="cyan darken-2">
     <div class="brand-logo center">COVID-19 Infographics</div>
     <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="get-involved.html">Get involved</a></li>
+        <li><a href="pages/get-involved.html">Get involved</a></li>
+        <li><a href="pages/resources.html">Well-being</a></li>
     </ul>
 </nav>
 
 <main class="white">
 
     <div class="container row">
-
-        <div id="missionContainer" class="col s12 m8">
-            <div class="card grey lighten-4">
-                <div class="card-content">
-                    <span class="card-title cyan-text text-darken-2">Our Mission</span>
-                    <p>As a group of doctors, medical students and volunteers, we’ve created infographics to help
-                        summarise key points about COVID-19 in a variety of languages to get the right information, in
-                        an easy to understand format, to these communities.</p>
-                    <br/>
-                    <p>Follow the steps below to view or download an infographic in your preferred langauge.</p>
+        <div class="col s12 m8">
+            <div id="missionContainer" class="col s12">
+                <div class="card grey lighten-4">
+                    <div class="card-content">
+                        <span class="card-title cyan-text text-darken-2">Our Mission</span>
+                        <p>As a group of doctors, medical students and volunteers, we’ve created infographics to help
+                            summarise key points about COVID-19 in a variety of languages to get the right information,
+                            in
+                            an easy to understand format, to these communities.</p>
+                        <br/>
+                        <p>Follow the steps below to view or download an infographic in your preferred langauge.</p>
+                    </div>
                 </div>
             </div>
-        </div>
-
-        <div id="socialContainer" class="col s12 m4">
-            <div class="card grey lighten-4">
-                <div class="card-content">
-                    <span class="card-title cyan-text text-darken-2">Share & Get Involved</span>
-                    <div class="fb-like left" data-href="https://www.facebook.com/COVID2019Infographics"
-                            data-width="" data-layout="box_count" data-action="like" data-size="small" data-share="true"
-                            style="margin-right: 5px;"></div>
-                    <p class="black-text">Like our Facebook page and share it with your friends! Please consider getting involved.</p>
-                </div>
-                <div class="card-action">
-                    <a href="get-involved.html">We have open roles, get involved now!</a>
+            <div id="card1Container" class="col s12">
+                <div class="card grey lighten-4" id="language_selection">
+                    <div class="card-content">
+                        <span class="card-title cyan-text text-darken-2">Step 1</span>
+                        <p class="black-text">First, select your preferred language</p>
+                        <br/>
+                        <div onclick="resetSelection()">
+                            <select class="white materialSelect browser-default" id="lanSel" onchange="showInfos()">
+                                <option value="" disabled selected>Choose here...</option>
+                            </select>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-
-        <div id="card1Container" class="col s12 m6">
-            <div class="card grey lighten-4" id="language_selection">
-                <div class="card-content">
-                    <span class="card-title cyan-text text-darken-2">Step 1</span>
-                    <p class="black-text">First, select your preferred language</p>
-                    <br/>
-                    <div onclick="resetSelection()">
-                        <select class="white materialSelect browser-default" id="lanSel" onchange="showInfos()">
-                            <option value="" disabled selected>Choose here...</option>
-                        </select>
+            <div id="card2Container" class="col s12">
+                <div class="card grey lighten-4 scale-transition scale-out" id="infographic_selection">
+                    <div class="card-content">
+                        <span class="card-title cyan-text text-darken-2">Step 2</span>
+                        <p class="black-text">View or download infographics from the list below</p>
+                        <br/>
+                        <ul id="allGraphics" class="collection">
+                            <li class="collection-item">
+                                <div class="red-text">Please Select a language first
+                                    <a href="#!" class="secondary-content" style="visibility: hidden">
+                                        <i class="material-icons ">file_download</i>
+                                    </a>
+                                </div>
+                            </li>
+                        </ul>
+                        <br/>
+                        <p class="black-text">You can share the infographics with others using the buttons below</p>
+                    </div>
+                    <div class="card-action center">
+                        <a id="facebookSocial" class="flow-text" href="#"><i class="fa fa-facebook"></i></a>
+                        <a id="twitterSocial" class="flow-text" href="#"><i class="fa fa-twitter"></i></a>
+                        <a id="mailSocial" class="flow-text" href="#"><i class="fa fa-envelope"></i></a>
+                        <a id="whatsappSocial" class="flow-text" href="#"><i class="fa fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>
         </div>
-
-        <div id="card2Container" class="col s12 m6">
-            <div class="card grey lighten-4 scale-transition scale-out" id="infographic_selection">
-                <div class="card-content">
-                    <span class="card-title cyan-text text-darken-2">Step 2</span>
-                    <p class="black-text">View or download infographics from the list below</p>
-                    <br/>
-                    <ul id="allGraphics" class="collection">
-                        <li class="collection-item">
-                            <div class="red-text">Please Select a language first
-                                <a href="#!" class="secondary-content" style="visibility: hidden">
-                                    <i class="material-icons ">file_download</i>
-                                </a>
-                            </div>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p class="black-text">You can share the infographics with others using the buttons below</p>
+        <div class="col s122 m4">
+            <div class="col s12">
+                <div class="card grey lighten-4">
+                    <div class="card-content">
+                        <span class="card-title cyan-text text-darken-2">Well-being</span>
+                        <p>We have created a list of all the services offering
+                            support to BAME groups in each region of the UK.</p>
+                        <a href="pages/resources.html">Click here to find one near you</a>
+                    </div>
                 </div>
-                <div class="card-action center">
-                    <a id="facebookSocial" class="flow-text" href="#"><i class="fa fa-facebook"></i></a>
-                    <a id="twitterSocial" class="flow-text" href="#"><i class="fa fa-twitter"></i></a>
-                    <a id="mailSocial" class="flow-text" href="#"><i class="fa fa-envelope"></i></a>
-                    <a id="whatsappSocial" class="flow-text" href="#"><i class="fa fa-whatsapp"></i></a>
+            </div>
+            <div id="socialContainer" class="col s12">
+                <div class="card grey lighten-4">
+                    <div class="card-content">
+                        <span class="card-title cyan-text text-darken-2">Share & Get Involved</span>
+                        <div class="fb-like left" data-href="https://www.facebook.com/COVID2019Infographics"
+                             data-width="" data-layout="box_count" data-action="like" data-size="small"
+                             data-share="true"
+                             style="margin-right: 5px;"></div>
+                        <p class="black-text">Like our Facebook page and share it with your friends! Please consider
+                            getting involved.</p>
+                    </div>
+                    <div class="card-action">
+                        <a href="get-involved.html">We have open roles, get involved now!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12">
+                <div class="card grey lighten-4">
+                    <div class="card-content">
+                        <a class="twitter-timeline" data-height="420"
+                           href="https://twitter.com/C19Infographics?ref_src=twsrc%5Etfw">Tweets by C19Infographics</a>
+                    </div>
                 </div>
             </div>
         </div>
-
     </div>
 
 </main>
@@ -248,7 +269,7 @@
             <div class="col s12 m6">
                 <h5 class="grey-text text-lighten-1">Links</h5>
                 <ul>
-                    <li><u><a class="cyan-text text-lighten-2" href="get-involved.html">
+                    <li><u><a class="cyan-text text-lighten-2" href="pages/get-involved.html">
                         We have open roles, Get Involved!</a></u></li>
                     <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
                         COVID-19 Infographics Facebook</a></u></li>
@@ -291,7 +312,7 @@
                 <a href="https://baizel.dev"><img class="img-icon"
                                                   src="https://avatars1.githubusercontent.com/u/14371879?s=460&u=93c44dd1020f86976cc852d01bd170138ebb1f31&v=4"></a>
                 <a href="http://szy.wtf"><img class="img-icon"
-                                               src="https://avatars3.githubusercontent.com/u/19878551?s=460&u=84d35790c466c07ba4dd3f6fd0b0c1823e1bb98c&v=4"></a>
+                                              src="https://avatars3.githubusercontent.com/u/19878551?s=460&u=84d35790c466c07ba4dd3f6fd0b0c1823e1bb98c&v=4"></a>
                 <span> | </span>
                 <a class="cyan-text text-lighten-2" href="https://github.com/baizel/covidinfographics">Source code</a>
             </div>
@@ -299,6 +320,6 @@
     </div>
 
 </footer>
-
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- === End Content === -->
 </html>
