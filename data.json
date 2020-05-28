@@ -144,6 +144,18 @@
     ]
   },
   {
+    "language": "Czech",
+    "graphics": [
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Czech/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Czech).png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
     "language": "Dutch",
     "graphics": [
       {
@@ -174,7 +186,7 @@
     "graphics": [
       {
         "info": {
-          "name": "Well-being",
+          "name": "Wellbeing",
           "src": "graphics/English/Wellbeing/Slide1.png",
           "translation": ""
         }
@@ -289,6 +301,13 @@
         "info": {
           "name": "Spread and Prevention",
           "src": "graphics/Gujarati/Spread and Prevention/COVID-19SpreadandPrevention(Gujarati).png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Gujarati/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Mythbuster).png",
           "translation": ""
         }
       }
@@ -670,6 +689,13 @@
     "graphics": [
       {
         "info": {
+          "name": "MythBuster",
+          "src": "graphics/Sinhalese/MythBuster/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
           "name": "Overview",
           "src": "graphics/Sinhalese/Overview/COVIDSinhaleseInfographic1.png",
           "translation": ""
@@ -679,6 +705,18 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Sinhalese/Self care/SinhaleseSelfcareinfographic.png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
+    "language": "Slovak",
+    "graphics": [
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Slovak/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Slovak).png",
           "translation": ""
         }
       }
@@ -796,6 +834,18 @@
     ]
   },
   {
+    "language": "Sylheti",
+    "graphics": [
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Sylheti/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Sylheti).png",
+          "translation": ""
+        }
+      }
+    ]
+  },
+  {
     "language": "Tamil",
     "graphics": [
       {
@@ -873,6 +923,13 @@
         "info": {
           "name": "Self care",
           "src": "graphics/Urdu/Self care/Slide1.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Mythbuster",
+          "src": "graphics/Urdu/Mythbuster/COVID19Mythbusters(Urdu).png",
           "translation": ""
         }
       }
