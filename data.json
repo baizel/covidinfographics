@@ -30,6 +30,13 @@
     "graphics": [
       {
         "info": {
+          "name": "Wellbeing",
+          "src": "graphics/Bengali/Wellbeing/Wellbeing(Bengali).png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
           "name": "Overview",
           "src": "graphics/Bengali/Overview/Bengaliinfographic.png",
           "translation": ""
@@ -285,6 +292,13 @@
     "graphics": [
       {
         "info": {
+          "name": "Wellbeing",
+          "src": "graphics/Gujarati/Wellbeing/Wellbeing(Gujarati).png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
           "name": "Overview",
           "src": "graphics/Gujarati/Overview/Slide1.png",
           "translation": ""
@@ -316,6 +330,13 @@
   {
     "language": "Hebrew",
     "graphics": [
+      {
+        "info": {
+          "name": "Wellbeing",
+          "src": "graphics/Hebrew/Wellbeing/WellbeingInfographic(Hebrew).png",
+          "translation": ""
+        }
+      },
       {
         "info": {
           "name": "Overview",
@@ -467,6 +488,13 @@
     "graphics": [
       {
         "info": {
+          "name": "Wellbeing",
+          "src": "graphics/Lithuanian/Wellbeing/WellbeingInfographic(Lithuanian).png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
           "name": "Overview",
           "src": "graphics/Lithuanian/Overview/CoronavirusLithuaninaninfographic.png",
           "translation": ""
@@ -576,6 +604,13 @@
   {
     "language": "Portuguese",
     "graphics": [
+      {
+        "info": {
+          "name": "Wellbeing",
+          "src": "graphics/Portuguese/Wellbeing/Wellbeing(Portuguese).png",
+          "translation": ""
+        }
+      },
       {
         "info": {
           "name": "Overview",
@@ -916,6 +951,13 @@
         "info": {
           "name": "Overview",
           "src": "graphics/Urdu/Overview/Urduinfographic.png",
+          "translation": ""
+        }
+      },
+      {
+        "info": {
+          "name": "Self care",
+          "src": "graphics/Urdu/Self care/Infographic2\u2013UrduTranslation.png",
           "translation": ""
         }
       },
