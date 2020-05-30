@@ -1,6 +1,10 @@
+#!/usr/bin/python3
 import os
 import json
 from shutil import move
+
+rootDir = "graphics"
+forAutoGen = ["Languages", "local_resources"]
 
 
 def renameToPng(path):
@@ -18,18 +22,30 @@ def renameToPng(path):
     return "/".join(split + [striped])
 
 
-data = []
-for dir in os.listdir("graphics/"):
-    entry = {"language": dir, "graphics": []}
-    for subDir in os.listdir("graphics/" + dir):
-        if os.path.isdir("graphics/" + dir + "/" + subDir):
-            for file in os.listdir("graphics/" + dir + "/" + subDir):
-                if file.endswith("png") or file.endswith("PNG"):
-                    reNamed = renameToPng("graphics" + "/" + dir + "/" + subDir + "/" + file)
-                    entry["graphics"].append({"info": {"name": subDir, "src": reNamed, "translation": ""}})
-    if len(entry["graphics"]) != 0:
-        data.append(entry)
+data = {
+    "Languages": [],
+    "local_resources": [],
+    "Public_Advice": []
+}
 
-t = sorted(data, key=lambda k: k['language'])
-# print(t)
-print(json.dumps(t))
+for paths in forAutoGen:
+    toProcPath = os.path.join(rootDir, paths)
+    for lvl1Dir in os.listdir(toProcPath):
+        entry = {"language": lvl1Dir, "graphics": []}
+        for lvl2Dir in os.listdir(os.path.join(toProcPath, lvl1Dir)):
+            dirOrFilePath = os.path.join(toProcPath, lvl1Dir, lvl2Dir)
+            if os.path.isdir(dirOrFilePath):
+                for file in os.listdir(dirOrFilePath):
+                    if (len(os.listdir(dirOrFilePath))) > 1:
+                        raise Exception("Too many files in dir " + dirOrFilePath)
+                    if file.endswith("png"):
+                        entry["graphics"].append({"info": {"name": str.title(lvl2Dir), "src": os.path.join(dirOrFilePath, file)}})
+                    elif file.endswith("PNG"):
+                        reNamed = renameToPng(os.path.join(dirOrFilePath, file))
+                        entry["graphics"].append({"info": {"name": str.title(lvl2Dir), "src": reNamed}})
+        if len(entry["graphics"]) != 0:
+            data[paths].append(entry)
+
+t = sorted(data["Languages"], key=lambda k: k['language'])
+data["Languages"] = t
+print(json.dumps(data))

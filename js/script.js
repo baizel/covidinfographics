@@ -1,3 +1,5 @@
+var allData;
+
 document.addEventListener('DOMContentLoaded', function () {
     var selectElem = document.querySelectorAll('select');
     var sideNavElem = document.querySelectorAll('.sidenav');
@@ -8,14 +10,14 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 $.getJSON("data.json", function (json) {
-    populate(json)
+    populateLanguage(json)
 });
-var data;
 
-function populate(arr) {
+
+function populateLanguage(arr) {
     let opts = []
-    data = arr;
-    arr.forEach(function (elm, index) {
+    allData = arr;
+    arr.Languages.forEach(function (elm, index) {
         let entry = $("<option>").attr("value", index).text(elm.language);
         opts.push(entry);
     })
@@ -26,17 +28,16 @@ function populate(arr) {
     if (Cookies.get("selected") !== undefined) {
         $('#lanSel').val(parseInt(Cookies.get("selected")));
         M.FormSelect.init(elems);
-        showInfos();
+        showLanguageInfos();
     }
 }
 
-function showInfos() {
+function showLanguageInfos() {
     let indx = $("#lanSel").val();
-    let val = data[indx];
+    let val = allData.Languages[indx];
     Cookies.set("selected", indx);
     $("#allGraphics").text("");
     val.graphics.forEach(function (ele, indx) {
-        console.log(ele);
         let htmlstr = '<li class="collection-item">\n' +
             '                        <div><a class="graphic-link" href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
             '                            <a href="' + ele.info.src + '" class="secondary-content graphic-download" download>\n' +

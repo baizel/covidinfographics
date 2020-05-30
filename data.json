@@ -1,1011 +1,977 @@
-[
-  {
-    "language": "Arabic",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Arabic/Overview/COVIDOutreachArabicFinal.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Arabic/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Myth busters",
-          "src": "graphics/Arabic/Myth busters/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Bengali",
-    "graphics": [
-      {
-        "info": {
-          "name": "Wellbeing",
-          "src": "graphics/Bengali/Wellbeing/Wellbeing(Bengali).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Bengali/Overview/Bengaliinfographic.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Myth buster",
-          "src": "graphics/Bengali/Myth buster/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Bengali/Self care/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Bulgarian",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Bulgarian/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Bulgarian/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbusters",
-          "src": "graphics/Bulgarian/Mythbusters/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Chinese (Traditional)",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Chinese (Traditional)/Overview/Infographic1\u2013TraditionalChinese.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Chinese (Traditional)/Self care/Infographic2\u2013TraditionalChinese.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and prevention",
-          "src": "graphics/Chinese (Traditional)/Spread and prevention/Infographic4\u2013TraditionalChinese-1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Chinese (Traditional)/Mythbuster/Infographic3-TraditionalChinese-1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Chinese (simplified)",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Chinese (simplified)/Overview/Infographic1\u2013SimplifiedChinese\u2013UpdatedFormatting.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Chinese (simplified)/Self care/Infographic2\u2013SimplifiedChinese\u2013UpdatedFormatting.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbusters",
-          "src": "graphics/Chinese (simplified)/Mythbusters/Infographic3-SimplifiedChinese-1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and prevention",
-          "src": "graphics/Chinese (simplified)/Spread and prevention/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Czech",
-    "graphics": [
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Czech/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Czech).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Dutch",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Dutch/Overview/DutchOverviewInfographic.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Myth buster",
-          "src": "graphics/Dutch/Myth buster/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Dutch/Self care/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "English",
-    "graphics": [
-      {
-        "info": {
-          "name": "Wellbeing",
-          "src": "graphics/English/Wellbeing/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/English/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/English/Self care/EnglishInfographicSelf-care.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and prevention",
-          "src": "graphics/English/Spread and prevention/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Myths",
-          "src": "graphics/English/Myths/Infographic4_final.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "French",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/French/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/French/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and prevention",
-          "src": "graphics/French/Spread and prevention/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/French/Mythbuster/COVID19MYTHBUSTERgraphicfinal(French).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "German",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/German/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/German/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "myth busters",
-          "src": "graphics/German/myth busters/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Gujarati",
-    "graphics": [
-      {
-        "info": {
-          "name": "Wellbeing",
-          "src": "graphics/Gujarati/Wellbeing/Wellbeing(Gujarati).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Gujarati/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Gujarati/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Gujarati/Spread and Prevention/COVID-19SpreadandPrevention(Gujarati).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Gujarati/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Mythbuster).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Hebrew",
-    "graphics": [
-      {
-        "info": {
-          "name": "Wellbeing",
-          "src": "graphics/Hebrew/Wellbeing/WellbeingInfographic(Hebrew).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Hebrew/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Hebrew/Self care/COVID-Outreach-Infographic-2-Final.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Hebrew/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Hebrew).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Hindi",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Hindi/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Hindi/Self care/Slide2.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbusters",
-          "src": "graphics/Hindi/Mythbusters/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Italian",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Italian/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Italian/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Italian/Spread and Prevention/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Italian/Mythbuster/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Japanese",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Japanese/Overview/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Korean",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Korean/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Korean/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Korean/Spread and Prevention/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Korean/Mythbuster/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Kurdish",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Kurdish/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Kurdish/Self care/COVIDInfographic2KurdishSorani.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Lithuanian",
-    "graphics": [
-      {
-        "info": {
-          "name": "Wellbeing",
-          "src": "graphics/Lithuanian/Wellbeing/WellbeingInfographic(Lithuanian).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Lithuanian/Overview/CoronavirusLithuaninaninfographic.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Lithuanian/Self care/LithuanianInfographic2-1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Lithuanian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Lithuanian).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Malayalam",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Malayalam/Overview/COVIDOutreachFinalPosterMalayalam.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Malayalam/Self care/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Persian",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Persian/Overview/PersianInfographic1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Persian/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbusters",
-          "src": "graphics/Persian/Mythbusters/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Persian/Spread and Prevention/COVID-19SpreadandPrevention(Persian).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Polish",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Polish/Overview/COVIDOutreachPolish.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Polish/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Myth busters",
-          "src": "graphics/Polish/Myth busters/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Polish/Spread and Prevention/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Portuguese",
-    "graphics": [
-      {
-        "info": {
-          "name": "Wellbeing",
-          "src": "graphics/Portuguese/Wellbeing/Wellbeing(Portuguese).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Portuguese/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Portuguese/Self care/Slide2.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Portuguese/Spread and Prevention/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Portuguese/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Portuguese).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Punjabi",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Punjabi/Overview/COVIDPunjabiInfographic1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Myth busters",
-          "src": "graphics/Punjabi/Myth busters/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Romanian",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Romanian/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Romanian/Self care/COVID-19SpreadandPrevention(Romanian).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbusters",
-          "src": "graphics/Romanian/Mythbusters/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Romanian/Spread and Prevention/COVID-19SpreadandPrevention(Romanian).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Russian",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Russian/Overview/RussianInfographic1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Russian/Self care/COVIDOutreachInfographicSelfcare(Russian).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Russian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Russian).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Sinhalese",
-    "graphics": [
-      {
-        "info": {
-          "name": "MythBuster",
-          "src": "graphics/Sinhalese/MythBuster/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Sinhalese/Overview/COVIDSinhaleseInfographic1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Sinhalese/Self care/SinhaleseSelfcareinfographic.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Slovak",
-    "graphics": [
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Slovak/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Slovak).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Somali",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Somali/Overview/Slide2.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Somali/Self care/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Spanish",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Spanish/Overview/SpanishInfographic1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Spanish/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbusters",
-          "src": "graphics/Spanish/Mythbusters/COVID-19MythbustingInfographic(Spanish).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Spanish/Spread and Prevention/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Swahili",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Swahili/Overview/swahili.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Swahili/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "myth busters",
-          "src": "graphics/Swahili/myth busters/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Swedish",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Swedish/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Swedish/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "myth busters",
-          "src": "graphics/Swedish/myth busters/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Swedish/Spread and Prevention/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Sylheti",
-    "graphics": [
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Sylheti/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Sylheti).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Tamil",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Tamil/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Tamil/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "myth busters",
-          "src": "graphics/Tamil/myth busters/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Turkish",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Turkish/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Spread and Prevention",
-          "src": "graphics/Turkish/Spread and Prevention/COVID-19SpreadandPrevention(Turkish).png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Turkish/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Turkish).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Ukrainian",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Ukrainian/Overview/UkranianInfographic1.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Urdu",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Urdu/Overview/Urduinfographic.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Urdu/Self care/Infographic2\u2013UrduTranslation.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Urdu/Self care/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Mythbuster",
-          "src": "graphics/Urdu/Mythbuster/COVID19Mythbusters(Urdu).png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Vietnamese",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Vietnamese/Overview/Vietnameseinfographic.png",
-          "translation": ""
-        }
-      }
-    ]
-  },
-  {
-    "language": "Yoruba",
-    "graphics": [
-      {
-        "info": {
-          "name": "Overview",
-          "src": "graphics/Yoruba/Overview/Slide1.png",
-          "translation": ""
-        }
-      },
-      {
-        "info": {
-          "name": "Self care",
-          "src": "graphics/Yoruba/Self care/Slide1.png",
-          "translation": ""
-        }
-      }
-    ]
-  }
-]
+{
+  "Languages": [
+    {
+      "language": "Arabic",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Arabic/Overview/COVIDOutreachArabicFinal.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Arabic/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Arabic/Myth busters/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Bengali",
+      "graphics": [
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Bengali/Wellbeing/Wellbeing(Bengali).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Bengali/Overview/Bengaliinfographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Buster",
+            "src": "graphics/Languages/Bengali/Myth buster/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Bengali/Self care/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Bulgarian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Bulgarian/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Bulgarian/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Bulgarian/Mythbusters/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Chinese (Traditional)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Chinese (Traditional)/Overview/Infographic1\u2013TraditionalChinese.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Chinese (Traditional)/Self care/Infographic2\u2013TraditionalChinese.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Chinese (Traditional)/Spread and prevention/Infographic4\u2013TraditionalChinese-1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Chinese (Traditional)/Mythbuster/Infographic3-TraditionalChinese-1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Chinese (simplified)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Chinese (simplified)/Overview/Infographic1\u2013SimplifiedChinese\u2013UpdatedFormatting.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Chinese (simplified)/Self care/Infographic2\u2013SimplifiedChinese\u2013UpdatedFormatting.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Chinese (simplified)/Mythbusters/Infographic3-SimplifiedChinese-1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Chinese (simplified)/Spread and prevention/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Czech",
+      "graphics": [
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Czech/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Czech).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Dutch",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Dutch/Overview/DutchOverviewInfographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Buster",
+            "src": "graphics/Languages/Dutch/Myth buster/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Dutch/Self care/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "graphics": [
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/English/Wellbeing/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/English/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/English/Self care/EnglishInfographicSelf-care.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/English/Spread and prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myths",
+            "src": "graphics/Languages/English/Myths/Infographic4_final.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "French",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/French/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/French/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/French/Spread and prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/French/Mythbuster/COVID19MYTHBUSTERgraphicfinal(French).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "German",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/German/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/German/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/German/myth busters/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Gujarati",
+      "graphics": [
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Gujarati/Wellbeing/Wellbeing(Gujarati).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Gujarati/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Gujarati/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Gujarati/Spread and Prevention/COVID-19SpreadandPrevention(Gujarati).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Gujarati/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Mythbuster).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hebrew",
+      "graphics": [
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Hebrew/Wellbeing/WellbeingInfographic(Hebrew).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Hebrew/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Hebrew/Self care/COVID-Outreach-Infographic-2-Final.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Hebrew/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Hebrew).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Hindi/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Hindi/Self care/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Hindi/Mythbusters/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Italian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Italian/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Italian/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Italian/Spread and Prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Italian/Mythbuster/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Japanese",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Japanese/Overview/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Korean",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Korean/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Korean/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Korean/Spread and Prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Korean/Mythbuster/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Kurdish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Kurdish/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Kurdish/Self care/COVIDInfographic2KurdishSorani.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Lithuanian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Lithuanian/Wellbeing/WellbeingInfographic(Lithuanian).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Lithuanian/Overview/CoronavirusLithuaninaninfographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Lithuanian/Self care/LithuanianInfographic2-1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Lithuanian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Lithuanian).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Malayalam",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Malayalam/Overview/COVIDOutreachFinalPosterMalayalam.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Malayalam/Self care/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Persian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Persian/Overview/PersianInfographic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Persian/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Persian/Mythbusters/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Persian/Spread and Prevention/COVID-19SpreadandPrevention(Persian).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Polish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Polish/Overview/COVIDOutreachPolish.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Polish/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Polish/Myth busters/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Polish/Spread and Prevention/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Portuguese",
+      "graphics": [
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Portuguese/Wellbeing/Wellbeing(Portuguese).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Portuguese/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Portuguese/Self care/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Portuguese/Spread and Prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Portuguese/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Portuguese).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Punjabi/Overview/COVIDPunjabiInfographic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Punjabi/Myth busters/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Romanian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Romanian/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Romanian/Self care/COVID-19SpreadandPrevention(Romanian).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Romanian/Mythbusters/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Romanian/Spread and Prevention/COVID-19SpreadandPrevention(Romanian).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Russian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Russian/Overview/RussianInfographic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Russian/Self care/COVIDOutreachInfographicSelfcare(Russian).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Russian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Russian).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Sinhalese",
+      "graphics": [
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Sinhalese/MythBuster/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Sinhalese/Overview/COVIDSinhaleseInfographic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Sinhalese/Self care/SinhaleseSelfcareinfographic.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Slovak",
+      "graphics": [
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Slovak/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Slovak).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Somali",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Somali/Overview/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Somali/Self care/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Spanish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Spanish/Overview/SpanishInfographic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Spanish/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Spanish/Mythbusters/COVID-19MythbustingInfographic(Spanish).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Spanish/Spread and Prevention/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Swahili",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Swahili/Overview/swahili.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Swahili/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Swahili/myth busters/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Swedish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Swedish/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Swedish/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Swedish/myth busters/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Swedish/Spread and Prevention/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Sylheti",
+      "graphics": [
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Sylheti/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Sylheti).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Tamil",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Tamil/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Tamil/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Tamil/myth busters/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Turkish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Turkish/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Turkish/Spread and Prevention/COVID-19SpreadandPrevention(Turkish).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Turkish/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Turkish).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Ukrainian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Ukrainian/Overview/UkranianInfographic1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Urdu",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Urdu/Overview/Urduinfographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Urdu/Self care/Infographic2\u2013UrduTranslation.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Urdu/Mythbuster/COVID19Mythbusters(Urdu).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Vietnamese",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Vietnamese/Overview/Vietnameseinfographic.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Yoruba",
+      "graphics": [
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Yoruba/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Yoruba/Self care/Slide1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "local_resources": [
+    {
+      "language": "Yorkshire",
+      "graphics": [
+        {
+          "info": {
+            "name": "All Bame And Asian Communities",
+            "src": "graphics/local_resources/Yorkshire/All BAME and Asian communities/Slide7.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Northern",
+      "graphics": [
+        {
+          "info": {
+            "name": "All Bame, Afrocaribbean And Refugee Communities",
+            "src": "graphics/local_resources/Northern/All BAME, Afrocaribbean and Refugee communities/Slide10.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Midlands",
+      "graphics": [
+        {
+          "info": {
+            "name": "All Bame, Asian And Afrocaribbean Communities",
+            "src": "graphics/local_resources/Midlands/All BAME, Asian and Afrocaribbean communities/Slide5.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "North West",
+      "graphics": [
+        {
+          "info": {
+            "name": "Arabic, Asian And Refugee Communities",
+            "src": "graphics/local_resources/North West/Arabic, Asian and Refugee communities/Slide9.png"
+          }
+        },
+        {
+          "info": {
+            "name": "All Bame And Afrocaribbean Communities",
+            "src": "graphics/local_resources/North West/All BAME and Afrocaribbean communities/Slide8.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "London",
+      "graphics": [
+        {
+          "info": {
+            "name": "Asian Communities",
+            "src": "graphics/local_resources/London/Asian communities/Slide3.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Refugee And Asylum Seekers",
+            "src": "graphics/local_resources/London/Refugee and asylum seekers/Slide4.png"
+          }
+        },
+        {
+          "info": {
+            "name": "All Bame, Afrocaribbean And Islamic Communities",
+            "src": "graphics/local_resources/London/All BAME, Afrocaribbean and Islamic communities/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "South West",
+      "graphics": [
+        {
+          "info": {
+            "name": "All Bame, Afrocaribbean, Asian And Refugee Communities",
+            "src": "graphics/local_resources/South West/All BAME, Afrocaribbean, Asian and Refugee communities/Slide6.png"
+          }
+        }
+      ]
+    }
+  ],
+  "Public_Advice": []
+}
