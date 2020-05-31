@@ -5,8 +5,26 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Arabic/School Safety Measures part 1/SG1 Arabic 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Arabic/Overview/COVIDOutreachArabicFinal.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Arabic/School 1st June changes part 1/SG1Arabic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Arabic/School Safety Measures part 2/SG1 Arabic 2.png"
           }
         },
         {
@@ -20,6 +38,12 @@
             "name": "Myth Busters",
             "src": "graphics/Languages/Arabic/Myth busters/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Arabic/School 1st June changes part 2/SG1Arabic2.png"
+          }
         }
       ]
     },
@@ -29,7 +53,7 @@
         {
           "info": {
             "name": "Wellbeing",
-            "src": "graphics/Languages/Bengali/Wellbeing/Wellbeing(Bengali).png"
+            "src": "graphics/Languages/Bengali/Wellbeing/Wellbeing (Bengali).png"
           }
         },
         {
@@ -80,8 +104,26 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Chinese (Traditional)/School Safety Measures part 1/SG2 Chinese Traditional 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Chinese (Traditional)/Overview/Infographic1\u2013TraditionalChinese.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Chinese (Traditional)/School 1st June changes part 1/SG1 Traditional Chinese 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Chinese (Traditional)/School Safety Measures part 2/SG2 Chinese Traditional 2.png"
           }
         },
         {
@@ -93,13 +135,19 @@
         {
           "info": {
             "name": "Spread And Prevention",
-            "src": "graphics/Languages/Chinese (Traditional)/Spread and prevention/Infographic4\u2013TraditionalChinese-1.png"
+            "src": "graphics/Languages/Chinese (Traditional)/Spread and prevention/Infographic 4 \u2013 Traditional Chinese-1.png"
           }
         },
         {
           "info": {
             "name": "Mythbuster",
             "src": "graphics/Languages/Chinese (Traditional)/Mythbuster/Infographic3-TraditionalChinese-1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Chinese (Traditional)/School 1st June changes part 2/SG1 Traditional Chinese 2.png"
           }
         }
       ]
@@ -109,8 +157,26 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Chinese (simplified)/School Safety Measures part 1/SG2 Chinese Simplified 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Chinese (simplified)/Overview/Infographic1\u2013SimplifiedChinese\u2013UpdatedFormatting.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Chinese (simplified)/School 1st June changes part 1/SG1 Simplified Chinese 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Chinese (simplified)/School Safety Measures part 2/SG2 Chinese Simplified 2.png"
           }
         },
         {
@@ -130,6 +196,12 @@
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Chinese (simplified)/Spread and prevention/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Chinese (simplified)/School 1st June changes part 2/SG1 Simplified Chinese 2.png"
+          }
         }
       ]
     },
@@ -139,7 +211,7 @@
         {
           "info": {
             "name": "Mythbuster",
-            "src": "graphics/Languages/Czech/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Czech).png"
+            "src": "graphics/Languages/Czech/Mythbuster/COVID19 MYTHBUSTER graphic final (Czech).png"
           }
         }
       ]
@@ -178,8 +250,26 @@
         },
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/English/School Safety Measures part 1/SG2 English 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/English/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/English/School 1st June changes part 1/SG1English1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/English/School Safety Measures part 2/SG2 English 2.png"
           }
         },
         {
@@ -198,6 +288,12 @@
           "info": {
             "name": "Myths",
             "src": "graphics/Languages/English/Myths/Infographic4_final.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/English/School 1st June changes part 2/SG1English2.png"
           }
         }
       ]
@@ -260,7 +356,7 @@
         {
           "info": {
             "name": "Wellbeing",
-            "src": "graphics/Languages/Gujarati/Wellbeing/Wellbeing(Gujarati).png"
+            "src": "graphics/Languages/Gujarati/Wellbeing/Wellbeing (Gujarati).png"
           }
         },
         {
@@ -284,7 +380,7 @@
         {
           "info": {
             "name": "Mythbuster",
-            "src": "graphics/Languages/Gujarati/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Mythbuster).png"
+            "src": "graphics/Languages/Gujarati/Mythbuster/COVID19 MYTHBUSTER graphic final (Mythbuster).png"
           }
         }
       ]
@@ -295,7 +391,7 @@
         {
           "info": {
             "name": "Wellbeing",
-            "src": "graphics/Languages/Hebrew/Wellbeing/WellbeingInfographic(Hebrew).png"
+            "src": "graphics/Languages/Hebrew/Wellbeing/Wellbeing Infographic (Hebrew).png"
           }
         },
         {
@@ -346,8 +442,26 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Italian/School Safety Measures part 1/SG2 Italian 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Italian/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Italian/School 1st June changes part 1/SG1 Italian 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Italian/School Safety Measures part 2/SG2 Italian 2.png"
           }
         },
         {
@@ -366,6 +480,12 @@
           "info": {
             "name": "Mythbuster",
             "src": "graphics/Languages/Italian/Mythbuster/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Italian/School 1st June changes part 2/SG1 Italian 2.png"
           }
         }
       ]
@@ -415,14 +535,38 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Kurdish/School Safety Measures part 1/SG2 Kurdish 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Kurdish/Overview/Slide1.png"
           }
         },
         {
           "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Kurdish/School 1st June changes part 1/SG1SoraniKurdish1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Kurdish/School Safety Measures part 2/SG2 Kurdish 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Kurdish/Self care/COVIDInfographic2KurdishSorani.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Kurdish/School 1st June changes part 2/SG1SoraniKurdish2.png"
           }
         }
       ]
@@ -433,7 +577,7 @@
         {
           "info": {
             "name": "Wellbeing",
-            "src": "graphics/Languages/Lithuanian/Wellbeing/WellbeingInfographic(Lithuanian).png"
+            "src": "graphics/Languages/Lithuanian/Wellbeing/Wellbeing Infographic (Lithuanian).png"
           }
         },
         {
@@ -497,7 +641,7 @@
         {
           "info": {
             "name": "Spread And Prevention",
-            "src": "graphics/Languages/Persian/Spread and Prevention/COVID-19SpreadandPrevention(Persian).png"
+            "src": "graphics/Languages/Persian/Spread and Prevention/COVID-19 Spread and Prevention (Persian).png"
           }
         }
       ]
@@ -507,8 +651,26 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Polish/School Safety Measures part 1/SG2 Polish 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Polish/Overview/COVIDOutreachPolish.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Polish/School 1st June changes part 1/SG1 Polish 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Polish/School Safety Measures part 2/SG2 Polish 2.png"
           }
         },
         {
@@ -528,6 +690,12 @@
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Polish/Spread and Prevention/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Polish/School 1st June changes part 2/SG1 Polish 2.png"
+          }
         }
       ]
     },
@@ -537,13 +705,31 @@
         {
           "info": {
             "name": "Wellbeing",
-            "src": "graphics/Languages/Portuguese/Wellbeing/Wellbeing(Portuguese).png"
+            "src": "graphics/Languages/Portuguese/Wellbeing/Wellbeing (Portuguese).png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Portuguese/School Safety Measures part 1/SG2 Portuguese 1.png"
           }
         },
         {
           "info": {
             "name": "Overview",
             "src": "graphics/Languages/Portuguese/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Portuguese/School 1st June changes part 1/SG1 Portuguese 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Portuguese/School Safety Measures part 2/SG2 Portuguese 2.png"
           }
         },
         {
@@ -562,6 +748,12 @@
           "info": {
             "name": "Mythbuster",
             "src": "graphics/Languages/Portuguese/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Portuguese).png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Portuguese/School 1st June changes part 2/SG1 Portuguese 2.png"
           }
         }
       ]
@@ -588,14 +780,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Romanian/Overview/Slide1.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Romanian/Wellbeing/Wellbeing Infographic (Romanian).png"
           }
         },
         {
           "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Romanian/Self care/COVID-19SpreadandPrevention(Romanian).png"
+            "name": "Overview",
+            "src": "graphics/Languages/Romanian/Overview/Slide1.png"
           }
         },
         {
@@ -607,7 +799,7 @@
         {
           "info": {
             "name": "Spread And Prevention",
-            "src": "graphics/Languages/Romanian/Spread and Prevention/COVID-19SpreadandPrevention(Romanian).png"
+            "src": "graphics/Languages/Romanian/Spread and Prevention/COVID-19 Spread and Prevention (Romanian).png"
           }
         }
       ]
@@ -664,7 +856,7 @@
         {
           "info": {
             "name": "Mythbuster",
-            "src": "graphics/Languages/Slovak/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Slovak).png"
+            "src": "graphics/Languages/Slovak/Mythbuster/COVID19 MYTHBUSTER graphic final (Slovak).png"
           }
         }
       ]
@@ -691,8 +883,26 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Spanish/School Safety Measures part 1/SG2 Spanish 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Spanish/Overview/SpanishInfographic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Spanish/School 1st June changes part 1/SG1Spanish1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Spanish/School Safety Measures part 2/SG2 Spanish 2.png"
           }
         },
         {
@@ -711,6 +921,12 @@
           "info": {
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Spanish/Spread and Prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Spanish/School 1st June changes part 2/SG1Spanish2.png"
           }
         }
       ]
@@ -773,7 +989,7 @@
         {
           "info": {
             "name": "Mythbuster",
-            "src": "graphics/Languages/Sylheti/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Sylheti).png"
+            "src": "graphics/Languages/Sylheti/Mythbuster/COVID19 MYTHBUSTER graphic final (Sylheti).png"
           }
         }
       ]
@@ -783,8 +999,26 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Tamil/School Safety Measures part 1/SG2 Tamil 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Tamil/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Tamil/School 1st June changes part 1/SG1 Tamil 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Tamil/School Safety Measures part 2/SG2 Tamil 2.png"
           }
         },
         {
@@ -797,6 +1031,12 @@
           "info": {
             "name": "Myth Busters",
             "src": "graphics/Languages/Tamil/myth busters/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Tamil/School 1st June changes part 2/SG1 Tamil 2.png"
           }
         }
       ]
@@ -813,7 +1053,7 @@
         {
           "info": {
             "name": "Spread And Prevention",
-            "src": "graphics/Languages/Turkish/Spread and Prevention/COVID-19SpreadandPrevention(Turkish).png"
+            "src": "graphics/Languages/Turkish/Spread and Prevention/COVID-19 Spread and Prevention (Turkish).png"
           }
         },
         {
@@ -840,20 +1080,44 @@
       "graphics": [
         {
           "info": {
+            "name": "School Safety Measures Part 1",
+            "src": "graphics/Languages/Urdu/School Safety Measures part 1/SG1 Urdu 1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
-            "src": "graphics/Languages/Urdu/Overview/Urduinfographic.png"
+            "src": "graphics/Languages/Urdu/Overview/Urdu infographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 1",
+            "src": "graphics/Languages/Urdu/School 1st June changes part 1/SG1 Urdu 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "School Safety Measures Part 2",
+            "src": "graphics/Languages/Urdu/School Safety Measures part 2/SG1 Urdu 2.png"
           }
         },
         {
           "info": {
             "name": "Self Care",
-            "src": "graphics/Languages/Urdu/Self care/Infographic2\u2013UrduTranslation.png"
+            "src": "graphics/Languages/Urdu/Self care/Infographic 2 \u2013 Urdu Translation.png"
           }
         },
         {
           "info": {
             "name": "Mythbuster",
-            "src": "graphics/Languages/Urdu/Mythbuster/COVID19Mythbusters(Urdu).png"
+            "src": "graphics/Languages/Urdu/Mythbuster/COVID 19 Mythbusters (Urdu).png"
+          }
+        },
+        {
+          "info": {
+            "name": "School 1St June Changes Part 2",
+            "src": "graphics/Languages/Urdu/School 1st June changes part 2/SG1 Urdu 2.png"
           }
         }
       ]
@@ -894,7 +1158,7 @@
         {
           "info": {
             "name": "All Bame And Asian Communities",
-            "src": "graphics/local_resources/Yorkshire/All BAME and Asian communities/Slide7.png"
+            "src": "graphics/local_resources/Yorkshire/All BAME and Asian communities/AllBAME,AsianandAfricancommunities.png"
           }
         }
       ]
@@ -904,8 +1168,8 @@
       "graphics": [
         {
           "info": {
-            "name": "All Bame, Afrocaribbean And Refugee Communities",
-            "src": "graphics/local_resources/Northern/All BAME, Afrocaribbean and Refugee communities/Slide10.png"
+            "name": "All Bame, Afro-Caribbean And Refugee Communities",
+            "src": "graphics/local_resources/Northern/All BAME, Afro-Caribbean and Refugee communities/Slide10.png"
           }
         }
       ]
@@ -915,8 +1179,8 @@
       "graphics": [
         {
           "info": {
-            "name": "All Bame, Asian And Afrocaribbean Communities",
-            "src": "graphics/local_resources/Midlands/All BAME, Asian and Afrocaribbean communities/Slide5.png"
+            "name": "All Bame Communities",
+            "src": "graphics/local_resources/Midlands/All BAME communities/AllBAME,AsianandAfricancommunities.png"
           }
         }
       ]
@@ -932,8 +1196,8 @@
         },
         {
           "info": {
-            "name": "All Bame And Afrocaribbean Communities",
-            "src": "graphics/local_resources/North West/All BAME and Afrocaribbean communities/Slide8.png"
+            "name": "All Bame & Afro-Caribbean Communities",
+            "src": "graphics/local_resources/North West/All BAME & Afro-Caribbean communities/AllBAMEandAfrocaribbeancommunities.png"
           }
         }
       ]
@@ -955,8 +1219,8 @@
         },
         {
           "info": {
-            "name": "All Bame, Afrocaribbean And Islamic Communities",
-            "src": "graphics/local_resources/London/All BAME, Afrocaribbean and Islamic communities/Slide2.png"
+            "name": "Afro-Caribbean And Islamic Communities",
+            "src": "graphics/local_resources/London/Afro-Caribbean and Islamic communities/Slide2.png"
           }
         }
       ]
@@ -966,8 +1230,8 @@
       "graphics": [
         {
           "info": {
-            "name": "All Bame, Afrocaribbean, Asian And Refugee Communities",
-            "src": "graphics/local_resources/South West/All BAME, Afrocaribbean, Asian and Refugee communities/Slide6.png"
+            "name": "All Bame, Afro-Caribbean And Refugee Communities",
+            "src": "graphics/local_resources/South West/All BAME, Afro-Caribbean and Refugee communities/Slide6.png"
           }
         }
       ]

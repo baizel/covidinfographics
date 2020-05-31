@@ -4,13 +4,14 @@ document.addEventListener('DOMContentLoaded', function () {
     var selectElem = document.querySelectorAll('select');
     var sideNavElem = document.querySelectorAll('.sidenav');
     var colpaseElem = document.querySelectorAll('.collapsible');
+    populateLocalResource();
     M.Collapsible.init(colpaseElem);
     M.Sidenav.init(sideNavElem);
     M.FormSelect.init(selectElem);
 });
 
 $.getJSON("data.json", function (json) {
-    populateLanguage(json)
+    populateLanguage(json);
 });
 
 
@@ -69,4 +70,27 @@ function setShareLinks(url, txt) {
     document.getElementById("twitterSocial").href = encodeURI(twitter);
     document.getElementById("mailSocial").href = encodeURI(mail);
     document.getElementById("whatsappSocial").href = encodeURI(whatsApp);
-} 
+}
+
+function populateLocalResource() {
+    $.getJSON('../data.json', function (arr) {
+        arr.local_resources.forEach(function (elm, index) {
+            let coll = '<li>\n' +
+                '                    <div class="collapsible-header">' + elm.language + '</div>\n' +
+                '                    <div class="collapsible-body">\n';
+            elm.graphics.forEach(function (anotherElm, i) {
+                let con = '  <ul class="collection">\n' +
+                    '                            <a href="../' + anotherElm.info.src + '"\n' +
+                    '                               class="collection-item">' + anotherElm.info.name + '</a>\n' +
+                    '                        </ul>'
+                coll = coll + con;
+            });
+
+            coll.concat('</div>\n' +
+                '</li>')
+
+            $("#infos").append(coll);
+        })
+    });
+
+}
