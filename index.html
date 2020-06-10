@@ -91,11 +91,11 @@
             color: #ef9a9a !important;
         }
 
-        a.graphic-link, a.graphic-download {
+        a.graphic-link, a.graphic-download, .collection-item > a {
             color: #00838f;
         }
 
-        a.graphic-link:hover, a.graphic-download:hover {
+        a.graphic-link:hover, a.graphic-download:hover, .collection-item > a:hover {
             color: #26c6da;
         }
 
@@ -158,6 +158,20 @@
 
         nav.nav-center ul li a {
             display: inline-block;
+        }
+
+        div.collapsible-header {
+            color: #777777;
+            text-align: center;
+            display: block;
+        }
+
+        li.active > div.collapsible-header {
+            color: #d50000;
+        }
+
+        .collapsible .collection {
+            padding: 0;
         }
     </style>
 </head>
