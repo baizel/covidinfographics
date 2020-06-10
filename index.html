@@ -146,6 +146,19 @@
         nav {
             border-bottom: 3px solid #d50000;
         }
+
+        nav.nav-center ul {
+            text-align: center;
+        }
+
+        nav.nav-center ul li {
+            display: inline;
+            float: none;
+        }
+
+        nav.nav-center ul li a {
+            display: inline-block;
+        }
     </style>
 </head>
 
@@ -155,117 +168,186 @@
 
 <!-- === Begin Content === -->
 
-<nav class="cyan darken-2">
-    <div class="brand-logo center">COVID-19 Infographics</div>
-    <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="pages/get-involved.html">Get involved</a></li>
-        <li><a href="pages/resources.html">Well-being</a></li>
-    </ul>
+<nav class="cyan darken-2 nav-extended nav-center">
+    <div class="nav-wrapper">
+        <div class="brand-logo center hide-on-med-and-down">COVID-19 Infographics</div>
+        <div class="brand-logo center hide-on-large-only">COVID-19</div>
+        <!--        <ul id="nav-mobile" class="right hide-on-med-and-down">-->
+        <!--            <li><a href="pages/get-involved.html">Get involved</a></li>-->
+        <!--            <li><a href="pages/resources.html">Well-being</a></li>-->
+        <!--        </ul>-->
+    </div>
+    <div class="nav-content">
+        <ul class="tabs tabs-transparent">
+            <li class="tab"><a class="active" href="#home">Home</a></li>
+            <li class="tab disabled"><a href="#about-us">About Us</a></li>
+            <li class="tab"><a href="#partners">Partners</a></li>
+            <li class="tab disabled"><a href="#media-press">Media/Press</a></li>
+            <li class="tab"><a href="#get-involved">Get Involved</a></li>
+        </ul>
+    </div>
 </nav>
 
 <main class="white">
+    <div class="container">
+        <div id="home" class="col s12">
+            <div class="row">
+                <div id="card1Container" class="col s12">
+                    <div class="card grey lighten-4" id="language_selection">
+                        <div class="card-content">
+                            <span class="card-title cyan-text text-darken-2">Please Selected your Preferred Language</span>
+                            <br/>
+                            <div onclick="resetSelection()">
+                                <select class="white materialSelect browser-default" id="lanSel"
+                                        onchange="showLanguageInfos()">
+                                    <option value="" disabled selected>Choose here...</option>
+                                </select>
+                            </div>
 
-    <div class="container row">
-        <div class="col s12 m8">
-            <div id="missionContainer" class="col s12">
-                <div class="card grey lighten-4">
-                    <div class="card-content">
-                        <span class="card-title cyan-text text-darken-2">Our Mission</span>
-                        <p>As a group of doctors, medical students and volunteers, we’ve created infographics to help
-                            summarise key points about COVID-19 in a variety of languages to get the right information,
-                            in
-                            an easy to understand format, to these communities.</p>
-                        <br/>
-                        <p>Follow the steps below to view or download an infographic in your preferred langauge.</p>
+                        </div>
                     </div>
-                </div>
-            </div>
-            <div id="card1Container" class="col s12">
-                <div class="card grey lighten-4" id="language_selection">
-                    <div class="card-content">
-                        <span class="card-title cyan-text text-darken-2">Step 1</span>
-                        <p class="black-text">First, select your preferred language</p>
-                        <br/>
-                        <div onclick="resetSelection()">
-                            <select class="white materialSelect browser-default" id="lanSel" onchange="showLanguageInfos()">
-                                <option value="" disabled selected>Choose here...</option>
-                            </select>
+                    <div id="card2Container">
+                        <div class="card grey lighten-4 scale-transition scale-out" id="infographic_selection">
+                            <div class="card-content">
+                                <span class="card-title cyan-text text-darken-2">Step 2</span>
+                                <p class="black-text">View or download infographics from the list below by clicking one
+                                    of
+                                    the
+                                    options</p>
+                                <br/>
+                                <ul id="allGraphics" class="collapsible">
+                                    <li class="collection-item">
+                                        <div class="red-text">Please Select a language first
+                                            <a href="#!" class="secondary-content" style="visibility: hidden">
+                                                <i class="material-icons ">file_download</i>
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <br/>
+                                <p class="black-text">You can share the infographics with others using the buttons
+                                    below</p>
+                            </div>
+                            <div class="card-action center">
+                                <a id="facebookSocial" class="flow-text" href="#"><i class="fa fa-facebook"></i></a>
+                                <a id="twitterSocial" class="flow-text" href="#"><i class="fa fa-twitter"></i></a>
+                                <a id="mailSocial" class="flow-text" href="#"><i class="fa fa-envelope"></i></a>
+                                <a id="whatsappSocial" class="flow-text" href="#"><i class="fa fa-whatsapp"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div id="card2Container" class="col s12">
-                <div class="card grey lighten-4 scale-transition scale-out" id="infographic_selection">
-                    <div class="card-content">
-                        <span class="card-title cyan-text text-darken-2">Step 2</span>
-                        <p class="black-text">View or download infographics from the list below by clicking either of the two options</p>
-                        <br/>
-                        <ul id="allGraphics" class="collapsible">
-<!--                            <li class="collection-item">-->
-<!--                                <div class="red-text">Please Select a language first-->
-<!--                                    <a href="#!" class="secondary-content" style="visibility: hidden">-->
-<!--                                        <i class="material-icons ">file_download</i>-->
-<!--                                    </a>-->
-<!--                                </div>-->
-<!--                            </li>-->
-                        </ul>
-                        <br/>
-                        <p class="black-text">You can share the infographics with others using the buttons below</p>
+        </div>
+        <div id="partners" class="col s12">
+            <div class="row">
+                <div class="col s12 m12">
+                    <div class="card grey lighten-4">
+                        <div class="card-content">
+                            <span class="card-title cyan-text text-darken-2">Find Local Well-being Centers Near You</span>
+                        </div>
                     </div>
-                    <div class="card-action center">
-                        <a id="facebookSocial" class="flow-text" href="#"><i class="fa fa-facebook"></i></a>
-                        <a id="twitterSocial" class="flow-text" href="#"><i class="fa fa-twitter"></i></a>
-                        <a id="mailSocial" class="flow-text" href="#"><i class="fa fa-envelope"></i></a>
-                        <a id="whatsappSocial" class="flow-text" href="#"><i class="fa fa-whatsapp"></i></a>
-                    </div>
+                </div>
+                <div class="col s12 m12">
+                    <ul class="collapsible" id="infos">
+
+                    </ul>
                 </div>
             </div>
         </div>
-        <div class="col s122 m4">
-            <div class="col s12">
-                <div class="card grey lighten-4">
-                    <div class="card-content">
-                        <span class="card-title cyan-text text-darken-2">Well-being</span>
-                        <p>We have created a list of all the services offering
-                            support to BAME groups in each region of the UK.</p>
-                        <a href="pages/resources.html">Click here to find one near you</a>
+        <div id="about-us" class="col s12">Coming Soon</div>
+        <div id="media-press" class="col s12">Coming Soon</div>
+        <div id="get-involved" class="col s12">
+            <div class="row">
+                <div class="col s12 m12">
+                    <div class="card grey lighten-4">
+                        <div class="card-content">
+                            <span class="card-title cyan-text text-darken-2">How you can help</span>
+                            <p>Thank you for your interest! We hope you become part of our team to make a difference in these
+                                tough times.
+                                We have the following roles currently open.</p>
+                            <br/>
+                            <p>If you would like to help, Contact us by emailing <a href="mailto:covid19infographics@gmail.com">covid19infographics@gmail.com</a></p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div id="socialContainer" class="col s12">
-                <div class="card grey lighten-4">
-                    <div class="card-content">
-                        <span class="card-title cyan-text text-darken-2">Share & Get Involved</span>
-                        <div class="fb-like left" data-href="https://www.facebook.com/COVID2019Infographics"
-                             data-width="" data-layout="box_count" data-action="like" data-size="small"
-                             data-share="true"
-                             style="margin-right: 5px;"></div>
-                        <p class="black-text">Like our Facebook page and share it with your friends! Please consider
-                            getting involved.</p>
-                    </div>
-                    <div class="card-action">
-                        <a href="get-involved.html">We have open roles, get involved now!</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12">
-                <div class="card grey lighten-4">
-                    <div class="card-content">
-                        <a class="twitter-timeline" data-height="420"
-                           href="https://twitter.com/C19Infographics?ref_src=twsrc%5Etfw">Tweets by C19Infographics</a>
-                    </div>
+                <div class="col s12 m12">
+                    <ul class="collapsible">
+                        <li>
+                            <div class="collapsible-header"><i class="material-icons">create</i>Content Creators</div>
+                            <div class="collapsible-body"><span>
+                    <p>As circumstances surrounding COVID evolve continuously, we will be required to release updated infographics to address them.
+                        We are looking for individuals who will be keen to:</p>
+                    <ul class="browser-default">
+                        <li>gather and summaries information from reliable sources (e.g. WHO, NHS, NICE, GOV.UK) </li>
+                        <li>creating infographics with the information gathered</li>
+                    </ul>
+                    <p>We have a group of doctors who are readily available to validate any information going up to make this process as secure and as reliable as possible. No previous design experience is required!
+                        Most of our infographics are put together on Microsoft Powerpoint, so some proficiency there would be appreciated.</p>
+                </span></div>
+                        </li>
+                        <li>
+                            <div class="collapsible-header"><i class="material-icons">translate</i>Translators</div>
+                            <div class="collapsible-body"><span>
+                       <p>
+                            With up to 30 languages (and potentially more) on offer, we are constantly
+                           looking for individuals who can translate simple medical information.
+                       </p>
+                        <p>Here are the current list of languages we are currently offering:
+                            Hindi, Gujarati, Punjabi, Bengali, Tamil, Swahili, Urdu, Polish, Arabic, Hebrew, German, Turkish, Farsi,
+                           Malayalam, Kurdish, French, Lithuanian, Yoruba, Chinese (simplified), Russian,
+                           Spanish, Ukrainian, Japanese, Somali, Vietnamese, Mali, Dutch, Bulgarian, Swedish,
+                           Korean and Portuguese!
+                        </p>
+                           <p> If you are interested in translating any of these languages or can offer any
+                           languages that are not on this list, please get in touch! We are ideally looking for those
+                               who are fluent in their respective language. </p>
+                        <p>PLEASE ALSO SEE: “Community ambassadors” – language unlocks a community; most of our current
+                           translators also work as community ambassadors, please also see the role description
+                           if you would like to get involved
+                   </p> </span></div>
+                        </li>
+                        <li>
+                            <div class="collapsible-header"><i class="material-icons">transfer_within_a_station</i>Community
+                                Ambassadors
+                            </div>
+                            <div class="collapsible-body"><span><p>
+                        Prevention is the best cure. Education can allow for this prevention to occur. For our infographics to have maximum impact, we will need individuals who can distribute them to the communities represented by the languages we offer.
+                        Your role would include: </p>
+                        <ul class="browser-default">
+                            <li>distributing the respective infographic to the correct communities by various media means</li>
+                            <li>reaching out to those who have a wider influence on these communities, e.g. religious leaders, university societies, public/global health groups. </li>
+                            <li>promoting our initiative to gain more attention </li>
+                        </ul>
+                    <p>No experience required! Just a willingness to put yourself out there for a meaningful and impactful cause.</p></span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="collapsible-header"><i class="material-icons">share</i>Social media
+                                management
+                            </div>
+                            <div class="collapsible-body"><span>
+                        <p>We are currently active on Facebook and are in the process of launching our initiative on other social media platforms, e.g. Twitter and Instagram.</p>
+                        <p>We are looking for individuals to represent us on these platforms. Your role would involve working closely with us to:</p>
+                        <ul class="browser-default">
+                            <li>post infographics/any updates</li>
+                            <li>source and share any relevant media updates on the COVID19/BAME situation</li>
+                            <li>reply to those who contact the group</li>
+                            <li>reach out to those who are working in a similar field</li>
+                        </ul>
+                    <p>NIdeally, we would like some prior experience in managing social media accounts to be able maximise our output, however we are open to those who are willing to learn</p></span>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
-
 </main>
 
-<footer class="page-footer grey darken-2">
-
+<footer class="page-footer cyan darken-3">
     <div class="container grey-text text-lighten-2">
         <div class="row">
-
             <div class="col s12 m6">
                 <h5 class="grey-text text-lighten-1">Links</h5>
                 <ul>
@@ -277,7 +359,17 @@
                         Contact us</a></u></li>
                 </ul>
             </div>
-
+            <!--            TODO: fix twitter feed here -->
+            <!--            <div class="col m3 hide-on-med-and-down">-->
+            <!--                <div class="col s12">-->
+            <!--                    <div class="card grey lighten-4">-->
+            <!--                        <div class="card-content">-->
+            <!--                            <a class="twitter-timeline" data-height="420"-->
+            <!--                               href="https://twitter.com/C19Infographics?ref_src=twsrc%5Etfw">Tweets by C19Infographics</a>-->
+            <!--                        </div>-->
+            <!--                    </div>-->
+            <!--                </div>-->
+            <!--            </div>-->
             <div class="col s12 m6">
                 <h5 class="grey-text text-lighten-1">Sources</h5>
                 <div class="row">
@@ -301,10 +393,10 @@
                 </div>
             </div>
 
+
         </div>
     </div>
-
-    <div class="footer-copyright grey-text text-lighten-1">
+    <div class="col s12 footer-copyright grey-text text-lighten-1 ">
         <div class="container">
             <div class="left">© 2020 Copyright</div>
             <div class="right">
@@ -318,7 +410,6 @@
             </div>
         </div>
     </div>
-
 </footer>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- === End Content === -->

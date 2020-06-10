@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     activeCollap();
     M.Sidenav.init(sideNavElem);
     M.FormSelect.init(selectElem);
+    M.Tabs.init(document.querySelectorAll('.tabs'));
 });
 
 $.getJSON("data.json", function (json) {
@@ -113,7 +114,7 @@ function setShareLinks(url, txt) {
 }
 
 function populateLocalResource() {
-    $.getJSON('../data.json', function (arr) {
+    $.getJSON('data.json', function (arr) {
         arr.local_resources.forEach(function (elm, index) {
             let coll = '<li>\n' +
                 '                    <div class="collapsible-header">' + elm.language + '</div>\n' +
