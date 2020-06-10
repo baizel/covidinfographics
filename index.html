@@ -99,6 +99,14 @@
             color: #26c6da;
         }
 
+        .link-list a {
+            text-decoration: none;
+        }
+        
+        .link-list a:hover {
+            font-weight: bold;
+        }
+
         .select-dropdown.dropdown-trigger {
             color: #00838f;
         }
@@ -194,7 +202,7 @@
     <div class="nav-content">
         <ul class="tabs tabs-transparent">
             <li class="tab"><a class="active" href="#home">Home</a></li>
-            <li class="tab disabled"><a href="#about-us">About Us</a></li>
+            <li class="tab"><a href="#about-us">About Us</a></li>
             <li class="tab"><a href="#partners">Partners</a></li>
             <li class="tab disabled"><a href="#media-press">Media/Press</a></li>
             <li class="tab"><a href="#get-involved">Get Involved</a></li>
@@ -204,6 +212,11 @@
 
 <main class="white">
     <div class="container">
+
+
+        <!-- ================ -->
+        <!-- ===== Home ===== -->
+        <!-- ================ -->
         <div id="home" class="col s12">
             <div class="row">
                 <div id="card1Container" class="col s12">
@@ -253,6 +266,11 @@
                 </div>
             </div>
         </div>
+
+
+        <!-- ==================== -->
+        <!-- ===== Partners ===== -->
+        <!-- ==================== -->
         <div id="partners" class="col s12">
             <div class="row">
                 <div class="col s12 m12">
@@ -269,8 +287,60 @@
                 </div>
             </div>
         </div>
-        <div id="about-us" class="col s12">Coming Soon</div>
+
+
+        <!-- ==================== -->
+        <!-- ===== About Us ===== -->
+        <!-- ==================== -->
+        <div id="about-us" class="col s12">
+            <div class="row">
+
+                <div class="col s12 m6">
+                    <div class="card grey lighten-4 sticky-action" style="overflow: hidden;">
+                        <div class="card-image waves-effect waves-block waves-light">
+                            <img class="activator" src="https://www.bandt.com.au/information/uploads/2018/11/Diverse-team-1260x840.jpg">
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title activator cyan-text text-darken-2">Meet Our Team<i class="material-icons right">more_vert</i></span>
+                        </div>
+
+                        <div class="card-action center">
+                            <a class="flow-text" href="https://www.facebook.com/COVID2019Infographics"><i class="fa fa-facebook"></i></a>
+                            <a class="flow-text" href="https://twitter.com/C19Infographics?s=20"><i class="fa fa-twitter"></i></a>
+                            <a class="flow-text" href="https://www.instagram.com/covid19_infographics/"><i class="fa fa-instagram"></i></a>
+                        </div>
+
+                        <div class="card-reveal grey lighten-4">
+                            <span class="card-title  cyan-text text-darken-2">Meet Our Team<i class="material-icons right">close</i></span>
+                            <p>Here is some more information about the team that is only revealed once clicked on.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="missionContainer" class="col s12 m6">
+                    <div class="card grey lighten-4">
+                        <div class="card-content">
+                            <span class="card-title cyan-text text-darken-2">Our Mission</span>
+                            <p>As a group of doctors, medical students and volunteers, we’ve created infographics to help
+                                summarise key points about COVID-19 in a variety of languages. We aim to provide the right
+                                information in an easy to understand format, to communities that need it.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- ================= -->
+        <!-- ===== Media ===== -->
+        <!-- ================= -->
         <div id="media-press" class="col s12">Coming Soon</div>
+
+
+        <!-- ======================== -->
+        <!-- ===== Get Involved ===== -->
+        <!-- ======================== -->
         <div id="get-involved" class="col s12">
             <div class="row">
                 <div class="col s12 m12">
@@ -356,6 +426,8 @@
                 </div>
             </div>
         </div>
+
+
     </div>
 </main>
 
@@ -364,26 +436,26 @@
         <div class="row">
             <div class="col s12 m6">
                 <h5 class="grey-text text-lighten-1">Links</h5>
-                <ul>
-                    <li><u><a class="cyan-text text-lighten-2" href="pages/get-involved.html">
-                        We have open roles, Get Involved!</a></u></li>
-                    <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
-                        COVID-19 Infographics Facebook</a></u></li>
-                    <li><u><a class="cyan-text text-lighten-2" href="mailto:covid19infographics@gmail.com">
-                        Contact us</a></u></li>
+                <ul class="link-list">
+                    <li><a class="white-text" href="pages/get-involved.html">
+                        We have open roles, Get Involved!</a></li>
+                    <li><a class="white-text" href="https://www.facebook.com/COVID2019Infographics">
+                        COVID-19 Infographics Facebook</a></li>
+                    <li><a class="white-text" href="mailto:covid19infographics@gmail.com">
+                        Contact us</a></li>
                 </ul>
             </div>
-            <!--            TODO: fix twitter feed here -->
-            <!--            <div class="col m3 hide-on-med-and-down">-->
-            <!--                <div class="col s12">-->
-            <!--                    <div class="card grey lighten-4">-->
-            <!--                        <div class="card-content">-->
-            <!--                            <a class="twitter-timeline" data-height="420"-->
-            <!--                               href="https://twitter.com/C19Infographics?ref_src=twsrc%5Etfw">Tweets by C19Infographics</a>-->
-            <!--                        </div>-->
-            <!--                    </div>-->
-            <!--                </div>-->
+            <!--TODO: fix twitter feed here -->
+            <!--<div class="col m3 hide-on-med-and-down">-->
+            <!--    <div class="col s12">-->
+            <!--        <div class="card grey lighten-4">-->
+            <!--            <div class="card-content">-->
+            <!--                <a class="twitter-timeline" data-height="420"-->
+            <!--                   href="https://twitter.com/C19Infographics?ref_src=twsrc%5Etfw">Tweets by C19Infographics</a>-->
             <!--            </div>-->
+            <!--        </div>-->
+            <!--    </div>-->
+            <!--</div>-->
             <div class="col s12 m6">
                 <h5 class="grey-text text-lighten-1">Sources</h5>
                 <div class="row">
