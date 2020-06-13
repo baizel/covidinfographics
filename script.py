@@ -43,6 +43,10 @@ def convertToSrcPathToLinux(path: str):
     return path.replace(os.path.sep, "/")
 
 
+def titleCasing(titleString):
+    return ' '.join([w.title() if w.islower() else w for w in titleString.split()])
+
+
 def main():
     for paths in forAutoGen:
         toProcPath = os.path.join(rootDir, paths)
@@ -60,17 +64,20 @@ def main():
                             raise Exception("Too many files in dir " + dirOrFilePath)
                         if file.endswith("png"):
                             entry["graphics"].append(
-                                {"info": {"name": str.title(lvl2Dir),
+                                {"info": {"name": titleCasing(lvl2Dir),
                                           "src": convertToSrcPathToLinux(os.path.join(dirOrFilePath, file))}})
                         elif file.endswith("PNG"):
                             reNamed = renameToPng(os.path.join(dirOrFilePath, file))
                             entry["graphics"].append(
-                                {"info": {"name": str.title(lvl2Dir), "src": convertToSrcPathToLinux(reNamed)}})
+                                {"info": {"name": titleCasing(lvl2Dir), "src": convertToSrcPathToLinux(reNamed)}})
             if len(entry["graphics"]) != 0:
                 data[paths].append(entry)
 
-    t = sorted(data["Languages"], key=lambda k: k['language'])
-    data["Languages"] = t
+    sortedLan = sorted(data[LANGUAGES], key=lambda k: k['language'])
+    sortedSchool = [sorted(lan["graphics"], key=lambda k: k['info']["name"]) for lan in data["School Advice"]]
+    data[SCHOOL_ADVICE] = sortedSchool
+    data[LANGUAGES] = sortedLan
+
     print(json.dumps(data))
 
 
