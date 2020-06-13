@@ -74,8 +74,10 @@ def main():
                 data[paths].append(entry)
 
     sortedLan = sorted(data[LANGUAGES], key=lambda k: k['language'])
-    sortedSchool = [sorted(lan["graphics"], key=lambda k: k['info']["name"]) for lan in data["School Advice"]]
-    data[SCHOOL_ADVICE] = sortedSchool
+    count =0
+    for lan in data[SCHOOL_ADVICE]:
+        data[SCHOOL_ADVICE][count]["graphics"] = sorted(lan["graphics"], key=lambda k: k['info']["name"])
+        count = count + 1
     data[LANGUAGES] = sortedLan
 
     print(json.dumps(data))
