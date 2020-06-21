@@ -2100,6 +2100,35 @@
       ]
     },
     {
+      "language": "English",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/English/Accessing healthcare in emergency part 1/Accessing healthcare_ emergencies copy 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/English/Accessing healthcare in emergency part 2/Accessing healthcare_ non emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/English/Heart Attack/Accessing healthcare_ heart attack.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/English/Stroke/Accessing healthcare_ stroke 2.png"
+          }
+        }
+      ]
+    },
+    {
       "language": "French",
       "graphics": [
         {
