@@ -1,9 +1,11 @@
 var allData;
-function activeCollap(){
+
+function activeCollap() {
     var colpaseElem = document.querySelectorAll('.collapsible');
     M.Collapsible.init(colpaseElem);
 
 }
+
 document.addEventListener('DOMContentLoaded', function () {
     var selectElem = document.querySelectorAll('select');
     var sideNavElem = document.querySelectorAll('.sidenav');
@@ -59,40 +61,43 @@ function showLanguageInfos() {
     })
     htmlText += '</ul></div></li>'
     $("#allGraphics").append(htmlText)
-    showSchoolAdvice(val.language);
+    showOtherAdviceTabs(val.language);
     activeCollap();
     $("#language_selection").css("opacity", "0.7");
     $("#infographic_selection").removeClass("scale-out");
 }
 
-function showSchoolAdvice(lan) {
+function showOtherAdviceTabs(lan) {
     //cant have school advice own its own
-    let index = -1;
-    let filteredObj = allData["School Advice"].find(function(item, i){
-        if(item.language === lan){
-            index = i;
-            return i;
-        }
-    });
-    if(index >= 0) {
-        let val = allData["School Advice"][index];
-        let htmlText = ('<li>' +
-            '   <div class="collapsible-header">School Advice</div>' +
-            '   <div class="collapsible-body collection collapsible-collection"><ul>');
+    let advices = ["School Advice", "Advice for non-COVID patients", "Shop Advice"]
+    advices.forEach(function (advice) {
+        let index = -1;
+        let filteredObj = allData[advice].find(function (item, i) {
+            if (item.language === lan) {
+                index = i;
+                return i;
+            }
+        });
+        if (index >= 0) {
+            let val = allData[advice][index];
+            let htmlText = ('<li>' +
+                '   <div class="collapsible-header">' + advice + '</div>' +
+                '   <div class="collapsible-body collection collapsible-collection"><ul>');
 
-        val.graphics.forEach(function (ele, indx) {
-            let htmlstr = '<li class="collection-item">\n' +
-                '                        <div><a class="graphic-link" href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
-                '                            <a href="' + ele.info.src + '" class="secondary-content graphic-download" download>\n' +
-                '                                <i class="material-icons ">file_download</i>\n' +
-                '                            </a>\n' +
-                '                        </div>\n' +
-                '                    </li>'
-            htmlText += htmlstr;
-        })
-        htmlText += '</ul></div></li>'
-        $("#allGraphics").append(htmlText)
-    }
+            val.graphics.forEach(function (ele, indx) {
+                let htmlstr = '<li class="collection-item">\n' +
+                    '                        <div><a class="graphic-link" href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
+                    '                            <a href="' + ele.info.src + '" class="secondary-content graphic-download" download>\n' +
+                    '                                <i class="material-icons ">file_download</i>\n' +
+                    '                            </a>\n' +
+                    '                        </div>\n' +
+                    '                    </li>'
+                htmlText += htmlstr;
+            })
+            htmlText += '</ul></div></li>'
+            $("#allGraphics").append(htmlText)
+        }
+    })
 }
 
 function resetSelection() {
@@ -120,7 +125,7 @@ function populateLocalResource() {
                 '                    <div class="collapsible-body collection collapsible-collection">\n' +
                 '  <ul>';
             elm.graphics.forEach(function (anotherElm, i) {
-               let cont = '<li class="collection-item"><a href="../' + anotherElm.info.src + '">' + anotherElm.info.name + '</a></li>';
+                let cont = '<li class="collection-item"><a href="../' + anotherElm.info.src + '">' + anotherElm.info.name + '</a></li>';
                 coll += cont;
             });
             coll += '</ul></div></li>'

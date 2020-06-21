@@ -6,16 +6,21 @@ from shutil import move
 SCHOOL_ADVICE = "School Advice"
 LANGUAGES = "Languages"
 LOCAL_RESOURCES = "local_resources"
+SHOP_ADVICE = "Shop Advice"
+ADVICE_NON_COVID = "Advice for non-COVID patients"
+
 rootDir = "graphics"
 
 ALL_LANGUAGES = []
 
 # Map directory name to a dict
-forAutoGen = [LANGUAGES, LOCAL_RESOURCES, SCHOOL_ADVICE]
+forAutoGen = [LANGUAGES, LOCAL_RESOURCES, SCHOOL_ADVICE, SHOP_ADVICE, ADVICE_NON_COVID]
 data = {
     LANGUAGES: [],
     LOCAL_RESOURCES: [],
-    SCHOOL_ADVICE: []
+    SCHOOL_ADVICE: [],
+    ADVICE_NON_COVID: [],
+   SHOP_ADVICE: []
 }
 
 
@@ -53,7 +58,7 @@ def main():
         for lvl1Dir in os.listdir(toProcPath):
             if paths == LANGUAGES:
                 ALL_LANGUAGES.append(lvl1Dir)
-            if paths == SCHOOL_ADVICE:
+            if paths != LANGUAGES and paths != LOCAL_RESOURCES:
                 checkForPathMisMatch(lvl1Dir)
             entry = {"language": lvl1Dir, "graphics": []}
             for lvl2Dir in os.listdir(os.path.join(toProcPath, lvl1Dir)):

@@ -5,26 +5,26 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Arabic/Overview/COVIDOutreachArabicFinal.png"
-          }
-        },
-        {
-          "info": {
             "name": "Face Coverings",
             "src": "graphics/Languages/Arabic/Face coverings/Arabic Face Coverings Infographic.png"
           }
         },
         {
           "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Arabic/Self care/Slide1.png"
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Arabic/Myth busters/Slide1.png"
           }
         },
         {
           "info": {
-            "name": "Myth Busters",
-            "src": "graphics/Languages/Arabic/Myth busters/Slide1.png"
+            "name": "Overview",
+            "src": "graphics/Languages/Arabic/Overview/COVIDOutreachArabicFinal.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Arabic/Self care/Slide1.png"
           }
         }
       ]
@@ -34,8 +34,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Bengali/Wellbeing/Wellbeing (Bengali).png"
+            "name": "Myth Buster",
+            "src": "graphics/Languages/Bengali/Myth buster/Bengali Mythbusters.png"
           }
         },
         {
@@ -46,14 +46,14 @@
         },
         {
           "info": {
-            "name": "Myth Buster",
-            "src": "graphics/Languages/Bengali/Myth buster/Slide1.png"
+            "name": "Self Care",
+            "src": "graphics/Languages/Bengali/Self care/Bengali Self care.png"
           }
         },
         {
           "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Bengali/Self care/Slide1.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Bengali/Wellbeing/Wellbeing (Bengali).png"
           }
         }
       ]
@@ -61,6 +61,12 @@
     {
       "language": "Bulgarian",
       "graphics": [
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Bulgarian/Mythbusters/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -71,12 +77,6 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Bulgarian/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Bulgarian/Mythbusters/Slide1.png"
           }
         },
         {
@@ -92,8 +92,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Chinese (Traditional)/Wellbeing/Infographic 5 \u2013 Traditional Chinese.png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Chinese (Traditional)/Mythbuster/Infographic3-TraditionalChinese-1.png"
           }
         },
         {
@@ -116,8 +116,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Chinese (Traditional)/Mythbuster/Infographic3-TraditionalChinese-1.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Chinese (Traditional)/Wellbeing/Infographic 5 \u2013 Traditional Chinese.png"
           }
         }
       ]
@@ -127,8 +127,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Chinese (simplified)/Wellbeing/Infographic 5 \u2013 Simplified Chinese.png"
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Chinese (simplified)/Mythbusters/Infographic3-SimplifiedChinese-1.png"
           }
         },
         {
@@ -145,14 +145,14 @@
         },
         {
           "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Chinese (simplified)/Mythbusters/Infographic3-SimplifiedChinese-1.png"
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Chinese (simplified)/Spread and prevention/Slide1.png"
           }
         },
         {
           "info": {
-            "name": "Spread And Prevention",
-            "src": "graphics/Languages/Chinese (simplified)/Spread and prevention/Slide1.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Chinese (simplified)/Wellbeing/Infographic 5 \u2013 Simplified Chinese.png"
           }
         }
       ]
@@ -162,8 +162,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Czech/Wellbeing/Wellbeing (Czech).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Czech/Mythbuster/CZECH COVID19 Mythbusters.png"
           }
         },
         {
@@ -180,8 +180,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Czech/Mythbuster/CZECH COVID19 Mythbusters.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Czech/Wellbeing/Wellbeing (Czech).png"
           }
         }
       ]
@@ -191,14 +191,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Dutch/Overview/DutchOverviewInfographic.png"
+            "name": "Myth Buster",
+            "src": "graphics/Languages/Dutch/Myth buster/Slide1.png"
           }
         },
         {
           "info": {
-            "name": "Myth Buster",
-            "src": "graphics/Languages/Dutch/Myth buster/Slide1.png"
+            "name": "Overview",
+            "src": "graphics/Languages/Dutch/Overview/DutchOverviewInfographic.png"
           }
         },
         {
@@ -214,20 +214,20 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/English/Wellbeing/Slide1.png"
+            "name": "Face Coverings",
+            "src": "graphics/Languages/English/Face coverings/English Face Coverings Infographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Myths",
+            "src": "graphics/Languages/English/Myths/English Mythbusters.png"
           }
         },
         {
           "info": {
             "name": "Overview",
-            "src": "graphics/Languages/English/Overview/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/English/Face coverings/English Face Coverings Infographic.png"
+            "src": "graphics/Languages/English/Overview/English Overview.png"
           }
         },
         {
@@ -239,13 +239,13 @@
         {
           "info": {
             "name": "Spread And Prevention",
-            "src": "graphics/Languages/English/Spread and prevention/Slide1.png"
+            "src": "graphics/Languages/English/Spread and prevention/English Spread and Prevention.png"
           }
         },
         {
           "info": {
-            "name": "Myths",
-            "src": "graphics/Languages/English/Myths/Infographic4_final.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/English/Wellbeing/Slide1.png"
           }
         }
       ]
@@ -255,14 +255,20 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/French/Overview/Slide1.png"
+            "name": "Face Coverings",
+            "src": "graphics/Languages/French/Face coverings/French Face Coverings Infographic.png"
           }
         },
         {
           "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/French/Face coverings/French Face Coverings Infographic.png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/French/Mythbuster/COVID19MYTHBUSTERgraphicfinal(French).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/French/Overview/Slide1.png"
           }
         },
         {
@@ -276,18 +282,18 @@
             "name": "Spread And Prevention",
             "src": "graphics/Languages/French/Spread and prevention/Slide1.png"
           }
-        },
-        {
-          "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/French/Mythbuster/COVID19MYTHBUSTERgraphicfinal(French).png"
-          }
         }
       ]
     },
     {
       "language": "German",
       "graphics": [
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/German/myth busters/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -298,12 +304,6 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/German/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Myth Busters",
-            "src": "graphics/Languages/German/myth busters/Slide1.png"
           }
         },
         {
@@ -319,8 +319,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Gujarati/Wellbeing/Wellbeing (Gujarati).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Gujarati/Mythbuster/COVID19 MYTHBUSTER graphic final (Mythbuster).png"
           }
         },
         {
@@ -343,8 +343,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Gujarati/Mythbuster/COVID19 MYTHBUSTER graphic final (Mythbuster).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Gujarati/Wellbeing/Wellbeing (Gujarati).png"
           }
         }
       ]
@@ -354,8 +354,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Hebrew/Wellbeing/Wellbeing Infographic (Hebrew).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Hebrew/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Hebrew).png"
           }
         },
         {
@@ -378,8 +378,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Hebrew/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Hebrew).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Hebrew/Wellbeing/Wellbeing Infographic (Hebrew).png"
           }
         }
       ]
@@ -387,6 +387,12 @@
     {
       "language": "Hindi",
       "graphics": [
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Hindi/Mythbusters/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -398,12 +404,6 @@
             "name": "Self Care",
             "src": "graphics/Languages/Hindi/Self care/Slide2.png"
           }
-        },
-        {
-          "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Hindi/Mythbusters/Slide1.png"
-          }
         }
       ]
     },
@@ -412,8 +412,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Italian/Wellbeing/Infographic 5 \u2013 Italian.png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Italian/Mythbuster/Slide1.png"
           }
         },
         {
@@ -436,8 +436,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Italian/Mythbuster/Slide1.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Italian/Wellbeing/Infographic 5 \u2013 Italian.png"
           }
         }
       ]
@@ -458,6 +458,12 @@
       "graphics": [
         {
           "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Korean/Mythbuster/Slide1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Korean/Overview/Slide1.png"
           }
@@ -473,12 +479,6 @@
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Korean/Spread and Prevention/Slide1.png"
           }
-        },
-        {
-          "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Korean/Mythbuster/Slide1.png"
-          }
         }
       ]
     },
@@ -487,14 +487,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Kurdish Sorani/Overview/Slide1.png"
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Kurdish Sorani/Face coverings/Kurdish Sorani Infographic.png"
           }
         },
         {
           "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Kurdish Sorani/Face coverings/Kurdish Sorani Infographic.png"
+            "name": "Overview",
+            "src": "graphics/Languages/Kurdish Sorani/Overview/Slide1.png"
           }
         },
         {
@@ -510,8 +510,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Lithuanian/Wellbeing/Wellbeing Infographic (Lithuanian).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Lithuanian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Lithuanian).png"
           }
         },
         {
@@ -534,8 +534,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Lithuanian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Lithuanian).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Lithuanian/Wellbeing/Wellbeing Infographic (Lithuanian).png"
           }
         }
       ]
@@ -573,8 +573,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Persian/Wellbeing/COVID19 Wellbeing (Persian).png"
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Persian/Mythbusters/Slide1.png"
           }
         },
         {
@@ -591,14 +591,14 @@
         },
         {
           "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Persian/Mythbusters/Slide1.png"
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Persian/Spread and Prevention/COVID-19 Spread and Prevention (Persian).png"
           }
         },
         {
           "info": {
-            "name": "Spread And Prevention",
-            "src": "graphics/Languages/Persian/Spread and Prevention/COVID-19 Spread and Prevention (Persian).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Persian/Wellbeing/COVID19 Wellbeing (Persian).png"
           }
         }
       ]
@@ -608,26 +608,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Polish/Wellbeing/Wellbing (Polish).png"
-          }
-        },
-        {
-          "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Polish/Overview/COVIDOutreachPolish.png"
-          }
-        },
-        {
-          "info": {
             "name": "Face Coverings",
             "src": "graphics/Languages/Polish/Face coverings/Polish Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Polish/Self care/Slide1.png"
           }
         },
         {
@@ -638,8 +620,26 @@
         },
         {
           "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Polish/Overview/COVIDOutreachPolish.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Polish/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Polish/Spread and Prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Polish/Wellbeing/Wellbing (Polish).png"
           }
         }
       ]
@@ -649,20 +649,20 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Portuguese/Wellbeing/Wellbeing (Portuguese).png"
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Portuguese/Face coverings/Portuguese Infographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Portuguese/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Portuguese).png"
           }
         },
         {
           "info": {
             "name": "Overview",
             "src": "graphics/Languages/Portuguese/Overview/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Portuguese/Face coverings/Portuguese Infographic.png"
           }
         },
         {
@@ -679,8 +679,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Portuguese/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Portuguese).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Portuguese/Wellbeing/Wellbeing (Portuguese).png"
           }
         }
       ]
@@ -690,14 +690,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Punjabi/Overview/COVIDPunjabiInfographic1.png"
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Punjabi/Myth busters/Slide1.png"
           }
         },
         {
           "info": {
-            "name": "Myth Busters",
-            "src": "graphics/Languages/Punjabi/Myth busters/Slide1.png"
+            "name": "Overview",
+            "src": "graphics/Languages/Punjabi/Overview/COVIDPunjabiInfographic1.png"
           }
         }
       ]
@@ -707,8 +707,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Romanian/Wellbeing/Wellbeing Infographic (Romanian).png"
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Romanian/Mythbusters/Slide1.png"
           }
         },
         {
@@ -719,14 +719,14 @@
         },
         {
           "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Romanian/Mythbusters/Slide1.png"
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Romanian/Spread and Prevention/COVID-19 Spread and Prevention (Romanian).png"
           }
         },
         {
           "info": {
-            "name": "Spread And Prevention",
-            "src": "graphics/Languages/Romanian/Spread and Prevention/COVID-19 Spread and Prevention (Romanian).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Romanian/Wellbeing/Wellbeing Infographic (Romanian).png"
           }
         }
       ]
@@ -734,6 +734,12 @@
     {
       "language": "Russian",
       "graphics": [
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Russian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Russian).png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -750,12 +756,6 @@
           "info": {
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Russian/Spread and Prevention/COVID-19 Spread and Prevention (Russian).png"
-          }
-        },
-        {
-          "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Russian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Russian).png"
           }
         }
       ]
@@ -788,8 +788,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Slovak/Wellbeing/Wellbeing (Slovak).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Slovak/Mythbuster/SLOVAK COVID19 Mythbusters.png"
           }
         },
         {
@@ -806,8 +806,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Slovak/Mythbuster/SLOVAK COVID19 Mythbusters.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Slovak/Wellbeing/Wellbeing (Slovak).png"
           }
         }
       ]
@@ -834,26 +834,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Spanish/Wellbeing/Wellbeing (Spanish).png"
-          }
-        },
-        {
-          "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Spanish/Overview/SpanishInfographic1.png"
-          }
-        },
-        {
-          "info": {
             "name": "Face Coverings",
             "src": "graphics/Languages/Spanish/Face coverings/Spanish Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Spanish/Self care/Slide1.png"
           }
         },
         {
@@ -864,8 +846,26 @@
         },
         {
           "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Spanish/Overview/SpanishInfographic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Spanish/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Spanish/Spread and Prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Spanish/Wellbeing/Wellbeing (Spanish).png"
           }
         }
       ]
@@ -875,8 +875,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Swahili/Wellbeing/Wellbeing (Swahili).png"
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Swahili/myth busters/Slide1.png"
           }
         },
         {
@@ -893,8 +893,8 @@
         },
         {
           "info": {
-            "name": "Myth Busters",
-            "src": "graphics/Languages/Swahili/myth busters/Slide1.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Swahili/Wellbeing/Wellbeing (Swahili).png"
           }
         }
       ]
@@ -902,6 +902,12 @@
     {
       "language": "Swedish",
       "graphics": [
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Swedish/myth busters/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -912,12 +918,6 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Swedish/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Myth Busters",
-            "src": "graphics/Languages/Swedish/myth busters/Slide1.png"
           }
         },
         {
@@ -933,8 +933,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Sylheti/Wellbeing/Wellbeing (Sylheti).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Sylheti/Mythbuster/COVID19 MYTHBUSTER graphic final (Sylheti).png"
           }
         },
         {
@@ -951,8 +951,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Sylheti/Mythbuster/COVID19 MYTHBUSTER graphic final (Sylheti).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Sylheti/Wellbeing/Wellbeing (Sylheti).png"
           }
         }
       ]
@@ -962,26 +962,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Tamil/Wellbeing/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Tamil/Overview/Slide1.png"
-          }
-        },
-        {
-          "info": {
             "name": "Face Coverings",
             "src": "graphics/Languages/Tamil/Face coverings/Tamil Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Tamil/Self care/Slide1.png"
           }
         },
         {
@@ -992,8 +974,26 @@
         },
         {
           "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Tamil/Overview/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Tamil/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Tamil/Spread and prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Tamil/Wellbeing/Slide1.png"
           }
         }
       ]
@@ -1003,8 +1003,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Turkish/Wellbeing/Wellbeing Infographic (Turkish).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Turkish/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Turkish).png"
           }
         },
         {
@@ -1027,8 +1027,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Turkish/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Turkish).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Turkish/Wellbeing/Wellbeing Infographic (Turkish).png"
           }
         }
       ]
@@ -1049,26 +1049,26 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Urdu/Overview/Urdu infographic.png"
-          }
-        },
-        {
-          "info": {
             "name": "Face Coverings",
             "src": "graphics/Languages/Urdu/Face coverings/Urdu Infographic.png"
           }
         },
         {
           "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Urdu/Self care/Infographic 2 \u2013 Urdu Translation.png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Urdu/Mythbuster/COVID 19 Mythbusters (Urdu).png"
           }
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Urdu/Mythbuster/COVID 19 Mythbusters (Urdu).png"
+            "name": "Overview",
+            "src": "graphics/Languages/Urdu/Overview/Urdu infographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Urdu/Self care/Infographic 2 \u2013 Urdu Translation.png"
           }
         }
       ]
@@ -1104,23 +1104,24 @@
   ],
   "local_resources": [
     {
-      "language": "Yorkshire",
+      "language": "London",
       "graphics": [
         {
           "info": {
-            "name": "All BAME And Asian Communities",
-            "src": "graphics/local_resources/Yorkshire/All BAME and Asian communities/AllBAME,AsianandAfricancommunities.png"
+            "name": "Afro-Caribbean And Islamic Communities",
+            "src": "graphics/local_resources/London/Afro-Caribbean and Islamic communities/Slide2.png"
           }
-        }
-      ]
-    },
-    {
-      "language": "Northern",
-      "graphics": [
+        },
         {
           "info": {
-            "name": "All BAME, Afro-Caribbean And Refugee Communities",
-            "src": "graphics/local_resources/Northern/All BAME, Afro-Caribbean and Refugee communities/Slide10.png"
+            "name": "Asian Communities",
+            "src": "graphics/local_resources/London/Asian communities/Slide3.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Refugee And Asylum Seekers",
+            "src": "graphics/local_resources/London/Refugee and asylum seekers/Slide4.png"
           }
         }
       ]
@@ -1141,37 +1142,25 @@
       "graphics": [
         {
           "info": {
-            "name": "Arabic, Asian And Refugee Communities",
-            "src": "graphics/local_resources/North West/Arabic, Asian and Refugee communities/Slide9.png"
+            "name": "All BAME & Afro-Caribbean Communities",
+            "src": "graphics/local_resources/North West/All BAME & Afro-Caribbean communities/AllBAMEandAfrocaribbeancommunities.png"
           }
         },
         {
           "info": {
-            "name": "All BAME & Afro-Caribbean Communities",
-            "src": "graphics/local_resources/North West/All BAME & Afro-Caribbean communities/AllBAMEandAfrocaribbeancommunities.png"
+            "name": "Arabic, Asian And Refugee Communities",
+            "src": "graphics/local_resources/North West/Arabic, Asian and Refugee communities/Slide9.png"
           }
         }
       ]
     },
     {
-      "language": "London",
+      "language": "Northern",
       "graphics": [
         {
           "info": {
-            "name": "Asian Communities",
-            "src": "graphics/local_resources/London/Asian communities/Slide3.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Refugee And Asylum Seekers",
-            "src": "graphics/local_resources/London/Refugee and asylum seekers/Slide4.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Afro-Caribbean And Islamic Communities",
-            "src": "graphics/local_resources/London/Afro-Caribbean and Islamic communities/Slide2.png"
+            "name": "All BAME, Afro-Caribbean And Refugee Communities",
+            "src": "graphics/local_resources/Northern/All BAME, Afro-Caribbean and Refugee communities/Slide10.png"
           }
         }
       ]
@@ -1186,176 +1175,223 @@
           }
         }
       ]
+    },
+    {
+      "language": "Yorkshire",
+      "graphics": [
+        {
+          "info": {
+            "name": "All BAME And Asian Communities",
+            "src": "graphics/local_resources/Yorkshire/All BAME and Asian communities/AllBAME,AsianandAfricancommunities.png"
+          }
+        }
+      ]
     }
   ],
   "School Advice": [
     {
-      "language": "Kurdish Sorani",
+      "language": "Arabic",
       "graphics": [
         {
           "info": {
             "name": "1. School 1St June Changes Part 1",
-            "src": "graphics/School Advice/Kurdish Sorani/1. School 1st June changes part 1/SG1SoraniKurdish1.png"
+            "src": "graphics/School Advice/Arabic/1. School 1st June changes part 1/SG1Arabic1.png"
           }
         },
         {
           "info": {
             "name": "1. School 1St June Changes Part 2",
-            "src": "graphics/School Advice/Kurdish Sorani/1. School 1st June changes part 2/SG1SoraniKurdish2.png"
+            "src": "graphics/School Advice/Arabic/1. School 1st June changes part 2/SG1Arabic2.png"
           }
         },
         {
           "info": {
             "name": "2. School Safety Measures Part 1",
-            "src": "graphics/School Advice/Kurdish Sorani/2. School Safety Measures part 1/SG2 Kurdish 1.png"
+            "src": "graphics/School Advice/Arabic/2. School Safety Measures part 1/SG1 Arabic 1.png"
           }
         },
         {
           "info": {
             "name": "2. School Safety Measures Part 2",
-            "src": "graphics/School Advice/Kurdish Sorani/2. School Safety Measures part 2/SG2 Kurdish 2.png"
+            "src": "graphics/School Advice/Arabic/2. School Safety Measures part 2/SG1 Arabic 2.png"
           }
         },
         {
           "info": {
             "name": "3. School Checklist Part 1",
-            "src": "graphics/School Advice/Kurdish Sorani/3. School Checklist part 1/Slide1.png"
+            "src": "graphics/School Advice/Arabic/3. School Checklist part 1/Slide1.png"
           }
         },
         {
           "info": {
             "name": "3. School Checklist Part 2",
-            "src": "graphics/School Advice/Kurdish Sorani/3. School Checklist part 2/Slide2.png"
+            "src": "graphics/School Advice/Arabic/3. School Checklist part 2/Slide2.png"
           }
         },
         {
           "info": {
             "name": "4. School FAQ 1",
-            "src": "graphics/School Advice/Kurdish Sorani/4. School FAQ 1/Slide1.png"
+            "src": "graphics/School Advice/Arabic/4. School FAQ 1/Slide1.png"
           }
         },
         {
           "info": {
             "name": "5. School FAQ 2",
-            "src": "graphics/School Advice/Kurdish Sorani/5. School FAQ 2/Slide2.png"
+            "src": "graphics/School Advice/Arabic/5. School FAQ 2/Slide2.png"
           }
         },
         {
           "info": {
             "name": "6. School FAQ 3",
-            "src": "graphics/School Advice/Kurdish Sorani/6. School FAQ 3/Kurdish Sorani FAQ 2 (Part 1).png"
+            "src": "graphics/School Advice/Arabic/6. School FAQ 3/Arabic FAQ 2 (Part 1).png"
           }
         },
         {
           "info": {
             "name": "7. School FAQ 4",
-            "src": "graphics/School Advice/Kurdish Sorani/7. School FAQ 4/Kurdish Sorani FAQ 2 (Part 2).png"
+            "src": "graphics/School Advice/Arabic/7. School FAQ 4/Arabic FAQ 2 (Part 2).png"
           }
         },
         {
           "info": {
             "name": "8. School FAQ 5",
-            "src": "graphics/School Advice/Kurdish Sorani/8. School FAQ 5/Slide1.png"
+            "src": "graphics/School Advice/Arabic/8. School FAQ 5/Slide1.png"
           }
         },
         {
           "info": {
             "name": "9. School FAQ 6",
-            "src": "graphics/School Advice/Kurdish Sorani/9. School FAQ 6/Slide2.png"
+            "src": "graphics/School Advice/Arabic/9. School FAQ 6/Slide2.png"
           }
         }
       ]
     },
     {
-      "language": "Gujarati",
+      "language": "Chinese (simplified)",
       "graphics": [
         {
           "info": {
             "name": "1. School 1St June Changes Part 1",
-            "src": "graphics/School Advice/Gujarati/1. School 1st June changes part 1/Slide1.png"
+            "src": "graphics/School Advice/Chinese (simplified)/1. School 1st June changes part 1/SG1 Simplified Chinese 1.png"
           }
         },
         {
           "info": {
             "name": "1. School 1St June Changes Part 2",
-            "src": "graphics/School Advice/Gujarati/1. School 1st June changes part 2/Slide2.png"
-          }
-        }
-      ]
-    },
-    {
-      "language": "Tamil",
-      "graphics": [
-        {
-          "info": {
-            "name": "1. School 1St June Changes Part 1",
-            "src": "graphics/School Advice/Tamil/1. School 1st June changes part 1/SG1 Tamil 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "1. School 1St June Changes Part 2",
-            "src": "graphics/School Advice/Tamil/1. School 1st June changes part 2/SG1 Tamil 2.png"
+            "src": "graphics/School Advice/Chinese (simplified)/1. School 1st June changes part 2/SG1 Simplified Chinese 2.png"
           }
         },
         {
           "info": {
             "name": "2. School Safety Measures Part 1",
-            "src": "graphics/School Advice/Tamil/2. School Safety Measures part 1/SG2 Tamil 1.png"
+            "src": "graphics/School Advice/Chinese (simplified)/2. School Safety Measures part 1/SG2 Chinese Simplified 1.png"
           }
         },
         {
           "info": {
             "name": "2. School Safety Measures Part 2",
-            "src": "graphics/School Advice/Tamil/2. School Safety Measures part 2/SG2 Tamil 2.png"
+            "src": "graphics/School Advice/Chinese (simplified)/2. School Safety Measures part 2/SG2 Chinese Simplified 2.png"
           }
         },
         {
           "info": {
             "name": "3. School Checklist Part 1",
-            "src": "graphics/School Advice/Tamil/3. School Checklist part 1/Slide1.png"
+            "src": "graphics/School Advice/Chinese (simplified)/3. School Checklist part 1/SG3 Simplified Chinese (1).png"
           }
         },
         {
           "info": {
             "name": "3. School Checklist Part 2",
-            "src": "graphics/School Advice/Tamil/3. School Checklist part 2/Slide2.png"
+            "src": "graphics/School Advice/Chinese (simplified)/3. School Checklist part 2/SG3 Simplified Chinese (2).png"
           }
         },
         {
           "info": {
             "name": "4. School FAQ 1",
-            "src": "graphics/School Advice/Tamil/4. School FAQ 1/Slide1.png"
+            "src": "graphics/School Advice/Chinese (simplified)/4. School FAQ 1/Common Concerns (Simplified Chinese) [1].png"
           }
         },
         {
           "info": {
             "name": "5. School FAQ 2",
-            "src": "graphics/School Advice/Tamil/5. School FAQ 2/Slide2.png"
+            "src": "graphics/School Advice/Chinese (simplified)/5. School FAQ 2/Common Concerns (Simplified Chinese) [2].png"
           }
         },
         {
           "info": {
             "name": "6. School FAQ 3",
-            "src": "graphics/School Advice/Tamil/6. School FAQ 3/Tamil FAQ 2 (Part 1).png"
+            "src": "graphics/School Advice/Chinese (simplified)/6. School FAQ 3/FAQ 2 \u2013 Simplified Chinese (1).png"
           }
         },
         {
           "info": {
             "name": "7. School FAQ 4",
-            "src": "graphics/School Advice/Tamil/7. School FAQ 4/Tamil FAQ 2 (Part 1).png"
+            "src": "graphics/School Advice/Chinese (simplified)/7. School FAQ 4/FAQ 2 \u2013 Simplified Chinese (2).png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Chinese (Traditional)",
+      "graphics": [
+        {
+          "info": {
+            "name": "1. School 1St June Changes Part 1",
+            "src": "graphics/School Advice/Chinese (Traditional)/1. School 1st June changes part 1/SG1 Traditional Chinese 1.png"
           }
         },
         {
           "info": {
-            "name": "8. School FAQ 5",
-            "src": "graphics/School Advice/Tamil/8. School FAQ 5/Slide1.png"
+            "name": "1. School 1St June Changes Part 2",
+            "src": "graphics/School Advice/Chinese (Traditional)/1. School 1st June changes part 2/SG1 Traditional Chinese 2.png"
           }
         },
         {
           "info": {
-            "name": "9. School FAQ 6",
-            "src": "graphics/School Advice/Tamil/9. School FAQ 6/Slide1.png"
+            "name": "2. School Safety Measures Part 1",
+            "src": "graphics/School Advice/Chinese (Traditional)/2. School Safety Measures part 1/SG2 Chinese Traditional 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. School Safety Measures Part 2",
+            "src": "graphics/School Advice/Chinese (Traditional)/2. School Safety Measures part 2/SG2 Chinese Traditional 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "3. School Checklist Part 1",
+            "src": "graphics/School Advice/Chinese (Traditional)/3. School Checklist part 1/SG3 Traditional Chinese (1).png"
+          }
+        },
+        {
+          "info": {
+            "name": "3. School Checklist Part 2",
+            "src": "graphics/School Advice/Chinese (Traditional)/3. School Checklist part 2/SG3 Traditional Chinese (2).png"
+          }
+        },
+        {
+          "info": {
+            "name": "4. School FAQ 1",
+            "src": "graphics/School Advice/Chinese (Traditional)/4. School FAQ 1/Common Concerns (Traditional Chinese) [1].png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. School FAQ 2",
+            "src": "graphics/School Advice/Chinese (Traditional)/5. School FAQ 2/Common Concerns (Traditional Chinese) [2].png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. School FAQ 3",
+            "src": "graphics/School Advice/Chinese (Traditional)/6. School FAQ 3/FAQ 2 \u2013 Traditional Chinese (1).png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. School FAQ 4",
+            "src": "graphics/School Advice/Chinese (Traditional)/7. School FAQ 4/FAQ 2 \u2013 Traditional Chinese (2).png"
           }
         }
       ]
@@ -1432,84 +1468,82 @@
         {
           "info": {
             "name": "9. School FAQ 6",
-            "src": "graphics/School Advice/English/9. School FAQ 6/Slide1.png"
+            "src": "graphics/School Advice/English/9. School FAQ 6/Slide2.png"
           }
         }
       ]
     },
     {
-      "language": "Polish",
+      "language": "French",
       "graphics": [
         {
           "info": {
-            "name": "1. School 1St June Changes Part 1",
-            "src": "graphics/School Advice/Polish/1. School 1st June changes part 1/SG1 Polish 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "1. School 1St June Changes Part 2",
-            "src": "graphics/School Advice/Polish/1. School 1st June changes part 2/SG1 Polish 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "2. School Safety Measures Part 1",
-            "src": "graphics/School Advice/Polish/2. School Safety Measures part 1/SG2 Polish 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "2. School Safety Measures Part 2",
-            "src": "graphics/School Advice/Polish/2. School Safety Measures part 2/SG2 Polish 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "3. School Checklist Part 1",
-            "src": "graphics/School Advice/Polish/3. School Checklist part 1/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "3. School Checklist Part 2",
-            "src": "graphics/School Advice/Polish/3. School Checklist part 2/Slide2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. School FAQ 1",
-            "src": "graphics/School Advice/Polish/4. School FAQ 1/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. School FAQ 2",
-            "src": "graphics/School Advice/Polish/5. School FAQ 2/Slide2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. School FAQ 3",
-            "src": "graphics/School Advice/Polish/6. School FAQ 3/Polish FAQ 2 (Part 1).png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. School FAQ 4",
-            "src": "graphics/School Advice/Polish/7. School FAQ 4/Polish FAQ 2 (Part 1).png"
-          }
-        },
-        {
-          "info": {
             "name": "8. School FAQ 5",
-            "src": "graphics/School Advice/Polish/8. School FAQ 5/Slide1.png"
+            "src": "graphics/School Advice/French/8. School FAQ 5/Slide1.png"
           }
         },
         {
           "info": {
             "name": "9. School FAQ 6",
-            "src": "graphics/School Advice/Polish/9. School FAQ 6/Slide1.png"
+            "src": "graphics/School Advice/French/9. School FAQ 6/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Gujarati",
+      "graphics": [
+        {
+          "info": {
+            "name": "1. School 1St June Changes Part 1",
+            "src": "graphics/School Advice/Gujarati/1. School 1st June changes part 1/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "1. School 1St June Changes Part 2",
+            "src": "graphics/School Advice/Gujarati/1. School 1st June changes part 2/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "graphics": [
+        {
+          "info": {
+            "name": "3. School Checklist Part 1",
+            "src": "graphics/School Advice/Hindi/3. School Checklist part 1/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "3. School Checklist Part 2",
+            "src": "graphics/School Advice/Hindi/3. School Checklist part 2/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "4. School FAQ 1",
+            "src": "graphics/School Advice/Hindi/4. School FAQ 1/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. School FAQ 2",
+            "src": "graphics/School Advice/Hindi/5. School FAQ 2/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. School FAQ 3",
+            "src": "graphics/School Advice/Hindi/6. School FAQ 3/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. School FAQ 4",
+            "src": "graphics/School Advice/Hindi/7. School FAQ 4/Slide2.png"
           }
         }
       ]
@@ -1592,143 +1626,155 @@
       ]
     },
     {
-      "language": "Chinese (simplified)",
+      "language": "Kurdish Sorani",
       "graphics": [
         {
           "info": {
             "name": "1. School 1St June Changes Part 1",
-            "src": "graphics/School Advice/Chinese (simplified)/1. School 1st June changes part 1/SG1 Simplified Chinese 1.png"
+            "src": "graphics/School Advice/Kurdish Sorani/1. School 1st June changes part 1/SG1SoraniKurdish1.png"
           }
         },
         {
           "info": {
             "name": "1. School 1St June Changes Part 2",
-            "src": "graphics/School Advice/Chinese (simplified)/1. School 1st June changes part 2/SG1 Simplified Chinese 2.png"
+            "src": "graphics/School Advice/Kurdish Sorani/1. School 1st June changes part 2/SG1SoraniKurdish2.png"
           }
         },
         {
           "info": {
             "name": "2. School Safety Measures Part 1",
-            "src": "graphics/School Advice/Chinese (simplified)/2. School Safety Measures part 1/SG2 Chinese Simplified 1.png"
+            "src": "graphics/School Advice/Kurdish Sorani/2. School Safety Measures part 1/SG2 Kurdish 1.png"
           }
         },
         {
           "info": {
             "name": "2. School Safety Measures Part 2",
-            "src": "graphics/School Advice/Chinese (simplified)/2. School Safety Measures part 2/SG2 Chinese Simplified 2.png"
+            "src": "graphics/School Advice/Kurdish Sorani/2. School Safety Measures part 2/SG2 Kurdish 2.png"
           }
         },
         {
           "info": {
             "name": "3. School Checklist Part 1",
-            "src": "graphics/School Advice/Chinese (simplified)/3. School Checklist part 1/SG3 Simplified Chinese (1).png"
+            "src": "graphics/School Advice/Kurdish Sorani/3. School Checklist part 1/Slide1.png"
           }
         },
         {
           "info": {
             "name": "3. School Checklist Part 2",
-            "src": "graphics/School Advice/Chinese (simplified)/3. School Checklist part 2/SG3 Simplified Chinese (2).png"
+            "src": "graphics/School Advice/Kurdish Sorani/3. School Checklist part 2/Slide2.png"
           }
         },
         {
           "info": {
             "name": "4. School FAQ 1",
-            "src": "graphics/School Advice/Chinese (simplified)/4. School FAQ 1/Common Concerns (Simplified Chinese) [1].png"
+            "src": "graphics/School Advice/Kurdish Sorani/4. School FAQ 1/Slide1.png"
           }
         },
         {
           "info": {
             "name": "5. School FAQ 2",
-            "src": "graphics/School Advice/Chinese (simplified)/5. School FAQ 2/Common Concerns (Simplified Chinese) [2].png"
+            "src": "graphics/School Advice/Kurdish Sorani/5. School FAQ 2/Slide2.png"
           }
         },
         {
           "info": {
             "name": "6. School FAQ 3",
-            "src": "graphics/School Advice/Chinese (simplified)/6. School FAQ 3/FAQ 2 \u2013 Simplified Chinese (1).png"
+            "src": "graphics/School Advice/Kurdish Sorani/6. School FAQ 3/Kurdish Sorani FAQ 2 (Part 1).png"
           }
         },
         {
           "info": {
             "name": "7. School FAQ 4",
-            "src": "graphics/School Advice/Chinese (simplified)/7. School FAQ 4/FAQ 2 \u2013 Simplified Chinese (2).png"
-          }
-        }
-      ]
-    },
-    {
-      "language": "Arabic",
-      "graphics": [
-        {
-          "info": {
-            "name": "1. School 1St June Changes Part 1",
-            "src": "graphics/School Advice/Arabic/1. School 1st June changes part 1/SG1Arabic1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "1. School 1St June Changes Part 2",
-            "src": "graphics/School Advice/Arabic/1. School 1st June changes part 2/SG1Arabic2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "2. School Safety Measures Part 1",
-            "src": "graphics/School Advice/Arabic/2. School Safety Measures part 1/SG1 Arabic 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "2. School Safety Measures Part 2",
-            "src": "graphics/School Advice/Arabic/2. School Safety Measures part 2/SG1 Arabic 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "3. School Checklist Part 1",
-            "src": "graphics/School Advice/Arabic/3. School Checklist part 1/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "3. School Checklist Part 2",
-            "src": "graphics/School Advice/Arabic/3. School Checklist part 2/Slide2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. School FAQ 1",
-            "src": "graphics/School Advice/Arabic/4. School FAQ 1/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. School FAQ 2",
-            "src": "graphics/School Advice/Arabic/5. School FAQ 2/Slide2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. School FAQ 3",
-            "src": "graphics/School Advice/Arabic/6. School FAQ 3/Arabic FAQ 2 (Part 1).png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. School FAQ 4",
-            "src": "graphics/School Advice/Arabic/7. School FAQ 4/Arabic FAQ 2 (Part 2).png"
+            "src": "graphics/School Advice/Kurdish Sorani/7. School FAQ 4/Kurdish Sorani FAQ 2 (Part 2).png"
           }
         },
         {
           "info": {
             "name": "8. School FAQ 5",
-            "src": "graphics/School Advice/Arabic/8. School FAQ 5/Slide1.png"
+            "src": "graphics/School Advice/Kurdish Sorani/8. School FAQ 5/Slide1.png"
           }
         },
         {
           "info": {
             "name": "9. School FAQ 6",
-            "src": "graphics/School Advice/Arabic/9. School FAQ 6/Slide2.png"
+            "src": "graphics/School Advice/Kurdish Sorani/9. School FAQ 6/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Polish",
+      "graphics": [
+        {
+          "info": {
+            "name": "1. School 1St June Changes Part 1",
+            "src": "graphics/School Advice/Polish/1. School 1st June changes part 1/SG1 Polish 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "1. School 1St June Changes Part 2",
+            "src": "graphics/School Advice/Polish/1. School 1st June changes part 2/SG1 Polish 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. School Safety Measures Part 1",
+            "src": "graphics/School Advice/Polish/2. School Safety Measures part 1/SG2 Polish 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. School Safety Measures Part 2",
+            "src": "graphics/School Advice/Polish/2. School Safety Measures part 2/SG2 Polish 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "3. School Checklist Part 1",
+            "src": "graphics/School Advice/Polish/3. School Checklist part 1/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "3. School Checklist Part 2",
+            "src": "graphics/School Advice/Polish/3. School Checklist part 2/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "4. School FAQ 1",
+            "src": "graphics/School Advice/Polish/4. School FAQ 1/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. School FAQ 2",
+            "src": "graphics/School Advice/Polish/5. School FAQ 2/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. School FAQ 3",
+            "src": "graphics/School Advice/Polish/6. School FAQ 3/Polish FAQ 2 (Part 1).png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. School FAQ 4",
+            "src": "graphics/School Advice/Polish/7. School FAQ 4/Polish FAQ 2 (Part 1).png"
+          }
+        },
+        {
+          "info": {
+            "name": "8. School FAQ 5",
+            "src": "graphics/School Advice/Polish/8. School FAQ 5/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. School FAQ 6",
+            "src": "graphics/School Advice/Polish/9. School FAQ 6/Slide1.png"
           }
         }
       ]
@@ -1811,107 +1857,18 @@
       ]
     },
     {
-      "language": "Hindi",
+      "language": "Punjabi",
       "graphics": [
         {
           "info": {
             "name": "3. School Checklist Part 1",
-            "src": "graphics/School Advice/Hindi/3. School Checklist part 1/Slide1.png"
+            "src": "graphics/School Advice/Punjabi/3. School Checklist part 1/Slide1.png"
           }
         },
         {
           "info": {
             "name": "3. School Checklist Part 2",
-            "src": "graphics/School Advice/Hindi/3. School Checklist part 2/Slide2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. School FAQ 1",
-            "src": "graphics/School Advice/Hindi/4. School FAQ 1/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. School FAQ 2",
-            "src": "graphics/School Advice/Hindi/5. School FAQ 2/Slide2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. School FAQ 3",
-            "src": "graphics/School Advice/Hindi/6. School FAQ 3/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. School FAQ 4",
-            "src": "graphics/School Advice/Hindi/7. School FAQ 4/Slide2.png"
-          }
-        }
-      ]
-    },
-    {
-      "language": "Chinese (Traditional)",
-      "graphics": [
-        {
-          "info": {
-            "name": "1. School 1St June Changes Part 1",
-            "src": "graphics/School Advice/Chinese (Traditional)/1. School 1st June changes part 1/SG1 Traditional Chinese 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "1. School 1St June Changes Part 2",
-            "src": "graphics/School Advice/Chinese (Traditional)/1. School 1st June changes part 2/SG1 Traditional Chinese 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "2. School Safety Measures Part 1",
-            "src": "graphics/School Advice/Chinese (Traditional)/2. School Safety Measures part 1/SG2 Chinese Traditional 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "2. School Safety Measures Part 2",
-            "src": "graphics/School Advice/Chinese (Traditional)/2. School Safety Measures part 2/SG2 Chinese Traditional 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "3. School Checklist Part 1",
-            "src": "graphics/School Advice/Chinese (Traditional)/3. School Checklist part 1/SG3 Traditional Chinese (1).png"
-          }
-        },
-        {
-          "info": {
-            "name": "3. School Checklist Part 2",
-            "src": "graphics/School Advice/Chinese (Traditional)/3. School Checklist part 2/SG3 Traditional Chinese (2).png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. School FAQ 1",
-            "src": "graphics/School Advice/Chinese (Traditional)/4. School FAQ 1/Common Concerns (Traditional Chinese) [1].png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. School FAQ 2",
-            "src": "graphics/School Advice/Chinese (Traditional)/5. School FAQ 2/Common Concerns (Traditional Chinese) [2].png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. School FAQ 3",
-            "src": "graphics/School Advice/Chinese (Traditional)/6. School FAQ 3/FAQ 2 \u2013 Traditional Chinese (1).png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. School FAQ 4",
-            "src": "graphics/School Advice/Chinese (Traditional)/7. School FAQ 4/FAQ 2 \u2013 Traditional Chinese (2).png"
+            "src": "graphics/School Advice/Punjabi/3. School Checklist part 2/Slide2.png"
           }
         }
       ]
@@ -1994,18 +1951,78 @@
       ]
     },
     {
-      "language": "Punjabi",
+      "language": "Tamil",
       "graphics": [
         {
           "info": {
+            "name": "1. School 1St June Changes Part 1",
+            "src": "graphics/School Advice/Tamil/1. School 1st June changes part 1/SG1 Tamil 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "1. School 1St June Changes Part 2",
+            "src": "graphics/School Advice/Tamil/1. School 1st June changes part 2/SG1 Tamil 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. School Safety Measures Part 1",
+            "src": "graphics/School Advice/Tamil/2. School Safety Measures part 1/SG2 Tamil 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. School Safety Measures Part 2",
+            "src": "graphics/School Advice/Tamil/2. School Safety Measures part 2/SG2 Tamil 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "3. School Checklist Part 1",
-            "src": "graphics/School Advice/Punjabi/3. School Checklist part 1/Slide1.png"
+            "src": "graphics/School Advice/Tamil/3. School Checklist part 1/Slide1.png"
           }
         },
         {
           "info": {
             "name": "3. School Checklist Part 2",
-            "src": "graphics/School Advice/Punjabi/3. School Checklist part 2/Slide2.png"
+            "src": "graphics/School Advice/Tamil/3. School Checklist part 2/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "4. School FAQ 1",
+            "src": "graphics/School Advice/Tamil/4. School FAQ 1/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. School FAQ 2",
+            "src": "graphics/School Advice/Tamil/5. School FAQ 2/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. School FAQ 3",
+            "src": "graphics/School Advice/Tamil/6. School FAQ 3/Tamil FAQ 2 (Part 1).png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. School FAQ 4",
+            "src": "graphics/School Advice/Tamil/7. School FAQ 4/Tamil FAQ 2 (Part 1).png"
+          }
+        },
+        {
+          "info": {
+            "name": "8. School FAQ 5",
+            "src": "graphics/School Advice/Tamil/8. School FAQ 5/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. School FAQ 6",
+            "src": "graphics/School Advice/Tamil/9. School FAQ 6/Slide1.png"
           }
         }
       ]
@@ -2050,20 +2067,476 @@
           }
         }
       ]
+    }
+  ],
+  "Advice for non-COVID patients": [
+    {
+      "language": "Arabic",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Arabic/Accessing healthcare in emergency part 1/Arabic emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Arabic/Accessing healthcare in emergency part 2/arabic unsure.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Arabic/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Arabic/Stroke/Slide2.png"
+          }
+        }
+      ]
     },
     {
       "language": "French",
       "graphics": [
         {
           "info": {
-            "name": "8. School FAQ 5",
-            "src": "graphics/School Advice/French/8. School FAQ 5/Slide1.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/French/Accessing healthcare in emergency part 1/French emergency.png"
           }
         },
         {
           "info": {
-            "name": "9. School FAQ 6",
-            "src": "graphics/School Advice/French/9. School FAQ 6/Slide2.png"
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/French/Accessing healthcare in emergency part 2/French unsure.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/French/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/French/Stroke/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Gujarati",
+      "graphics": [
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Gujarati/Heart Attack/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Italian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Italian/Accessing healthcare in emergency part 1/new Italian emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Italian/Accessing healthcare in emergency part 2/new unsure italian.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Italian/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Italian/Stroke/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Kurdish Sorani",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Accessing healthcare in emergency part 1/Kurdish emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Accessing healthcare in emergency part 2/unsure kurdish.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Stroke/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Polish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Polish/Accessing healthcare in emergency part 1/new Polish emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Polish/Accessing healthcare in emergency part 2/new Polish unsure.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Polish/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Polish/Stroke/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Portuguese",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Portuguese/Accessing healthcare in emergency part 1/Emergency port.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Portuguese/Accessing healthcare in emergency part 2/Emergency port.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Portuguese/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Portuguese/Stroke/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Punjabi/Accessing healthcare in emergency part 1/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Punjabi/Accessing healthcare in emergency part 2/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Somali",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Somali/Accessing healthcare in emergency part 1/Somali emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Somali/Accessing healthcare in emergency part 2/Somali emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Somali/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Somali/Stroke/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Spanish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Spanish/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Spanish/Stroke/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Tamil",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Tamil/Accessing healthcare in emergency part 1/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Tamil/Accessing healthcare in emergency part 2/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Tamil/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Tamil/Stroke/Slide2.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Urdu",
+      "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Urdu/Accessing healthcare in emergency part 1/urdu emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/Urdu/Accessing healthcare in emergency part 2/new urdu unsure.png"
+          }
+        }
+      ]
+    }
+  ],
+  "Shop Advice": [
+    {
+      "language": "Arabic",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/Arabic/Advice for shops and businesses/20200616_194325323_iOS.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Are Reopening",
+            "src": "graphics/Shop Advice/Arabic/Which shops are reopening/20200614_165547920_iOS.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/English/Advice for shops and businesses/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Are Reopening",
+            "src": "graphics/Shop Advice/English/Which shops are reopening/Whatshopswillre-open.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "French",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/French/Advice for shops and businesses/20200616_194505481_iOS.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Are Reopening",
+            "src": "graphics/Shop Advice/French/Which shops are reopening/20200614_165731686_iOS.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Gujarati",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/Gujarati/Advice for shops and businesses/Gujarati.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Are Reopening",
+            "src": "graphics/Shop Advice/Gujarati/Which shops are reopening/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Italian",
+      "graphics": [
+        {
+          "info": {
+            "name": "Which Shops Are Reopening",
+            "src": "graphics/Shop Advice/Italian/Which shops are reopening/20200614_165828762_iOS.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Kurdish Sorani",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/Kurdish Sorani/Advice for shops and businesses/20200616_194548642_iOS.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Polish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/Polish/Advice for shops and businesses/20200616_194742999_iOS.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Will Be Reopening",
+            "src": "graphics/Shop Advice/Polish/Which shops will be reopening/20200614_165927886_iOS.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Portuguese",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/Portuguese/Advice for shops and businesses/20200616_194904506_iOS.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Will Be Reopening",
+            "src": "graphics/Shop Advice/Portuguese/Which shops will be reopening/20200614_170021915_iOS.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Somali",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/Somali/Advice for shops and businesses/20200616_195050530_iOS.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Will Be Reopening",
+            "src": "graphics/Shop Advice/Somali/Which shops will be reopening/20200614_170117026_iOS.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Spanish",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/Spanish/Advice for shops and businesses/20200616_195202480_iOS.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Will Be Reopening",
+            "src": "graphics/Shop Advice/Spanish/Which shops will be reopening/Slide1.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Tamil",
+      "graphics": [
+        {
+          "info": {
+            "name": "Advice For Shops And Businesses",
+            "src": "graphics/Shop Advice/Tamil/Advice for shops and businesses/20200616_195330029_iOS.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Which Shops Will Be Reopening",
+            "src": "graphics/Shop Advice/Tamil/Which shops will be reopening/20200614_170209374_iOS.png"
           }
         }
       ]
