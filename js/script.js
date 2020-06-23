@@ -72,7 +72,7 @@ function showOtherAdviceTabs(lan) {
     let advices = ["School Advice", "Advice for non-COVID patients", "Shop Advice"]
     advices.forEach(function (advice) {
         let index = -1;
-        let filteredObj = allData[advice].find(function (item, i) {
+        let filteredObj = allData[advice].filter(function (item, i) {
             if (item.language === lan) {
                 index = i;
                 return i;
