@@ -186,6 +186,12 @@
         },
         {
           "info": {
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Czech/Face Coverings/Face Coverings (Czech).png"
+          }
+        },
+        {
+          "info": {
             "name": "Mythbuster",
             "src": "graphics/Languages/Czech/Mythbuster/CZECH COVID19 Mythbusters.png"
           }
@@ -728,6 +734,12 @@
             "name": "Myth Busters",
             "src": "graphics/Languages/Punjabi/Myth busters/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Punjabi/Spread and Prevention/PunjabiSpreadandPrevention.png"
+          }
         }
       ]
     },
@@ -750,6 +762,12 @@
           "info": {
             "name": "Mythbusters",
             "src": "graphics/Languages/Romanian/Mythbusters/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Romanian/Face Coverings/Face Coverings Infographic (Romanian).png"
           }
         },
         {
@@ -837,6 +855,12 @@
           "info": {
             "name": "Selfcare",
             "src": "graphics/Languages/Slovak/Selfcare/SLOVAK COVID 19 Self-care.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Slovak/Face Coverings/Face Coverings Infographic (Slovak).png"
           }
         },
         {
@@ -2128,6 +2152,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Diabetes 2/Sorani Kurdish Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Accessing healthcare in emergency part 2/unsure kurdish.png"
           }
@@ -2136,6 +2166,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Diabetes 1/Sorani Kurdish Diabetes Graphic 1.png"
           }
         },
         {
@@ -2154,6 +2190,18 @@
             "name": "Heart Attack",
             "src": "graphics/Advice for non-COVID patients/Gujarati/Heart Attack/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Gujarati/Diabetes 2/Gujarati Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Gujarati/Diabetes 1/Gujarati Diabetes Graphic 1.png"
+          }
         }
       ]
     },
@@ -2168,6 +2216,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Tamil/Diabetes 2/Tamil Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Tamil/Accessing healthcare in emergency part 2/Slide1.png"
           }
@@ -2176,6 +2230,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Tamil/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Tamil/Diabetes 1/Tamil Diabetes Graphic 1.png"
           }
         },
         {
@@ -2197,6 +2257,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/English/Diabetes 2/English Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/English/Accessing healthcare in emergency part 2/Accessing healthcare_ non emergency.png"
           }
@@ -2205,6 +2271,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/English/Stroke/Accessing healthcare_ stroke 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/English/Diabetes 1/English Diabetes Graphic 1.png"
           }
         },
         {
@@ -2226,6 +2298,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Polish/Diabetes 2/Polish Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Polish/Accessing healthcare in emergency part 2/new Polish unsure.png"
           }
@@ -2234,6 +2312,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Polish/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Polish/Diabetes 1/Polish Diabetes Graphic 1.png"
           }
         },
         {
@@ -2255,6 +2339,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Italian/Diabetes 2/Italian Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Italian/Accessing healthcare in emergency part 2/new unsure italian.png"
           }
@@ -2263,6 +2353,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Italian/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Italian/Diabetes 1/Italian Diabetes Graphic 1.png"
           }
         },
         {
@@ -2284,6 +2380,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Arabic/Diabetes 2/Arabic Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Arabic/Accessing healthcare in emergency part 2/arabic unsure.png"
           }
@@ -2292,6 +2394,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Arabic/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Arabic/Diabetes 1/Arabic Diabetes Graphic 1.png"
           }
         },
         {
@@ -2313,6 +2421,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Portuguese/Diabetes 2/Portuguese Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Portuguese/Accessing healthcare in emergency part 2/Emergency port.png"
           }
@@ -2321,6 +2435,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Portuguese/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Portuguese/Diabetes 1/Portuguese Diabetes Graphic 1.png"
           }
         },
         {
@@ -2342,8 +2462,20 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Spanish/Diabetes 2/Spanish Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Spanish/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Spanish/Diabetes 1/Spanish Diabetes Graphic 1.png"
           }
         }
       ]
@@ -2393,6 +2525,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Somali/Diabetes 2/Somali Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Somali/Accessing healthcare in emergency part 2/Somali emergency.png"
           }
@@ -2401,6 +2539,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Somali/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Somali/Diabetes 1/Somali Diabetes Graphic 1.png"
           }
         },
         {
@@ -2422,6 +2566,12 @@
         },
         {
           "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/French/Diabetes 2/French Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/French/Accessing healthcare in emergency part 2/French unsure.png"
           }
@@ -2430,6 +2580,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/French/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/French/Diabetes 1/French Diabetes Graphic 1.png"
           }
         },
         {
