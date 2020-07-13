@@ -69,7 +69,7 @@ function showLanguageInfos() {
 
 function showOtherAdviceTabs(lan) {
     //cant have school advice own its own
-    let advices = ["School Advice", "Advice for non-COVID patients", "Shop Advice"]
+    let advices = ["School Advice", "Advice for non-COVID patients", "Shop Advice", "Place of worship Advice"]
     advices.forEach(function (advice) {
         let index = -1;
         let filteredObj = allData[advice].filter(function (item, i) {

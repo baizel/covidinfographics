@@ -26,6 +26,12 @@
             "name": "Myth Busters",
             "src": "graphics/Languages/Arabic/Myth busters/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Arabic/Test and trace/Slide1.png"
+          }
         }
       ]
     },
@@ -462,6 +468,12 @@
             "name": "Mythbuster",
             "src": "graphics/Languages/Italian/Mythbuster/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Italian/Test and Trace/Slide1.png"
+          }
         }
       ]
     },
@@ -524,6 +536,12 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Kurdish Sorani/Self care/COVIDInfographic2KurdishSorani.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Kurdish Sorani/Test and trace/Slide1.png"
           }
         }
       ]
@@ -717,6 +735,12 @@
             "name": "Mythbuster",
             "src": "graphics/Languages/Portuguese/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Portuguese).png"
           }
+        },
+        {
+          "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Portuguese/Test and Trace/PortugueseTestandTrace.png"
+          }
         }
       ]
     },
@@ -891,6 +915,12 @@
             "name": "Self Care",
             "src": "graphics/Languages/Somali/Self care/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Somali/Test and trace/Slide1.png"
+          }
         }
       ]
     },
@@ -931,6 +961,12 @@
           "info": {
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Spanish/Spread and Prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Spanish/Test and trace/Slide1.png"
           }
         }
       ]
@@ -1060,6 +1096,12 @@
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Tamil/Spread and prevention/Slide1.png"
           }
+        },
+        {
+          "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Tamil/Test and trace/Slide1.png"
+          }
         }
       ]
     },
@@ -1134,6 +1176,12 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Urdu/Self care/Infographic 2 \u2013 Urdu Translation.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Urdu/Test and trace/Slide1.png"
           }
         },
         {
@@ -2176,6 +2224,12 @@
         },
         {
           "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Cancer/Kurdish cancer.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 1",
             "src": "graphics/Advice for non-COVID patients/Kurdish Sorani/Accessing healthcare in emergency part 1/Kurdish emergency.png"
           }
@@ -2201,6 +2255,12 @@
           "info": {
             "name": "Diabetes 1",
             "src": "graphics/Advice for non-COVID patients/Gujarati/Diabetes 1/Gujarati Diabetes Graphic 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Gujarati/Cancer/Gujarati cancer.png"
           }
         }
       ]
@@ -2236,6 +2296,12 @@
           "info": {
             "name": "Diabetes 1",
             "src": "graphics/Advice for non-COVID patients/Tamil/Diabetes 1/Tamil Diabetes Graphic 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Tamil/Cancer/Tamil cancer.png"
           }
         },
         {
@@ -2281,6 +2347,12 @@
         },
         {
           "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/English/Cancer/CanceradviceEnglish.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 1",
             "src": "graphics/Advice for non-COVID patients/English/Accessing healthcare in emergency part 1/Accessing healthcare_ emergencies copy 1.png"
           }
@@ -2318,6 +2390,12 @@
           "info": {
             "name": "Diabetes 1",
             "src": "graphics/Advice for non-COVID patients/Polish/Diabetes 1/Polish Diabetes Graphic 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Polish/Cancer/Polish cancer.png"
           }
         },
         {
@@ -2363,6 +2441,12 @@
         },
         {
           "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Italian/Cancer/Italian cancer.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 1",
             "src": "graphics/Advice for non-COVID patients/Italian/Accessing healthcare in emergency part 1/new Italian emergency.png"
           }
@@ -2404,6 +2488,12 @@
         },
         {
           "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Arabic/Cancer/Arabic cancer.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 1",
             "src": "graphics/Advice for non-COVID patients/Arabic/Accessing healthcare in emergency part 1/Arabic emergency.png"
           }
@@ -2435,6 +2525,12 @@
           "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Portuguese/Stroke/Slide2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Portuguese",
+            "src": "graphics/Advice for non-COVID patients/Portuguese/Portuguese/Portuguese cancer.png"
           }
         },
         {
@@ -2476,6 +2572,12 @@
           "info": {
             "name": "Diabetes 1",
             "src": "graphics/Advice for non-COVID patients/Spanish/Diabetes 1/Spanish Diabetes Graphic 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Spanish/Cancer/Spanish cancer.png"
           }
         }
       ]
@@ -2549,6 +2651,12 @@
         },
         {
           "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Somali/Cancer/Somali cancer.png"
+          }
+        },
+        {
+          "info": {
             "name": "Accessing Healthcare In Emergency Part 1",
             "src": "graphics/Advice for non-COVID patients/Somali/Accessing healthcare in emergency part 1/Somali emergency.png"
           }
@@ -2586,6 +2694,12 @@
           "info": {
             "name": "Diabetes 1",
             "src": "graphics/Advice for non-COVID patients/French/Diabetes 1/French Diabetes Graphic 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/French/Cancer/French cancer.png"
           }
         },
         {
@@ -2773,5 +2887,6 @@
         }
       ]
     }
-  ]
+  ],
+  "Place of worship Advice": []
 }

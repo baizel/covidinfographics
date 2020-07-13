@@ -8,19 +8,21 @@ LANGUAGES = "Languages"
 LOCAL_RESOURCES = "local_resources"
 SHOP_ADVICE = "Shop Advice"
 ADVICE_NON_COVID = "Advice for non-COVID patients"
+PLACE_OF_WORSHIP = "Place of worship Advice"
 
 rootDir = "graphics"
 
 ALL_LANGUAGES = []
 
 # Map directory name to a dict
-forAutoGen = [LANGUAGES, LOCAL_RESOURCES, SCHOOL_ADVICE, SHOP_ADVICE, ADVICE_NON_COVID]
+forAutoGen = [LANGUAGES, LOCAL_RESOURCES, SCHOOL_ADVICE, SHOP_ADVICE, ADVICE_NON_COVID, PLACE_OF_WORSHIP]
 data = {
     LANGUAGES: [],
     LOCAL_RESOURCES: [],
     SCHOOL_ADVICE: [],
     ADVICE_NON_COVID: [],
-   SHOP_ADVICE: []
+    SHOP_ADVICE: [],
+    PLACE_OF_WORSHIP: []
 }
 
 
@@ -79,7 +81,7 @@ def main():
                 data[paths].append(entry)
 
     sortedLan = sorted(data[LANGUAGES], key=lambda k: k['language'])
-    count =0
+    count = 0
     for lan in data[SCHOOL_ADVICE]:
         data[SCHOOL_ADVICE][count]["graphics"] = sorted(lan["graphics"], key=lambda k: k['info']["name"])
         count = count + 1
