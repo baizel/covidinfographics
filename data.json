@@ -5,26 +5,14 @@
       "graphics": [
         {
           "info": {
+            "name": "1. Overview",
+            "src": "graphics/Languages/Arabic/1. Overview/COVIDOutreachArabicFinal.png"
+          }
+        },
+        {
+          "info": {
             "name": "2. Self Care",
             "src": "graphics/Languages/Arabic/2. Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/Arabic/7. Test and trace/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Arabic/Wellbeing NEWS minigraphic 2/ArabicWellbeingNEWSminigraphic2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/Arabic/6. Face coverings/Arabic Face Coverings Infographic.png"
           }
         },
         {
@@ -35,20 +23,14 @@
         },
         {
           "info": {
-            "name": "1. Overview",
-            "src": "graphics/Languages/Arabic/1. Overview/COVIDOutreachArabicFinal.png"
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/Arabic/6. Face coverings/Arabic Face Coverings Infographic.png"
           }
         },
         {
           "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/Arabic/9. Shielding support/Arabic Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Arabic/Wellbeing NEWS minigraphic 1/ArabicWellbeingNEWSminigraphic1.png"
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/Arabic/7. Test and trace/Slide1.png"
           }
         },
         {
@@ -59,8 +41,26 @@
         },
         {
           "info": {
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/Arabic/9. Shielding support/Arabic Shielding support.png"
+          }
+        },
+        {
+          "info": {
             "name": "Wellbeing Minigraphic 1",
             "src": "graphics/Languages/Arabic/Wellbeing minigraphic 1/Arabicwellbeingminigraphic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Arabic/Wellbeing NEWS minigraphic 1/ArabicWellbeingNEWSminigraphic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Arabic/Wellbeing NEWS minigraphic 2/ArabicWellbeingNEWSminigraphic2.png"
           }
         },
         {
@@ -76,14 +76,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Bengali/Wellbeing/Wellbeing (Bengali).png"
-          }
-        },
-        {
-          "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Bengali/Overview/Bengaliinfographic.png"
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Bengali/Face Coverings/Face Coverings Infographic (Bengali).png"
           }
         },
         {
@@ -94,14 +88,20 @@
         },
         {
           "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Bengali/Overview/Bengaliinfographic.png"
+          }
+        },
+        {
+          "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Bengali/Self care/Bengali Self care.png"
           }
         },
         {
           "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Bengali/Face Coverings/Face Coverings Infographic (Bengali).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Bengali/Wellbeing/Wellbeing (Bengali).png"
           }
         }
       ]
@@ -109,6 +109,12 @@
     {
       "language": "Bulgarian",
       "graphics": [
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Bulgarian/Mythbusters/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -119,12 +125,6 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Bulgarian/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Bulgarian/Mythbusters/Slide1.png"
           }
         },
         {
@@ -140,20 +140,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Chinese (Traditional)/Wellbeing/Infographic 5 \u2013 Traditional Chinese.png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Chinese (Traditional)/Mythbuster/Infographic3-TraditionalChinese-1.png"
           }
         },
         {
           "info": {
             "name": "Overview",
             "src": "graphics/Languages/Chinese (Traditional)/Overview/Infographic1\u2013TraditionalChinese.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Chinese (Traditional)/Wellbeing NEWS minigraphic 2/Chinese traditional Wellbeing NEWS minigraphic 2.png"
           }
         },
         {
@@ -170,20 +164,26 @@
         },
         {
           "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Chinese (Traditional)/Wellbeing/Infographic 5 \u2013 Traditional Chinese.png"
+          }
+        },
+        {
+          "info": {
             "name": "Wellbeing NEWS Minigraphic 1",
             "src": "graphics/Languages/Chinese (Traditional)/Wellbeing NEWS minigraphic 1/Chinese traditional Wellbeing NEWS minigraphic 1.png"
           }
         },
         {
           "info": {
-            "name": "Wellbeing STAY CONNECTED Minigraphic",
-            "src": "graphics/Languages/Chinese (Traditional)/Wellbeing STAY CONNECTED minigraphic/Traditional Chinese Wellbeing STAY CONNECTED minigraphic.png"
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Chinese (Traditional)/Wellbeing NEWS minigraphic 2/Chinese traditional Wellbeing NEWS minigraphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Chinese (Traditional)/Mythbuster/Infographic3-TraditionalChinese-1.png"
+            "name": "Wellbeing STAY CONNECTED Minigraphic",
+            "src": "graphics/Languages/Chinese (Traditional)/Wellbeing STAY CONNECTED minigraphic/Traditional Chinese Wellbeing STAY CONNECTED minigraphic.png"
           }
         }
       ]
@@ -193,8 +193,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Chinese (simplified)/Wellbeing/Infographic 5 \u2013 Simplified Chinese.png"
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Chinese (simplified)/Mythbusters/Infographic3-SimplifiedChinese-1.png"
           }
         },
         {
@@ -211,20 +211,8 @@
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Chinese (simplified)/Wellbeing NEWS minigraphic 2/Chinese simplified Wellbeing NEWS minigraphic 2.png"
-          }
-        },
-        {
-          "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Chinese (simplified)/Self care/Infographic2\u2013SimplifiedChinese\u2013UpdatedFormatting.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Chinese (simplified)/Mythbusters/Infographic3-SimplifiedChinese-1.png"
           }
         },
         {
@@ -235,14 +223,26 @@
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Chinese (simplified)/Wellbeing NEWS minigraphic 1/Chinese simplified Wellbeing NHS minigraphic 1.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Chinese (simplified)/Wellbeing/Infographic 5 \u2013 Simplified Chinese.png"
           }
         },
         {
           "info": {
             "name": "Wellbeing Minigraphic 1",
             "src": "graphics/Languages/Chinese (simplified)/Wellbeing minigraphic 1/ChineseWellbeingminigraphic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Chinese (simplified)/Wellbeing NEWS minigraphic 1/Chinese simplified Wellbeing NHS minigraphic 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Chinese (simplified)/Wellbeing NEWS minigraphic 2/Chinese simplified Wellbeing NEWS minigraphic 2.png"
           }
         },
         {
@@ -258,8 +258,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Czech/Wellbeing/Wellbeing (Czech).png"
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Czech/Face Coverings/Face Coverings (Czech).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Czech/Mythbuster/CZECH COVID19 Mythbusters.png"
           }
         },
         {
@@ -276,14 +282,8 @@
         },
         {
           "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Czech/Face Coverings/Face Coverings (Czech).png"
-          }
-        },
-        {
-          "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Czech/Mythbuster/CZECH COVID19 Mythbusters.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Czech/Wellbeing/Wellbeing (Czech).png"
           }
         }
       ]
@@ -304,14 +304,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Dutch/Overview/DutchOverviewInfographic.png"
+            "name": "Myth Buster",
+            "src": "graphics/Languages/Dutch/Myth buster/Slide1.png"
           }
         },
         {
           "info": {
-            "name": "Myth Buster",
-            "src": "graphics/Languages/Dutch/Myth buster/Slide1.png"
+            "name": "Overview",
+            "src": "graphics/Languages/Dutch/Overview/DutchOverviewInfographic.png"
           }
         },
         {
@@ -327,32 +327,14 @@
       "graphics": [
         {
           "info": {
-            "name": "2. Self Care",
-            "src": "graphics/Languages/English/2. Self care/EnglishInfographicSelf-care.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/English/6. Face coverings/English Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/English/1. Overview/English Overview.png"
           }
         },
         {
           "info": {
-            "name": "4. Myths",
-            "src": "graphics/Languages/English/4. Myths/English Mythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/English/9. Shielding support/EnglishShieldingsupport.png"
+            "name": "2. Self Care",
+            "src": "graphics/Languages/English/2. Self care/EnglishInfographicSelf-care.png"
           }
         },
         {
@@ -363,14 +345,32 @@
         },
         {
           "info": {
-            "name": "Wellbeing STAY CONNECTED Minigraphic",
-            "src": "graphics/Languages/English/Wellbeing STAY CONNECTED minigraphic/EnglishWellbeingSTAYCONNECTEDminigraphic.png"
+            "name": "4. Myths",
+            "src": "graphics/Languages/English/4. Myths/English Mythbusters.png"
           }
         },
         {
           "info": {
             "name": "5. Wellbeing",
             "src": "graphics/Languages/English/5. Wellbeing/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/English/6. Face coverings/English Face Coverings Infographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/English/9. Shielding support/EnglishShieldingsupport.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing STAY CONNECTED Minigraphic",
+            "src": "graphics/Languages/English/Wellbeing STAY CONNECTED minigraphic/EnglishWellbeingSTAYCONNECTEDminigraphic.png"
           }
         }
       ]
@@ -380,32 +380,14 @@
       "graphics": [
         {
           "info": {
-            "name": "2. Self Care",
-            "src": "graphics/Languages/French/2. Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/French/6. Face coverings/French Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/French/1. Overview/Slide1.png"
           }
         },
         {
           "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/French/9. Shielding support/French Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Mythbuster",
-            "src": "graphics/Languages/French/4. Mythbuster/COVID19MYTHBUSTERgraphicfinal(French).png"
+            "name": "2. Self Care",
+            "src": "graphics/Languages/French/2. Self care/Slide1.png"
           }
         },
         {
@@ -416,8 +398,26 @@
         },
         {
           "info": {
+            "name": "4. Mythbuster",
+            "src": "graphics/Languages/French/4. Mythbuster/COVID19MYTHBUSTERgraphicfinal(French).png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/French/6. Face coverings/French Face Coverings Infographic.png"
+          }
+        },
+        {
+          "info": {
             "name": "8. Places Of Worship Advice",
             "src": "graphics/Languages/French/8. Places of worship advice/French worship.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/French/9. Shielding support/French Shielding support.png"
           }
         }
       ]
@@ -425,6 +425,12 @@
     {
       "language": "German",
       "graphics": [
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/German/myth busters/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -435,12 +441,6 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/German/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Myth Busters",
-            "src": "graphics/Languages/German/myth busters/Slide1.png"
           }
         },
         {
@@ -456,8 +456,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Gujarati/Wellbeing/Wellbeing (Gujarati).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Gujarati/Mythbuster/COVID19 MYTHBUSTER graphic final (Mythbuster).png"
           }
         },
         {
@@ -474,20 +474,8 @@
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Gujarati/Wellbeing NEWS minigraphic 2/GujaratiWellbeingNEWSminigraphic2.png"
-          }
-        },
-        {
-          "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Gujarati/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Gujarati/Wellbeing NEWS minigraphic 1/GujaratiWellbeingNEWSminigraphic1.png"
           }
         },
         {
@@ -498,20 +486,32 @@
         },
         {
           "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Gujarati/Wellbeing/Wellbeing (Gujarati).png"
+          }
+        },
+        {
+          "info": {
             "name": "Wellbeing Minigraphic 1",
             "src": "graphics/Languages/Gujarati/Wellbeing minigraphic 1/GujaratiWellbeingminigraphic1.png"
           }
         },
         {
           "info": {
-            "name": "Wellbeing STAY CONNECTED Minigraphic",
-            "src": "graphics/Languages/Gujarati/Wellbeing STAY CONNECTED minigraphic/Gujarati Wellbeing STAY CONNECTED minigraphic.png"
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Gujarati/Wellbeing NEWS minigraphic 1/GujaratiWellbeingNEWSminigraphic1.png"
           }
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Gujarati/Mythbuster/COVID19 MYTHBUSTER graphic final (Mythbuster).png"
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Gujarati/Wellbeing NEWS minigraphic 2/GujaratiWellbeingNEWSminigraphic2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing STAY CONNECTED Minigraphic",
+            "src": "graphics/Languages/Gujarati/Wellbeing STAY CONNECTED minigraphic/Gujarati Wellbeing STAY CONNECTED minigraphic.png"
           }
         }
       ]
@@ -521,8 +521,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Hebrew/Wellbeing/Wellbeing Infographic (Hebrew).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Hebrew/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Hebrew).png"
           }
         },
         {
@@ -545,8 +545,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Hebrew/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Hebrew).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Hebrew/Wellbeing/Wellbeing Infographic (Hebrew).png"
           }
         }
       ]
@@ -554,6 +554,12 @@
     {
       "language": "Hindi",
       "graphics": [
+        {
+          "info": {
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Hindi/Mythbusters/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -565,12 +571,6 @@
             "name": "Self Care",
             "src": "graphics/Languages/Hindi/Self care/Slide2.png"
           }
-        },
-        {
-          "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Hindi/Mythbusters/Slide1.png"
-          }
         }
       ]
     },
@@ -579,14 +579,20 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Italian/Wellbeing/Infographic 5 \u2013 Italian.png"
+            "name": "1. Overview",
+            "src": "graphics/Languages/Italian/1. Overview/Slide1.png"
           }
         },
         {
           "info": {
             "name": "2. Self Care",
             "src": "graphics/Languages/Italian/2. Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "3. Spread And Prevention",
+            "src": "graphics/Languages/Italian/3. Spread and Prevention/Slide1.png"
           }
         },
         {
@@ -603,20 +609,8 @@
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Italian/Wellbeing NEWS minigraphic 2/ItalianWellbeingNEWSminigraphic2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "1. Overview",
-            "src": "graphics/Languages/Italian/1. Overview/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "3. Spread And Prevention",
-            "src": "graphics/Languages/Italian/3. Spread and Prevention/Slide1.png"
+            "name": "8. Places Of Worship Advice",
+            "src": "graphics/Languages/Italian/8. Places of worship advice/Italianworship.png"
           }
         },
         {
@@ -627,20 +621,26 @@
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Italian/Wellbeing NEWS minigraphic 1/ItalianWellbeingNEWSminigraphic1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/Italian/8. Places of worship advice/Italianworship.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Italian/Wellbeing/Infographic 5 \u2013 Italian.png"
           }
         },
         {
           "info": {
             "name": "Wellbeing Minigraphic 1",
             "src": "graphics/Languages/Italian/Wellbeing minigraphic 1/Italianwellbeingminigraphic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Italian/Wellbeing NEWS minigraphic 1/ItalianWellbeingNEWSminigraphic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Italian/Wellbeing NEWS minigraphic 2/ItalianWellbeingNEWSminigraphic2.png"
           }
         },
         {
@@ -667,6 +667,12 @@
       "graphics": [
         {
           "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Korean/Mythbuster/Slide1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Overview",
             "src": "graphics/Languages/Korean/Overview/Slide1.png"
           }
@@ -682,12 +688,6 @@
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Korean/Spread and Prevention/Slide1.png"
           }
-        },
-        {
-          "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Korean/Mythbuster/Slide1.png"
-          }
         }
       ]
     },
@@ -696,20 +696,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Kurdish Sorani/Overview/Slide1.png"
-          }
-        },
-        {
-          "info": {
             "name": "Face Coverings",
             "src": "graphics/Languages/Kurdish Sorani/Face coverings/Kurdish Sorani Infographic.png"
           }
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Kurdish Sorani/Wellbeing NEWS minigraphic 2/SoraniKurdishWellbeingNEWSminigraphic2.png"
+            "name": "Overview",
+            "src": "graphics/Languages/Kurdish Sorani/Overview/Slide1.png"
           }
         },
         {
@@ -720,14 +714,20 @@
         },
         {
           "info": {
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Kurdish Sorani/Test and trace/Slide1.png"
+          }
+        },
+        {
+          "info": {
             "name": "Wellbeing NEWS Minigraphic 1",
             "src": "graphics/Languages/Kurdish Sorani/Wellbeing NEWS minigraphic 1/SoraniKurdishWellbeingNEWSminigraphic1.png"
           }
         },
         {
           "info": {
-            "name": "Test And Trace",
-            "src": "graphics/Languages/Kurdish Sorani/Test and trace/Slide1.png"
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Kurdish Sorani/Wellbeing NEWS minigraphic 2/SoraniKurdishWellbeingNEWSminigraphic2.png"
           }
         },
         {
@@ -743,8 +743,8 @@
       "graphics": [
         {
           "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/Lithuanian/6. Face Coverings/Face Coverings Infographic (Lithuanian).png"
+            "name": "1. Overview",
+            "src": "graphics/Languages/Lithuanian/1. Overview/CoronavirusLithuaninaninfographic.png"
           }
         },
         {
@@ -755,14 +755,8 @@
         },
         {
           "info": {
-            "name": "1. Overview",
-            "src": "graphics/Languages/Lithuanian/1. Overview/CoronavirusLithuaninaninfographic.png"
-          }
-        },
-        {
-          "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/Lithuanian/9. Shielding support/Lithuanian Shielding support.png"
+            "name": "3. Spread And Prevention",
+            "src": "graphics/Languages/Lithuanian/3. Spread and prevention/COVID-19 Spread and Prevention (Lithuanian).png"
           }
         },
         {
@@ -773,8 +767,14 @@
         },
         {
           "info": {
-            "name": "3. Spread And Prevention",
-            "src": "graphics/Languages/Lithuanian/3. Spread and prevention/COVID-19 Spread and Prevention (Lithuanian).png"
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Lithuanian/5. Wellbeing/Wellbeing Infographic (Lithuanian).png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/Lithuanian/6. Face Coverings/Face Coverings Infographic (Lithuanian).png"
           }
         },
         {
@@ -785,8 +785,8 @@
         },
         {
           "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Lithuanian/5. Wellbeing/Wellbeing Infographic (Lithuanian).png"
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/Lithuanian/9. Shielding support/Lithuanian Shielding support.png"
           }
         }
       ]
@@ -794,6 +794,12 @@
     {
       "language": "Malayalam",
       "graphics": [
+        {
+          "info": {
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Malayalam/Face Coverings/Face Coverings Infographic (Malayalam).png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -804,12 +810,6 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Malayalam/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Malayalam/Face Coverings/Face Coverings Infographic (Malayalam).png"
           }
         }
       ]
@@ -830,8 +830,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Persian/Wellbeing/COVID19 Wellbeing (Persian).png"
+            "name": "Mythbusters",
+            "src": "graphics/Languages/Persian/Mythbusters/Slide1.png"
           }
         },
         {
@@ -848,14 +848,14 @@
         },
         {
           "info": {
-            "name": "Mythbusters",
-            "src": "graphics/Languages/Persian/Mythbusters/Slide1.png"
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Persian/Spread and Prevention/COVID-19 Spread and Prevention (Persian).png"
           }
         },
         {
           "info": {
-            "name": "Spread And Prevention",
-            "src": "graphics/Languages/Persian/Spread and Prevention/COVID-19 Spread and Prevention (Persian).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Persian/Wellbeing/COVID19 Wellbeing (Persian).png"
           }
         }
       ]
@@ -865,26 +865,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Polish/Wellbeing/Wellbing (Polish).png"
-          }
-        },
-        {
-          "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Polish/Overview/COVIDOutreachPolish.png"
-          }
-        },
-        {
-          "info": {
             "name": "Face Coverings",
             "src": "graphics/Languages/Polish/Face coverings/Polish Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Polish/Self care/Slide1.png"
           }
         },
         {
@@ -895,14 +877,32 @@
         },
         {
           "info": {
-            "name": "Spread And Prevention",
-            "src": "graphics/Languages/Polish/Spread and Prevention/Slide1.png"
+            "name": "Overview",
+            "src": "graphics/Languages/Polish/Overview/COVIDOutreachPolish.png"
           }
         },
         {
           "info": {
             "name": "Place Of Worship Advice",
             "src": "graphics/Languages/Polish/Place of worship advice/Polish worship.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Self Care",
+            "src": "graphics/Languages/Polish/Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Spread And Prevention",
+            "src": "graphics/Languages/Polish/Spread and Prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Polish/Wellbeing/Wellbing (Polish).png"
           }
         }
       ]
@@ -912,8 +912,8 @@
       "graphics": [
         {
           "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/Portuguese/7. Test and Trace/PortugueseTestandTrace.png"
+            "name": "1. Overview",
+            "src": "graphics/Languages/Portuguese/1. Overview/Slide1.png"
           }
         },
         {
@@ -924,14 +924,20 @@
         },
         {
           "info": {
+            "name": "3. Spread And Prevention",
+            "src": "graphics/Languages/Portuguese/3. Spread and prevention/Slide1.png"
+          }
+        },
+        {
+          "info": {
             "name": "4. Mythbusters",
             "src": "graphics/Languages/Portuguese/4. Mythbusters/COVID19MYTHBUSTERgraphicfinal(Portuguese).png"
           }
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Portuguese/Wellbeing NEWS minigraphic 2/PortugueseWellbeingNEWSminigraphic2.png"
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Portuguese/5. Wellbeing/Wellbeing (Portuguese).png"
           }
         },
         {
@@ -942,26 +948,8 @@
         },
         {
           "info": {
-            "name": "1. Overview",
-            "src": "graphics/Languages/Portuguese/1. Overview/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/Portuguese/9. Shielding support/Portuguese Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Portuguese/Wellbeing NEWS minigraphic 1/PortugueseWellbeingNEWSminigraphic1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "3. Spread And Prevention",
-            "src": "graphics/Languages/Portuguese/3. Spread and prevention/Slide1.png"
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/Portuguese/7. Test and Trace/PortugueseTestandTrace.png"
           }
         },
         {
@@ -972,20 +960,32 @@
         },
         {
           "info": {
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/Portuguese/9. Shielding support/Portuguese Shielding support.png"
+          }
+        },
+        {
+          "info": {
             "name": "Wellbeing Minigraphic 1",
             "src": "graphics/Languages/Portuguese/Wellbeing minigraphic 1/Portuguesewellbeingminigraphic1.png"
           }
         },
         {
           "info": {
-            "name": "Wellbeing STAY CONNECTED Minigraphic",
-            "src": "graphics/Languages/Portuguese/Wellbeing STAY CONNECTED minigraphic/Portuguese Wellbeing STAY CONNECTED minigraphic.png"
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Portuguese/Wellbeing NEWS minigraphic 1/PortugueseWellbeingNEWSminigraphic1.png"
           }
         },
         {
           "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Portuguese/5. Wellbeing/Wellbeing (Portuguese).png"
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Portuguese/Wellbeing NEWS minigraphic 2/PortugueseWellbeingNEWSminigraphic2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing STAY CONNECTED Minigraphic",
+            "src": "graphics/Languages/Portuguese/Wellbeing STAY CONNECTED minigraphic/Portuguese Wellbeing STAY CONNECTED minigraphic.png"
           }
         }
       ]
@@ -995,26 +995,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Punjabi/Overview/COVIDPunjabiInfographic1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Punjabi/Wellbeing NEWS minigraphic 2/PunjabiWellbeingNEWSminigraphic2.png"
-          }
-        },
-        {
-          "info": {
             "name": "Myth Busters",
             "src": "graphics/Languages/Punjabi/Myth busters/Slide1.png"
           }
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Punjabi/Wellbeing NEWS minigraphic 1/PunjabiWellbeingNEWSminigraphic1.png"
+            "name": "Overview",
+            "src": "graphics/Languages/Punjabi/Overview/COVIDPunjabiInfographic1.png"
           }
         },
         {
@@ -1028,24 +1016,24 @@
             "name": "Wellbeing Minigraphic 1",
             "src": "graphics/Languages/Punjabi/Wellbeing minigraphic 1/Punjabiwellbeingminigraphic1.png"
           }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Punjabi/Wellbeing NEWS minigraphic 1/PunjabiWellbeingNEWSminigraphic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Punjabi/Wellbeing NEWS minigraphic 2/PunjabiWellbeingNEWSminigraphic2.png"
+          }
         }
       ]
     },
     {
       "language": "Romanian",
       "graphics": [
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/Romanian/6. Face Coverings/Face Coverings Infographic (Romanian).png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Mythbusters",
-            "src": "graphics/Languages/Romanian/4. Mythbusters/Slide1.png"
-          }
-        },
         {
           "info": {
             "name": "1. Overview",
@@ -1060,8 +1048,20 @@
         },
         {
           "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/Romanian/9. Shielding support/Romanian Shielding support.png"
+            "name": "4. Mythbusters",
+            "src": "graphics/Languages/Romanian/4. Mythbusters/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Romanian/5. Wellbeing/Wellbeing Infographic (Romanian).png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/Romanian/6. Face Coverings/Face Coverings Infographic (Romanian).png"
           }
         },
         {
@@ -1072,8 +1072,8 @@
         },
         {
           "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Romanian/5. Wellbeing/Wellbeing Infographic (Romanian).png"
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/Romanian/9. Shielding support/Romanian Shielding support.png"
           }
         }
       ]
@@ -1081,6 +1081,18 @@
     {
       "language": "Russian",
       "graphics": [
+        {
+          "info": {
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Russian/Face Coverings/Face Coverings Infographic (Russian).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Russian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Russian).png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -1095,20 +1107,8 @@
         },
         {
           "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Russian/Face Coverings/Face Coverings Infographic (Russian).png"
-          }
-        },
-        {
-          "info": {
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Russian/Spread and Prevention/COVID-19 Spread and Prevention (Russian).png"
-          }
-        },
-        {
-          "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Russian/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Russian).png"
           }
         }
       ]
@@ -1141,8 +1141,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Slovak/Wellbeing/Wellbeing (Slovak).png"
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Slovak/Face Coverings/Face Coverings Infographic (Slovak).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Slovak/Mythbuster/SLOVAK COVID19 Mythbusters.png"
           }
         },
         {
@@ -1159,14 +1165,8 @@
         },
         {
           "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Slovak/Face Coverings/Face Coverings Infographic (Slovak).png"
-          }
-        },
-        {
-          "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Slovak/Mythbuster/SLOVAK COVID19 Mythbusters.png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Slovak/Wellbeing/Wellbeing (Slovak).png"
           }
         }
       ]
@@ -1176,8 +1176,20 @@
       "graphics": [
         {
           "info": {
+            "name": "1. Overview",
+            "src": "graphics/Languages/Somali/1. Overview/Slide2.png"
+          }
+        },
+        {
+          "info": {
             "name": "2. Self Care",
             "src": "graphics/Languages/Somali/2. Self care/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Somali/5. Wellbeing/Wellbeing Infographic (Somali).png"
           }
         },
         {
@@ -1188,26 +1200,14 @@
         },
         {
           "info": {
-            "name": "1. Overview",
-            "src": "graphics/Languages/Somali/1. Overview/Slide2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/Somali/9. Shielding support/Somali Shielding support.png"
-          }
-        },
-        {
-          "info": {
             "name": "8. Places Of Worship Advice",
             "src": "graphics/Languages/Somali/8. Places of worship advice/Somali worship.png"
           }
         },
         {
           "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Somali/5. Wellbeing/Wellbeing Infographic (Somali).png"
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/Somali/9. Shielding support/Somali Shielding support.png"
           }
         }
       ]
@@ -1217,38 +1217,14 @@
       "graphics": [
         {
           "info": {
-            "name": "2. Self Care",
-            "src": "graphics/Languages/Spanish/2. Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Mythbusters",
-            "src": "graphics/Languages/Spanish/4. Mythbusters/COVID-19MythbustingInfographic(Spanish).png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/Spanish/7. Test and trace/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Spanish/Wellbeing NEWS minigraphic 2/SpanishWellbeingNEWSminigraphic2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/Spanish/6. Face coverings/Spanish Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/Spanish/1. Overview/SpanishInfographic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. Self Care",
+            "src": "graphics/Languages/Spanish/2. Self care/Slide1.png"
           }
         },
         {
@@ -1259,14 +1235,26 @@
         },
         {
           "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/Spanish/9. Shielding support/Spanish Shielding support.png"
+            "name": "4. Mythbusters",
+            "src": "graphics/Languages/Spanish/4. Mythbusters/COVID-19MythbustingInfographic(Spanish).png"
           }
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Spanish/Wellbeing NEWS minigraphic 1/SpanishWellbeingNEWSminigraphic1.png"
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Spanish/5. Wellbeing/Wellbeing (Spanish).png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/Spanish/6. Face coverings/Spanish Face Coverings Infographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/Spanish/7. Test and trace/Slide1.png"
           }
         },
         {
@@ -1277,8 +1265,26 @@
         },
         {
           "info": {
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/Spanish/9. Shielding support/Spanish Shielding support.png"
+          }
+        },
+        {
+          "info": {
             "name": "Wellbeing Minigraphic 1",
             "src": "graphics/Languages/Spanish/Wellbeing minigraphic 1/SpanishWellbeingminigraphic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Spanish/Wellbeing NEWS minigraphic 1/SpanishWellbeingNEWSminigraphic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Spanish/Wellbeing NEWS minigraphic 2/SpanishWellbeingNEWSminigraphic2.png"
           }
         },
         {
@@ -1286,18 +1292,18 @@
             "name": "Wellbeing STAY CONNECTED Minigraphic",
             "src": "graphics/Languages/Spanish/Wellbeing STAY CONNECTED minigraphic/Spanish Wellbeing STAY CONNECTED minigraphic.png"
           }
-        },
-        {
-          "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Spanish/5. Wellbeing/Wellbeing (Spanish).png"
-          }
         }
       ]
     },
     {
       "language": "Swahili",
       "graphics": [
+        {
+          "info": {
+            "name": "1. Overview",
+            "src": "graphics/Languages/Swahili/1. Overview/swahili.png"
+          }
+        },
         {
           "info": {
             "name": "2. Self Care",
@@ -1312,8 +1318,8 @@
         },
         {
           "info": {
-            "name": "1. Overview",
-            "src": "graphics/Languages/Swahili/1. Overview/swahili.png"
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Swahili/5. Wellbeing/Wellbeing (Swahili).png"
           }
         },
         {
@@ -1321,18 +1327,18 @@
             "name": "9. Shielding Support",
             "src": "graphics/Languages/Swahili/9. Shielding support/Swahili Shielding support.png"
           }
-        },
-        {
-          "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Swahili/5. Wellbeing/Wellbeing (Swahili).png"
-          }
         }
       ]
     },
     {
       "language": "Swedish",
       "graphics": [
+        {
+          "info": {
+            "name": "Myth Busters",
+            "src": "graphics/Languages/Swedish/myth busters/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Overview",
@@ -1343,12 +1349,6 @@
           "info": {
             "name": "Self Care",
             "src": "graphics/Languages/Swedish/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Myth Busters",
-            "src": "graphics/Languages/Swedish/myth busters/Slide1.png"
           }
         },
         {
@@ -1364,8 +1364,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Sylheti/Wellbeing/Wellbeing (Sylheti).png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Sylheti/Mythbuster/COVID19 MYTHBUSTER graphic final (Sylheti).png"
           }
         },
         {
@@ -1382,8 +1382,8 @@
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Sylheti/Mythbuster/COVID19 MYTHBUSTER graphic final (Sylheti).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Sylheti/Wellbeing/Wellbeing (Sylheti).png"
           }
         }
       ]
@@ -1393,50 +1393,14 @@
       "graphics": [
         {
           "info": {
-            "name": "2. Self Care",
-            "src": "graphics/Languages/Tamil/2. Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/Tamil/7. Test and trace/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Tamil/Wellbeing NEWS minigraphic 2/TamilWellbeingNEWSminigraphic2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/Tamil/6. Face coverings/Tamil Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Myth Busters",
-            "src": "graphics/Languages/Tamil/4. Myth busters/Slide1.png"
-          }
-        },
-        {
-          "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/Tamil/1. Overview/Slide1.png"
           }
         },
         {
           "info": {
-            "name": "9. Shielding Support",
-            "src": "graphics/Languages/Tamil/9. Shielding support/Tamil Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Tamil/Wellbeing NEWS minigraphic 1/TamilWellbeingNEWSminigraphic1.png"
+            "name": "2. Self Care",
+            "src": "graphics/Languages/Tamil/2. Self care/Slide1.png"
           }
         },
         {
@@ -1447,8 +1411,38 @@
         },
         {
           "info": {
+            "name": "4. Myth Busters",
+            "src": "graphics/Languages/Tamil/4. Myth busters/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Tamil/5. Wellbeing/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/Tamil/6. Face coverings/Tamil Face Coverings Infographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/Tamil/7. Test and trace/Slide1.png"
+          }
+        },
+        {
+          "info": {
             "name": "8. Places Of Worship Advice",
             "src": "graphics/Languages/Tamil/8. Places of worship advice/Tamil Places of worship.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. Shielding Support",
+            "src": "graphics/Languages/Tamil/9. Shielding support/Tamil Shielding support.png"
           }
         },
         {
@@ -1459,14 +1453,20 @@
         },
         {
           "info": {
-            "name": "Wellbeing STAY CONNECTED Minigraphic",
-            "src": "graphics/Languages/Tamil/Wellbeing STAY CONNECTED minigraphic/TamilWellbeingSTAYCONNECTEDminigraphic.png"
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Tamil/Wellbeing NEWS minigraphic 1/TamilWellbeingNEWSminigraphic1.png"
           }
         },
         {
           "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Tamil/5. Wellbeing/Slide1.png"
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Tamil/Wellbeing NEWS minigraphic 2/TamilWellbeingNEWSminigraphic2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing STAY CONNECTED Minigraphic",
+            "src": "graphics/Languages/Tamil/Wellbeing STAY CONNECTED minigraphic/TamilWellbeingSTAYCONNECTEDminigraphic.png"
           }
         }
       ]
@@ -1476,8 +1476,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Wellbeing",
-            "src": "graphics/Languages/Turkish/Wellbeing/Wellbeing Infographic (Turkish).png"
+            "name": "Face Coverings",
+            "src": "graphics/Languages/Turkish/Face Coverings/Face Coverings Infographic (Turkish).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Turkish/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Turkish).png"
           }
         },
         {
@@ -1494,20 +1500,14 @@
         },
         {
           "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Turkish/Face Coverings/Face Coverings Infographic (Turkish).png"
-          }
-        },
-        {
-          "info": {
             "name": "Spread And Prevention",
             "src": "graphics/Languages/Turkish/Spread and Prevention/COVID-19 Spread and Prevention (Turkish).png"
           }
         },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Turkish/Mythbuster/COVID19MYTHBUSTERgraphicfinal(Turkish).png"
+            "name": "Wellbeing",
+            "src": "graphics/Languages/Turkish/Wellbeing/Wellbeing Infographic (Turkish).png"
           }
         }
       ]
@@ -1528,20 +1528,20 @@
       "graphics": [
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Urdu/Overview/Urdu infographic.png"
-          }
-        },
-        {
-          "info": {
             "name": "Face Coverings",
             "src": "graphics/Languages/Urdu/Face coverings/Urdu Infographic.png"
           }
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 2",
-            "src": "graphics/Languages/Urdu/Wellbeing NEWS minigraphic 2/UrduWellbeingNEWSminigraphic2.png"
+            "name": "Mythbuster",
+            "src": "graphics/Languages/Urdu/Mythbuster/COVID 19 Mythbusters (Urdu).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Overview",
+            "src": "graphics/Languages/Urdu/Overview/Urdu infographic.png"
           }
         },
         {
@@ -1552,8 +1552,8 @@
         },
         {
           "info": {
-            "name": "Wellbeing NEWS Minigraphic 1",
-            "src": "graphics/Languages/Urdu/Wellbeing NEWS minigraphic 1/UrduWellbeingNEWSminigraphic1.png"
+            "name": "Test And Trace",
+            "src": "graphics/Languages/Urdu/Test and trace/Slide1.png"
           }
         },
         {
@@ -1564,20 +1564,20 @@
         },
         {
           "info": {
-            "name": "Test And Trace",
-            "src": "graphics/Languages/Urdu/Test and trace/Slide1.png"
+            "name": "Wellbeing NEWS Minigraphic 1",
+            "src": "graphics/Languages/Urdu/Wellbeing NEWS minigraphic 1/UrduWellbeingNEWSminigraphic1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Wellbeing NEWS Minigraphic 2",
+            "src": "graphics/Languages/Urdu/Wellbeing NEWS minigraphic 2/UrduWellbeingNEWSminigraphic2.png"
           }
         },
         {
           "info": {
             "name": "Wellbeing STAY CONNECTED Minigraphic",
             "src": "graphics/Languages/Urdu/Wellbeing STAY CONNECTED minigraphic/UrduWellbeingSTAYCONNECTEDminigraphic.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Urdu/Mythbuster/COVID 19 Mythbusters (Urdu).png"
           }
         }
       ]
