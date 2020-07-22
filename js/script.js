@@ -156,7 +156,7 @@ function populateLocalResource() {
 }
 
 function sendEmail() {
-     let name  = document.getElementById("name-email").value;
+     let name  = document.getElementById("name").value;
      let mail = document.getElementById("mail-email").value;
      let msg = document.getElementById("msg-email").value;
      if (msg === "") {
