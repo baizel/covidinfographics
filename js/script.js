@@ -50,8 +50,16 @@ function showLanguageInfos() {
 
     val.graphics.forEach(function (ele, indx) {
         let htmlstr = '<li class="collection-item">\n' +
-            '                        <div><a class="graphic-link" href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
-            '                            <a href="' + ele.info.src + '" class="secondary-content graphic-download" download>\n' +
+            '                        <div><a class="graphic-link" onclick="gtag(\'event\', \'view_graphic_' + val.language + '\', {\n' +
+            '  \'event_category\' : \'view\',\n' +
+            '  \'event_label\' : \'view-graphic\'\n' +
+            '});"' +
+            ' href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
+            '                            <a href="' + ele.info.src + '" onclick="gtag(\'event\', \'download_graphic_' + val.language + '\', {\n' +
+            '  \'event_category\' : \'download\',\n' +
+            '  \'event_label\' : \'download-graphic\'\n' +
+            '});" ' +
+            'class="secondary-content graphic-download" download>\n' +
             '                                <i class="material-icons ">file_download</i>\n' +
             '                            </a>\n' +
             '                        </div>\n' +
@@ -86,13 +94,25 @@ function showOtherAdviceTabs(lan) {
 
             val.graphics.forEach(function (ele, indx) {
                 let htmlstr = '<li class="collection-item">\n' +
-                    '                        <div><a class="graphic-link" href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
-                    '                            <a href="' + ele.info.src + '" class="secondary-content graphic-download" download>\n' +
+                    '                        <div><a class="graphic-link" ' +
+                    'onclick="gtag(\'event\', \'view_graphic_' + val.language + '\', {\n' +
+                    '  \'event_category\' : \'view\',\n' +
+                    '  \'event_label\' : \'view-graphic\'\n' +
+                    '});" ' +
+                    'href="' + ele.info.src + '">' + ele.info.name + ' (in ' + val.language + ')</a>' +
+                    '                            <a href="' + ele.info.src + '" ' +
+                    'onclick="gtag(\'event\', \'download_graphic_' + val.language + '\', {\n' +
+                    '  \'event_category\' : \'download\',\n' +
+                    '  \'event_label\' : \'download-graphic\'\n' +
+                    '});" ' +
+                    'class="secondary-content graphic-download" download>\n' +
                     '                                <i class="material-icons ">file_download</i>\n' +
                     '                            </a>\n' +
                     '                        </div>\n' +
-                    '                    </li>'
+                    '                    </li>';
+                console.log(htmlstr);
                 htmlText += htmlstr;
+
             })
             htmlText += '</ul></div></li>'
             $("#allGraphics").append(htmlText)
