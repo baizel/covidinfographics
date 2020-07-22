@@ -154,3 +154,14 @@ function populateLocalResource() {
     });
 
 }
+
+function sendEmail() {
+     let name  = document.getElementById("name-email").value;
+     let mail = document.getElementById("mail-email").value;
+     let msg = document.getElementById("msg-email").value;
+     if (msg === "") {
+         msg = "Request to use infographics"
+     }
+    let body = "Request from: "+ name + "%0D%0AContact Email: " + mail + "%0D%0AMessage: "+ msg;
+     window.open("mailto:covid19infographics@gmail.com?subject=Request%20to%20use%20infographics&body=" + body)
+}

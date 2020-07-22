@@ -187,7 +187,8 @@
                         <p class="black-text">First, select your preferred language</p>
                         <br/>
                         <div onclick="resetSelection()">
-                            <select class="white materialSelect browser-default" id="lanSel" onchange="showLanguageInfos()">
+                            <select class="white materialSelect browser-default" id="lanSel"
+                                    onchange="showLanguageInfos()">
                                 <option value="" disabled selected>Choose here...</option>
                             </select>
                         </div>
@@ -198,7 +199,8 @@
                 <div class="card grey lighten-4" id="infographic_selection">
                     <div class="card-content">
                         <span class="card-title cyan-text text-darken-2">Step 2</span>
-                        <p class="black-text">View or download infographics from the list below by clicking either of the two options</p>
+                        <p class="black-text">View or download infographics from the list below by clicking either of
+                            the two options</p>
                         <br/>
                         <ul id="allGraphics" class="collapsible">
                             <li class="collection-item">
@@ -221,7 +223,7 @@
                 </div>
             </div>
         </div>
-        <div class="col s122 m4">
+        <div class="col s12 m4">
             <div class="col s12">
                 <div class="card grey lighten-4">
                     <div class="card-content">
@@ -257,6 +259,38 @@
                 </div>
             </div>
         </div>
+        <div class="col s12">
+            <div class="card grey lighten-4">
+                <div class="card-content">
+                    <span class="card-title cyan-text text-darken-2">Request to use our resource</span>
+                    <p>Please Fill out the form below to create an email.</p>
+                    <div class="row">
+                        <form class="col s12" method="GET" action="" onsubmit="sendEmail()">
+                            <div class="row">
+                                <div class="input-field col s6">
+                                    <i class="material-icons prefix">account_circle</i>
+                                    <input id="name-email" type="text" class="validate" required>
+                                    <label for="name-email">Full Name</label>
+                                </div>
+                                <div class="input-field col s6">
+                                    <i class="material-icons prefix">email</i>
+                                    <input id="mail-email" type="email" class="validate" required>
+                                    <label for="mail-email">Email</label>
+                                </div>
+                                <div class="input-field col s12">
+                                    <i class="material-icons prefix">mode_edit</i>
+                                    <textarea id="msg-email" class="materialize-textarea"></textarea>
+                                    <label for="msg-email">Optional message</label>
+                                </div>
+                            </div>
+                            <button class="btn waves-effect waves-light" type="submit">Open Mail client
+                                <i class="material-icons right">send</i>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
 </main>
@@ -273,7 +307,7 @@
                         We have open roles, Get Involved!</a></u></li>
                     <li><u><a class="cyan-text text-lighten-2" href="https://www.facebook.com/COVID2019Infographics">
                         COVID-19 Infographics Facebook</a></u></li>
-                    <li><u><a class="cyan-text text-lighten-2" href="mailto:covid19infographics@gmail.com">
+                    <li><u><a class="cyan-text text-lighten-2" href="mailto:covid19infographics@gmail.com?subject=Hi">
                         Contact us</a></u></li>
                 </ul>
             </div>
