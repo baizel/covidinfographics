@@ -158,10 +158,8 @@ function populateLocalResource() {
 function sendEmail() {
      let name  = document.getElementById("name").value;
      let mail = document.getElementById("mail-email").value;
-     let msg = document.getElementById("msg-email").value;
-     if (msg === "") {
-         msg = "Request to use infographics"
-     }
-    let body = "Request from: "+ name + "%0D%0AContact Email: " + mail + "%0D%0AMessage: "+ msg;
+     let role = document.getElementById("role-email").value;
+     let org = document.getElementById("role-email").value;
+    let body = "Request from: "+ name + "%0D%0AContact Email: " + mail + "%0D%0ARole: "+ role +"%0D%0AOrg:" + org;
      window.open("mailto:covid19infographics@gmail.com?subject=Request%20to%20use%20infographics&body=" + body)
 }

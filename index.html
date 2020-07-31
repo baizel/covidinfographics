@@ -262,8 +262,11 @@
         <div class="col s12">
             <div class="card grey lighten-4">
                 <div class="card-content">
-                    <span class="card-title cyan-text text-darken-2">Request to use our resource</span>
-                    <p>Please Fill out the form below to create an email.</p>
+                    <span class="card-title cyan-text text-darken-2">Does your organisation want to use our resources?</span>
+                    <p>To keep track of which organisations are using our resources and ensure you are receiving
+                        relevant and updated information, we kindly request organisations to register your interest.
+                        We would be very happy to work with you to tailor our resource to your members.
+                        Please contact us at covid19infographics@gmail.com for further information.</p>
                     <div class="row">
                         <form class="col s12" method="GET" action="" onsubmit="sendEmail()">
                             <div class="row">
@@ -277,10 +280,15 @@
                                     <input id="mail-email" type="email" class="validate" required>
                                     <label for="mail-email">Email</label>
                                 </div>
-                                <div class="input-field col s12">
+                                <div class="input-field col s6">
                                     <i class="material-icons prefix">mode_edit</i>
-                                    <textarea id="msg-email" class="materialize-textarea"></textarea>
-                                    <label for="msg-email">Optional message</label>
+                                    <textarea id="role-email" class="materialize-textarea" required></textarea>
+                                    <label for="role-email">Role</label>
+                                </div>
+                                <div class="input-field col s6">
+                                    <i class="material-icons prefix">mode_edit</i>
+                                    <textarea id="org-email" class="materialize-textarea" required></textarea>
+                                    <label for="org-email">Organisation</label>
                                 </div>
                             </div>
                             <button class="btn waves-effect waves-light" type="submit">Open Mail client
@@ -288,7 +296,8 @@
                             </button>
                         </form>
                         <div class="input-field col s12">
-                            <label class="red-text">If the above does not work, please send an email to <span class="blue-text">covid19infographics@gmail.com</span></label>
+                            <label class="red-text">If the above does not work, please send an email to <span
+                                    class="blue-text">covid19infographics@gmail.com</span></label>
                         </div>
                     </div>
                 </div>
