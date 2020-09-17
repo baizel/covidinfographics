@@ -77,7 +77,7 @@ function showLanguageInfos() {
 
 function showOtherAdviceTabs(lan) {
     //cant have school advice own its own
-    let advices = ["School Advice", "Advice for non-COVID patients", "Shop Advice", "Place of worship Advice"]
+    let advices = ["Advice for non-COVID patients"]
     advices.forEach(function (advice) {
         let index = -1;
         let filteredObj = allData[advice].filter(function (item, i) {
@@ -156,10 +156,10 @@ function populateLocalResource() {
 }
 
 function sendEmail() {
-     let name  = document.getElementById("name").value;
-     let mail = document.getElementById("mail-email").value;
-     let role = document.getElementById("role-email").value;
-     let org = document.getElementById("role-email").value;
-    let body = "Request from: "+ name + "%0D%0AContact Email: " + mail + "%0D%0ARole: "+ role +"%0D%0AOrg:" + org;
-     window.open("mailto:covid19infographics@gmail.com?subject=Request%20to%20use%20infographics&body=" + body)
+    let name = document.getElementById("name").value;
+    let mail = document.getElementById("mail-email").value;
+    let role = document.getElementById("role-email").value;
+    let org = document.getElementById("role-email").value;
+    let body = "Request from: " + name + "%0D%0AContact Email: " + mail + "%0D%0ARole: " + role + "%0D%0AOrg:" + org;
+    window.open("mailto:covid19infographics@gmail.com?subject=Request%20to%20use%20infographics&body=" + body)
 }

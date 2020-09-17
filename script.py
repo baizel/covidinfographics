@@ -3,26 +3,24 @@ import os
 import json
 from shutil import move
 
-SCHOOL_ADVICE = "School Advice"
+# SCHOOL_ADVICE = "School Advice"
 LANGUAGES = "Languages"
 LOCAL_RESOURCES = "local_resources"
-SHOP_ADVICE = "Shop Advice"
 ADVICE_NON_COVID = "Advice for non-COVID patients"
-PLACE_OF_WORSHIP = "Place of worship Advice"
+# SHOP_ADVICE = "Shop Advice"
+# PLACE_OF_WORSHIP = "Place of worship Advice"
 
 rootDir = "graphics"
 
 ALL_LANGUAGES = []
 
 # Map directory name to a dict
-forAutoGen = [LANGUAGES, LOCAL_RESOURCES, SCHOOL_ADVICE, SHOP_ADVICE, ADVICE_NON_COVID, PLACE_OF_WORSHIP]
+forAutoGen = [LANGUAGES, LOCAL_RESOURCES, ADVICE_NON_COVID]
 data = {
     LANGUAGES: [],
     LOCAL_RESOURCES: [],
-    SCHOOL_ADVICE: [],
-    ADVICE_NON_COVID: [],
-    SHOP_ADVICE: [],
-    PLACE_OF_WORSHIP: []
+    # SCHOOL_ADVICE: [],
+    ADVICE_NON_COVID: []
 }
 
 
@@ -84,10 +82,10 @@ def main():
     data[LANGUAGES] = sortedLan
 
     # TODO: make this into a function
-    count = 0
-    for lan in data[SCHOOL_ADVICE]:
-        data[SCHOOL_ADVICE][count]["graphics"] = sorted(lan["graphics"], key=lambda k: k['info']["name"])
-        count = count + 1
+    # count = 0
+    # for lan in data[SCHOOL_ADVICE]:
+    #     data[SCHOOL_ADVICE][count]["graphics"] = sorted(lan["graphics"], key=lambda k: k['info']["name"])
+    #     count = count + 1
 
     indx = 0
     for lan in data[LANGUAGES]:
