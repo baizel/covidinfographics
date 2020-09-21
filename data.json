@@ -11,24 +11,6 @@
         },
         {
           "info": {
-            "name": "10. Shops Re-Opening",
-            "src": "graphics/Languages/Af-Soomaali (Somali)/10. Shops re-opening/Somali Shops re-opening.png"
-          }
-        },
-        {
-          "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/Af-Soomaali (Somali)/11. Shielding support/Somali Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "13. Social Gathering Update Sept",
-            "src": "graphics/Languages/Af-Soomaali (Somali)/13. Social gathering update Sept/Somali September update.png"
-          }
-        },
-        {
-          "info": {
             "name": "2. Selfcare",
             "src": "graphics/Languages/Af-Soomaali (Somali)/2. Selfcare/Somali COVID x DotW Self-care.png"
           }
@@ -61,6 +43,24 @@
           "info": {
             "name": "9. Migrants' Rights",
             "src": "graphics/Languages/Af-Soomaali (Somali)/9. Migrants' Rights/SOMALI Migrants' Rights.png"
+          }
+        },
+        {
+          "info": {
+            "name": "10. Shops Re-Opening",
+            "src": "graphics/Languages/Af-Soomaali (Somali)/10. Shops re-opening/Somali Shops re-opening.png"
+          }
+        },
+        {
+          "info": {
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/Af-Soomaali (Somali)/11. Shielding support/Somali Shielding support.png"
+          }
+        },
+        {
+          "info": {
+            "name": "13. Social Gathering Update Sept",
+            "src": "graphics/Languages/Af-Soomaali (Somali)/13. Social gathering update Sept/Somali September update.png"
           }
         }
       ]
@@ -234,42 +234,6 @@
         },
         {
           "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/English/11. Shielding support/EnglishShieldingsupport.png"
-          }
-        },
-        {
-          "info": {
-            "name": "12. School Safety Measures Part 1",
-            "src": "graphics/Languages/English/12. School Safety Measures part 1/English School Safety Measures part 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "13. School Safety Measures Part 2",
-            "src": "graphics/Languages/English/13. School Safety Measures part 2/English School Safety Measures part 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "14. School Checklist Part 1",
-            "src": "graphics/Languages/English/14. School Checklist part 1/EnglishSchoolChecklistpart1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "15. School Checklist Part 2",
-            "src": "graphics/Languages/English/15. School Checklist part 2/EnglishSchoolChecklistpart2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "16. Social Gathering Update Sept",
-            "src": "graphics/Languages/English/16. Social gathering update Sept/EnglishSeptemberupdate.png"
-          }
-        },
-        {
-          "info": {
             "name": "2. Selfcare",
             "src": "graphics/Languages/English/2. Selfcare/English COVID x DotW Self-care.png"
           }
@@ -303,6 +267,42 @@
             "name": "9. Migrants' Rights",
             "src": "graphics/Languages/English/9. Migrants' Rights/English Migrants' Rights.png"
           }
+        },
+        {
+          "info": {
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/English/11. Shielding support/EnglishShieldingsupport.png"
+          }
+        },
+        {
+          "info": {
+            "name": "12. School Safety Measures Part 1",
+            "src": "graphics/Languages/English/12. School Safety Measures part 1/English School Safety Measures part 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "13. School Safety Measures Part 2",
+            "src": "graphics/Languages/English/13. School Safety Measures part 2/English School Safety Measures part 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "14. School Checklist Part 1",
+            "src": "graphics/Languages/English/14. School Checklist part 1/EnglishSchoolChecklistpart1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "15. School Checklist Part 2",
+            "src": "graphics/Languages/English/15. School Checklist part 2/EnglishSchoolChecklistpart2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "16. Social Gathering Update Sept",
+            "src": "graphics/Languages/English/16. Social gathering update Sept/EnglishSeptemberupdate.png"
+          }
         }
       ]
     },
@@ -313,18 +313,6 @@
           "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/Espa\u00a4ol (Spanish)/1. Overview/Spanish COVID x DotW Overview.png"
-          }
-        },
-        {
-          "info": {
-            "name": "10. Shops Reopening",
-            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/10. Shops reopening/Spanish Shops reopening.png"
-          }
-        },
-        {
-          "info": {
-            "name": "11. Shielding Advice",
-            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/11. Shielding Advice/Spanish Shielding support.png"
           }
         },
         {
@@ -362,6 +350,18 @@
             "name": "8. Places Of Worship Advice",
             "src": "graphics/Languages/Espa\u00a4ol (Spanish)/8. Places of worship advice/Spanish worship.png"
           }
+        },
+        {
+          "info": {
+            "name": "10. Shops Reopening",
+            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/10. Shops reopening/Spanish Shops reopening.png"
+          }
+        },
+        {
+          "info": {
+            "name": "11. Shielding Advice",
+            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/11. Shielding Advice/Spanish Shielding support.png"
+          }
         }
       ]
     },
@@ -372,24 +372,6 @@
           "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/Fran\u0087ais (French)/1. Overview/French COVID x DotW Overview.png"
-          }
-        },
-        {
-          "info": {
-            "name": "10. Shops Re-Opening",
-            "src": "graphics/Languages/Fran\u0087ais (French)/10. Shops re-opening/French Shops reopening.png"
-          }
-        },
-        {
-          "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/Fran\u0087ais (French)/11. Shielding support/French Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "16. Social Gathering Update Sept",
-            "src": "graphics/Languages/Fran\u0087ais (French)/16. Social gathering update Sept/FrenchSeptemberupdate.png"
           }
         },
         {
@@ -421,6 +403,24 @@
             "name": "8. Places Of Worship",
             "src": "graphics/Languages/Fran\u0087ais (French)/8. Places of worship/French worship.png"
           }
+        },
+        {
+          "info": {
+            "name": "10. Shops Re-Opening",
+            "src": "graphics/Languages/Fran\u0087ais (French)/10. Shops re-opening/French Shops reopening.png"
+          }
+        },
+        {
+          "info": {
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/Fran\u0087ais (French)/11. Shielding support/French Shielding support.png"
+          }
+        },
+        {
+          "info": {
+            "name": "16. Social Gathering Update Sept",
+            "src": "graphics/Languages/Fran\u0087ais (French)/16. Social gathering update Sept/FrenchSeptemberupdate.png"
+          }
         }
       ]
     },
@@ -431,6 +431,36 @@
           "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/Italiano (Italian)/1. Overview/Italian COVID x DotW Overview .png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. Selfcare",
+            "src": "graphics/Languages/Italiano (Italian)/2. Selfcare/Italian COVID x DotW Self-care.png"
+          }
+        },
+        {
+          "info": {
+            "name": "4. Mythbusters",
+            "src": "graphics/Languages/Italiano (Italian)/4. Mythbusters/Italian Mythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Italiano (Italian)/5. Wellbeing/Italian Wellbeing.png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/Italiano (Italian)/7. Test and Trace/ItalianTestandTrace.png"
+          }
+        },
+        {
+          "info": {
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/Italiano (Italian)/8. Places of worship/Italianworship.png"
           }
         },
         {
@@ -468,36 +498,6 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/Italiano (Italian)/16. Social gathering update Sept/ItalianSeptemberupdate.png"
           }
-        },
-        {
-          "info": {
-            "name": "2. Selfcare",
-            "src": "graphics/Languages/Italiano (Italian)/2. Selfcare/Italian COVID x DotW Self-care.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Mythbusters",
-            "src": "graphics/Languages/Italiano (Italian)/4. Mythbusters/Italian Mythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Italiano (Italian)/5. Wellbeing/Italian Wellbeing.png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/Italiano (Italian)/7. Test and Trace/ItalianTestandTrace.png"
-          }
-        },
-        {
-          "info": {
-            "name": "8. Places Of Worship",
-            "src": "graphics/Languages/Italiano (Italian)/8. Places of worship/Italianworship.png"
-          }
         }
       ]
     },
@@ -523,18 +523,6 @@
         },
         {
           "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/Kiswahili (Swahili)/11. Shielding support/Swahili Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "13. Social Gathering Update Sept",
-            "src": "graphics/Languages/Kiswahili (Swahili)/13. Social gathering update Sept/SwahiliSeptemberupdate.png"
-          }
-        },
-        {
-          "info": {
             "name": "2. Selfcare",
             "src": "graphics/Languages/Kiswahili (Swahili)/2. Selfcare/Kiswahili COVID x DotW Self-care.png"
           }
@@ -550,34 +538,17 @@
             "name": "5. Wellbeing",
             "src": "graphics/Languages/Kiswahili (Swahili)/5. Wellbeing/Swahili Wellbeing.png"
           }
-        }
-      ]
-    },
-    {
-      "language": "Korean",
-      "graphics": [
+        },
         {
           "info": {
-            "name": "Mythbuster",
-            "src": "graphics/Languages/Korean/Mythbuster/Slide1.png"
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/Kiswahili (Swahili)/11. Shielding support/Swahili Shielding support.png"
           }
         },
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Korean/Overview/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Korean/Self care/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Spread And Prevention",
-            "src": "graphics/Languages/Korean/Spread and Prevention/Slide1.png"
+            "name": "13. Social Gathering Update Sept",
+            "src": "graphics/Languages/Kiswahili (Swahili)/13. Social gathering update Sept/SwahiliSeptemberupdate.png"
           }
         }
       ]
@@ -585,6 +556,24 @@
     {
       "language": "Kurdiya Soran\u008c (Kurdish Sorani)",
       "graphics": [
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/Kurdiya Soran\u008c (Kurdish Sorani)/6. Face Coverings/Kurdish Sorani Face coverings.png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/Kurdiya Soran\u008c (Kurdish Sorani)/7. Test and Trace/KurdishSoraniTestandTrace.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. Migrants' Rights",
+            "src": "graphics/Languages/Kurdiya Soran\u008c (Kurdish Sorani)/9. Migrants' Rights/KURDISH SORANI Migrants' Rights.png"
+          }
+        },
         {
           "info": {
             "name": "10. Shops Re-Opening",
@@ -620,42 +609,12 @@
             "name": "15. School Checklist Part 2",
             "src": "graphics/Languages/Kurdiya Soran\u008c (Kurdish Sorani)/15. School Checklist part 2/KurdishSoraniSchoolChecklistpart2.png"
           }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/Kurdiya Soran\u008c (Kurdish Sorani)/6. Face Coverings/Kurdish Sorani Face coverings.png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/Kurdiya Soran\u008c (Kurdish Sorani)/7. Test and Trace/KurdishSoraniTestandTrace.png"
-          }
-        },
-        {
-          "info": {
-            "name": "9. Migrants' Rights",
-            "src": "graphics/Languages/Kurdiya Soran\u008c (Kurdish Sorani)/9. Migrants' Rights/KURDISH SORANI Migrants' Rights.png"
-          }
         }
       ]
     },
     {
       "language": "Lietuvi\u0173 (Lithuanian)",
       "graphics": [
-        {
-          "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/11. Shielding support/Lithuanian Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "13. Social Gathering Update Sept",
-            "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/13. Social gathering update Sept/LithuanianSeptemberupdate.png"
-          }
-        },
         {
           "info": {
             "name": "4. Mythbusters",
@@ -673,28 +632,17 @@
             "name": "6. Face Coverings",
             "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/6. Face Coverings/Lithuanian Face Coverings.png"
           }
-        }
-      ]
-    },
-    {
-      "language": "Malayalam",
-      "graphics": [
+        },
         {
           "info": {
-            "name": "Face Coverings",
-            "src": "graphics/Languages/Malayalam/Face Coverings/Face Coverings Infographic (Malayalam).png"
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/11. Shielding support/Lithuanian Shielding support.png"
           }
         },
         {
           "info": {
-            "name": "Overview",
-            "src": "graphics/Languages/Malayalam/Overview/COVIDOutreachFinalPosterMalayalam.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Self Care",
-            "src": "graphics/Languages/Malayalam/Self care/Slide1.png"
+            "name": "13. Social Gathering Update Sept",
+            "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/13. Social gathering update Sept/LithuanianSeptemberupdate.png"
           }
         }
       ]
@@ -733,42 +681,6 @@
         },
         {
           "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/Polskie (Polish)/11. Shielding support/Polish Support for Shielding.png"
-          }
-        },
-        {
-          "info": {
-            "name": "12. School Safety Measures Part 1",
-            "src": "graphics/Languages/Polskie (Polish)/12. School Safety Measures part 1/Polish School Safety Measures part 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "13. School Safety Measures Part 2",
-            "src": "graphics/Languages/Polskie (Polish)/13. School Safety Measures part 2/Polish School Safety Measures part 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "14. School Checklist Part 1",
-            "src": "graphics/Languages/Polskie (Polish)/14. School Checklist part 1/Polish School Checklist part 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "15. School Checklist Part 2",
-            "src": "graphics/Languages/Polskie (Polish)/15. School Checklist part 2/PolishSchoolChecklistpart2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "16. Social Gathering Update Sept",
-            "src": "graphics/Languages/Polskie (Polish)/16. Social gathering update Sept/Polish September update.png"
-          }
-        },
-        {
-          "info": {
             "name": "2. Selfcare",
             "src": "graphics/Languages/Polskie (Polish)/2. Selfcare/Polish COVID x DotW Self-care.png"
           }
@@ -802,6 +714,42 @@
             "name": "8. Places Of Worship Advice",
             "src": "graphics/Languages/Polskie (Polish)/8. Places of worship advice/Polish Places of Worship.png"
           }
+        },
+        {
+          "info": {
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/Polskie (Polish)/11. Shielding support/Polish Support for Shielding.png"
+          }
+        },
+        {
+          "info": {
+            "name": "12. School Safety Measures Part 1",
+            "src": "graphics/Languages/Polskie (Polish)/12. School Safety Measures part 1/Polish School Safety Measures part 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "13. School Safety Measures Part 2",
+            "src": "graphics/Languages/Polskie (Polish)/13. School Safety Measures part 2/Polish School Safety Measures part 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "14. School Checklist Part 1",
+            "src": "graphics/Languages/Polskie (Polish)/14. School Checklist part 1/Polish School Checklist part 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "15. School Checklist Part 2",
+            "src": "graphics/Languages/Polskie (Polish)/15. School Checklist part 2/PolishSchoolChecklistpart2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "16. Social Gathering Update Sept",
+            "src": "graphics/Languages/Polskie (Polish)/16. Social gathering update Sept/Polish September update.png"
+          }
         }
       ]
     },
@@ -812,6 +760,42 @@
           "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/Portugu\u0088s (Portuguese)/1. Overview/Portuguese COVID x DotW Overview.png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. Selfcare",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/2. Selfcare/Portugese COVID x DotW Self-care.png"
+          }
+        },
+        {
+          "info": {
+            "name": "4. Mythbusters",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/4. Mythbusters/Portuguese Mythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/5. Wellbeing/Portuguese Wellbeing.png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/6. Face Coverings/Portuguese Face Coverings.png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/7. Test and Trace/PortugueseTestandTrace.png"
+          }
+        },
+        {
+          "info": {
+            "name": "8. Places Of Worship Advice",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/8. Places of worship advice/Portuguese places of worship.png"
           }
         },
         {
@@ -855,42 +839,6 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/Portugu\u0088s (Portuguese)/16. Social gathering update Sept/PortugueseSeptemberupdate.png"
           }
-        },
-        {
-          "info": {
-            "name": "2. Selfcare",
-            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/2. Selfcare/Portugese COVID x DotW Self-care.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Mythbusters",
-            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/4. Mythbusters/Portuguese Mythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/5. Wellbeing/Portuguese Wellbeing.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/6. Face Coverings/Portuguese Face Coverings.png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/7. Test and Trace/PortugueseTestandTrace.png"
-          }
-        },
-        {
-          "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/8. Places of worship advice/Portuguese places of worship.png"
-          }
         }
       ]
     },
@@ -901,18 +849,6 @@
           "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/1. Overview/Romanian COVID x DotW Overview.png"
-          }
-        },
-        {
-          "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/11. Shielding support/Romanian Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "13. Social Gathering Update Sept",
-            "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/13. Social gathering update Sept/RomanianSeptemberupdate.png"
           }
         },
         {
@@ -943,6 +879,18 @@
           "info": {
             "name": "8. Places Of Worship Advice",
             "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/8. Places of worship advice/Romanian places of worship.png"
+          }
+        },
+        {
+          "info": {
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/11. Shielding support/Romanian Shielding support.png"
+          }
+        },
+        {
+          "info": {
+            "name": "13. Social Gathering Update Sept",
+            "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/13. Social gathering update Sept/RomanianSeptemberupdate.png"
           }
         }
       ]
@@ -1027,12 +975,6 @@
         },
         {
           "info": {
-            "name": "13. Social Gathering Update Sept",
-            "src": "graphics/Languages/T\u0081rk (Turkish)/13. Social gathering update Sept/TurkishSeptemberupdate.png"
-          }
-        },
-        {
-          "info": {
             "name": "2. Selfcare",
             "src": "graphics/Languages/T\u0081rk (Turkish)/2. Selfcare/Turkish COVID x DotW Self-care.png"
           }
@@ -1059,6 +1001,12 @@
           "info": {
             "name": "7. Test And Trace",
             "src": "graphics/Languages/T\u0081rk (Turkish)/7. Test and Trace/Turkish Test and Trace.png"
+          }
+        },
+        {
+          "info": {
+            "name": "13. Social Gathering Update Sept",
+            "src": "graphics/Languages/T\u0081rk (Turkish)/13. Social gathering update Sept/TurkishSeptemberupdate.png"
           }
         }
       ]
@@ -1193,24 +1141,6 @@
         },
         {
           "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/11. Shielding support/Urdu Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "12. School Safety Measures Part 1",
-            "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/12. School Safety Measures part 1/Urdu School Safety Measures part 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "13. School Safety Measures Part 2",
-            "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/13. School Safety Measures part 2/Urdu School Safety Measures part 2.png"
-          }
-        },
-        {
-          "info": {
             "name": "2. Selfcare",
             "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/2. Selfcare/Urdu COVID x DotW Self-care.png"
           }
@@ -1237,6 +1167,24 @@
           "info": {
             "name": "8. Places Of Worship Advice",
             "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/8. Places of worship advice/Urdu Places of worship.png"
+          }
+        },
+        {
+          "info": {
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/11. Shielding support/Urdu Shielding support.png"
+          }
+        },
+        {
+          "info": {
+            "name": "12. School Safety Measures Part 1",
+            "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/12. School Safety Measures part 1/Urdu School Safety Measures part 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "13. School Safety Measures Part 2",
+            "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/13. School Safety Measures part 2/Urdu School Safety Measures part 2.png"
           }
         }
       ]
@@ -1265,6 +1213,42 @@
           "info": {
             "name": "1. Overview",
             "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/1. Overview/Arabic COVID x DotW Overview.png"
+          }
+        },
+        {
+          "info": {
+            "name": "2. Selfcare",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/2. Selfcare/Arabic COVID x DotW Self-care.png"
+          }
+        },
+        {
+          "info": {
+            "name": "4. Mythbusters",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/4. Mythbusters/Arabic Mythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/6. Face Coverings/Arabic Face Coverings.png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/7. Test and Trace/ArabicTestandTrace.png"
+          }
+        },
+        {
+          "info": {
+            "name": "8. Places Of Worship Advice",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/8. Places of worship advice/Arabic places of worship.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. Migrants' Rights",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/9. Migrants' Rights/Arabic Migrants' Rights.png"
           }
         },
         {
@@ -1307,42 +1291,6 @@
           "info": {
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/16. Social gathering update Sept/ArabicSeptemberupdate.png"
-          }
-        },
-        {
-          "info": {
-            "name": "2. Selfcare",
-            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/2. Selfcare/Arabic COVID x DotW Self-care.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Mythbusters",
-            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/4. Mythbusters/Arabic Mythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/6. Face Coverings/Arabic Face Coverings.png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/7. Test and Trace/ArabicTestandTrace.png"
-          }
-        },
-        {
-          "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/8. Places of worship advice/Arabic places of worship.png"
-          }
-        },
-        {
-          "info": {
-            "name": "9. Migrants' Rights",
-            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/9. Migrants' Rights/Arabic Migrants' Rights.png"
           }
         }
       ]
@@ -1392,24 +1340,6 @@
         },
         {
           "info": {
-            "name": "14. School Checklist Part 1",
-            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/14. School Checklist part 1/HindiSchoolChecklistpart1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "15. School Checklist Part 2",
-            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/15. School Checklist part 2/HindiSchoolChecklistpart2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "16. Social Gathering Update Sept",
-            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/16. Social gathering update Sept/HindiSeptemberupdate.png"
-          }
-        },
-        {
-          "info": {
             "name": "2. Selfcare",
             "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/2. Selfcare/Hindi COVID x DotW Self-care.png"
           }
@@ -1424,6 +1354,24 @@
           "info": {
             "name": "9. Migrants' Rights",
             "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/9. Migrants' Rights/HINDI Migrants' Rights .png"
+          }
+        },
+        {
+          "info": {
+            "name": "14. School Checklist Part 1",
+            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/14. School Checklist part 1/HindiSchoolChecklistpart1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "15. School Checklist Part 2",
+            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/15. School Checklist part 2/HindiSchoolChecklistpart2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "16. Social Gathering Update Sept",
+            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/16. Social gathering update Sept/HindiSeptemberupdate.png"
           }
         }
       ]
@@ -1491,30 +1439,6 @@
       "graphics": [
         {
           "info": {
-            "name": "10. Shops Re-Opening",
-            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/10. Shops re-opening/Punjabi Shops re-opening.png"
-          }
-        },
-        {
-          "info": {
-            "name": "14. School Checklist Part 1",
-            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/14. School Checklist part 1/PunjabiSchoolChecklistpart1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "15. School Checklist Part 2",
-            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/15. School Checklist part 2/PunjabiSchoolChecklistpart2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "16. Social Gathering Update Sept",
-            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/16. Social gathering update Sept/Punjabi September update.png"
-          }
-        },
-        {
-          "info": {
             "name": "4. Mythbusters",
             "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/4. Mythbusters/Punjabi Mythbusters.png"
           }
@@ -1536,30 +1460,36 @@
             "name": "9. Migrants' Rights",
             "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/9. Migrants' Rights/PUNJABI Migrants' Rights.png"
           }
+        },
+        {
+          "info": {
+            "name": "10. Shops Re-Opening",
+            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/10. Shops re-opening/Punjabi Shops re-opening.png"
+          }
+        },
+        {
+          "info": {
+            "name": "14. School Checklist Part 1",
+            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/14. School Checklist part 1/PunjabiSchoolChecklistpart1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "15. School Checklist Part 2",
+            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/15. School Checklist part 2/PunjabiSchoolChecklistpart2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "16. Social Gathering Update Sept",
+            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/16. Social gathering update Sept/Punjabi September update.png"
+          }
         }
       ]
     },
     {
       "language": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)",
       "graphics": [
-        {
-          "info": {
-            "name": "10. Shops Re-Opening",
-            "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/10. Shops re-opening/Gujarati Shops reopening.png"
-          }
-        },
-        {
-          "info": {
-            "name": "11. Shielding Support",
-            "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/11. Shielding support/Gujarati Shielding support.png"
-          }
-        },
-        {
-          "info": {
-            "name": "13. Social Gathering Update Sept",
-            "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/13. Social gathering update Sept/GujaratiSeptemberupdate.png"
-          }
-        },
         {
           "info": {
             "name": "4. Mythbusters",
@@ -1583,12 +1513,66 @@
             "name": "8. Places Of Worship Advice",
             "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/8. Places of worship advice/Gujarati worship.png"
           }
+        },
+        {
+          "info": {
+            "name": "10. Shops Re-Opening",
+            "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/10. Shops re-opening/Gujarati Shops reopening.png"
+          }
+        },
+        {
+          "info": {
+            "name": "11. Shielding Support",
+            "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/11. Shielding support/Gujarati Shielding support.png"
+          }
+        },
+        {
+          "info": {
+            "name": "13. Social Gathering Update Sept",
+            "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/13. Social gathering update Sept/GujaratiSeptemberupdate.png"
+          }
         }
       ]
     },
     {
       "language": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)",
       "graphics": [
+        {
+          "info": {
+            "name": "4. Mythbusters",
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/4. Mythbusters/Tamil Mythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/5. Wellbeing/TamilWellbeing.png"
+          }
+        },
+        {
+          "info": {
+            "name": "6. Face Coverings",
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/6. Face Coverings/Tamil Face Coverings Infographic.png"
+          }
+        },
+        {
+          "info": {
+            "name": "7. Test And Trace",
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/7. Test and Trace/TamilTestandtrace.png"
+          }
+        },
+        {
+          "info": {
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/8. Places of Worship/Tamil Places of worship.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. Migrants' Rights",
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/9. Migrants' Rights/TAMIL Migrants' Rights .png"
+          }
+        },
         {
           "info": {
             "name": "10. Shops Re-Opening",
@@ -1629,42 +1613,6 @@
           "info": {
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/16. Social gathering update Sept/TamilSeptemberupdate.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Mythbusters",
-            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/4. Mythbusters/Tamil Mythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/5. Wellbeing/TamilWellbeing.png"
-          }
-        },
-        {
-          "info": {
-            "name": "6. Face Coverings",
-            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/6. Face Coverings/Tamil Face Coverings Infographic.png"
-          }
-        },
-        {
-          "info": {
-            "name": "7. Test And Trace",
-            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/7. Test and Trace/TamilTestandtrace.png"
-          }
-        },
-        {
-          "info": {
-            "name": "8. Places Of Worship",
-            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/8. Places of Worship/Tamil Places of worship.png"
-          }
-        },
-        {
-          "info": {
-            "name": "9. Migrants' Rights",
-            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/9. Migrants' Rights/TAMIL Migrants' Rights .png"
           }
         }
       ]
@@ -1724,6 +1672,30 @@
       "graphics": [
         {
           "info": {
+            "name": "4. Mythbusters",
+            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/4. Mythbusters/Infographic3-SimplifiedChinese-1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/5. Wellbeing/Infographic 5 \u2013 Simplified Chinese.png"
+          }
+        },
+        {
+          "info": {
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/8. Places of Worship/Chinese simplified worship.png"
+          }
+        },
+        {
+          "info": {
+            "name": "9. Migrants' Rights",
+            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/9. Migrants' Rights/SIMPLIFIED CHINESE Migrants' Rights.png"
+          }
+        },
+        {
+          "info": {
             "name": "12. School Safety Measures Part 1",
             "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/12. School Safety Measures part 1/Simplified Chinese School Safety Measures part 1.png"
           }
@@ -1751,36 +1723,24 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/16. Social gathering update Sept/SimplifiedChineseSeptemberupdate.png"
           }
-        },
-        {
-          "info": {
-            "name": "4. Mythbusters",
-            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/4. Mythbusters/Infographic3-SimplifiedChinese-1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/5. Wellbeing/Infographic 5 \u2013 Simplified Chinese.png"
-          }
-        },
-        {
-          "info": {
-            "name": "8. Places Of Worship",
-            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/8. Places of Worship/Chinese simplified worship.png"
-          }
-        },
-        {
-          "info": {
-            "name": "9. Migrants' Rights",
-            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/9. Migrants' Rights/SIMPLIFIED CHINESE Migrants' Rights.png"
-          }
         }
       ]
     },
     {
       "language": "\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
       "graphics": [
+        {
+          "info": {
+            "name": "4. Mythbusters",
+            "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/4. Mythbusters/Infographic3-TraditionalChinese-1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "5. Wellbeing",
+            "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/5. Wellbeing/Infographic 5 \u2013 Traditional Chinese.png"
+          }
+        },
         {
           "info": {
             "name": "12. School Safety Measures Part 1",
@@ -1803,18 +1763,6 @@
           "info": {
             "name": "15. School Checklist Part 2",
             "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/15. School Checklist part 2/Traditional Chinese School Checklist part 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "4. Mythbusters",
-            "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/4. Mythbusters/Infographic3-TraditionalChinese-1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "5. Wellbeing",
-            "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/5. Wellbeing/Infographic 5 \u2013 Traditional Chinese.png"
           }
         }
       ]

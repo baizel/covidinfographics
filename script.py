@@ -2,6 +2,7 @@
 import os
 import json
 from shutil import move
+from natsort import natsorted, ns
 
 # SCHOOL_ADVICE = "School Advice"
 LANGUAGES = "Languages"
@@ -89,7 +90,7 @@ def main():
 
     indx = 0
     for lan in data[LANGUAGES]:
-        data[LANGUAGES][indx]["graphics"] = sorted(lan["graphics"], key=lambda k: k['info']["name"])
+        data[LANGUAGES][indx]["graphics"] = natsorted(lan["graphics"], key=lambda k: k['info']["name"])
         indx = indx + 1
 
     print(json.dumps(data))
