@@ -1867,12 +1867,46 @@
   ],
   "Advice for non-COVID patients": [
     {
+      "language": "Lietuvi\u0173 (Lithuanian)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Lietuvi\u0173 (Lithuanian)/Eye health and COVID/LithuanianEyehealthandCOVID-19.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "T\u0081rk (Turkish)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/T\u0081rk (Turkish)/Eye health and COVID/TurkishEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/T\u0081rk (Turkish)/Eye health Mythbusters/TurkishEyehealthMythbusters.png"
+          }
+        }
+      ]
+    },
+    {
       "language": "English",
       "graphics": [
         {
           "info": {
             "name": "Heart Attack",
             "src": "graphics/Advice for non-COVID patients/English/Heart Attack/Accessing healthcare_ heart attack.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/English/Eye health and COVID/EnglishEyehealthandCOVID-19.png"
           }
         },
         {
@@ -1885,6 +1919,12 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/English/Accessing healthcare in emergency part 2/Accessing healthcare_ non emergency.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/English/Eye health Mythbusters/EnglishEyehealthMythbusters.png"
           }
         },
         {
@@ -1924,8 +1964,20 @@
         },
         {
           "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Eye health and COVID/SpanishEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
             "name": "Diabetes 2",
             "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Diabetes 2/Spanish Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Eye health Mythbusters/SpanishEyehealthMythbusters.png"
           }
         },
         {
@@ -1988,6 +2040,12 @@
         },
         {
           "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Eye health Mythbusters/ArabicEyehealthMythbusters.png"
+          }
+        },
+        {
+          "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Stroke/Slide2.png"
           }
@@ -2013,12 +2071,29 @@
       ]
     },
     {
+      "language": "Yoruba (Yoruba)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Yoruba (Yoruba)/Eye health mythbusters/Yoruba Eye health Mythbusters.png"
+          }
+        }
+      ]
+    },
+    {
       "language": "Portugu\u0088s (Portuguese)",
       "graphics": [
         {
           "info": {
             "name": "Heart Attack",
             "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Eye health and COVID/Portuguese Eye heath and COVID-19.png"
           }
         },
         {
@@ -2031,6 +2106,12 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Accessing healthcare in emergency part 2/Emergency port.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Eye health Mythbusters/PortugueseEyehealthMythbusters.png"
           }
         },
         {
@@ -2055,6 +2136,40 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 1",
             "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Accessing healthcare in emergency part 1/Emergency port.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/Eye health and COVID/Traditional Chinese Eye health and COVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/Eye health Mythbusters/Traditional Chinese Eye health Mythbusters.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Kiswahili (Swahili)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Kiswahili (Swahili)/Eye health and COVID/SwahiliEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Kiswahili (Swahili)/Eye health Mythbusters/SwahiliEyehealthMythbusters.png"
           }
         }
       ]
@@ -2122,6 +2237,12 @@
         },
         {
           "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Eye health and COVID/TamilEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
             "name": "Diabetes 2",
             "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Diabetes 2/Tamil Diabetes Graphic 2.png"
           }
@@ -2130,6 +2251,12 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Accessing healthcare in emergency part 2/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Eye health Mythbusters/TamilEyehealthMythbusters.png"
           }
         },
         {
@@ -2216,6 +2343,12 @@
         },
         {
           "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Eye health and COVID/ItalianEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
             "name": "Diabetes 2",
             "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Diabetes 2/Italian Diabetes Graphic 2.png"
           }
@@ -2224,6 +2357,12 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Accessing healthcare in emergency part 2/new unsure italian.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Eye health Mythbusters/ItalianEyehealthMythbusters.png"
           }
         },
         {
@@ -2263,6 +2402,12 @@
         },
         {
           "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Eye health and COVID/Polish Eye health and COVID-19.png"
+          }
+        },
+        {
+          "info": {
             "name": "Diabetes 2",
             "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Diabetes 2/Polish Diabetes Graphic 2.png"
           }
@@ -2271,6 +2416,12 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Accessing healthcare in emergency part 2/new Polish unsure.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Eye health Mythbusters/PolishEyehealthMythbusters.png"
           }
         },
         {
@@ -2310,6 +2461,12 @@
         },
         {
           "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Eye health and COVID/FrenchEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
             "name": "Diabetes 2",
             "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Diabetes 2/French Diabetes Graphic 2.png"
           }
@@ -2318,6 +2475,12 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
             "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Accessing healthcare in emergency part 2/French unsure.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Eye health Mythbusters/FrenchEyehealthMythbusters.png"
           }
         },
         {
@@ -2342,6 +2505,23 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 1",
             "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Accessing healthcare in emergency part 1/French emergency.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/Eye health and COVID/Simplified Chinese Eye health and COVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/Eye health Mythbusters/SimplifiedChineseEyehealthMythbusters.png"
           }
         }
       ]
@@ -2389,6 +2569,57 @@
           "info": {
             "name": "Accessing Healthcare In Emergency Part 1",
             "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Accessing healthcare in emergency part 1/Kurdish emergency.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Ti\u1ebfng Vi\u1ec7t (Vietnamese)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Ti\u1ebfng Vi\u1ec7t (Vietnamese)/Eye health and COVID/VietnameseEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Ti\u1ebfng Vi\u1ec7t (Vietnamese)/Eye health Mythbusters/VietnameseEyehealthMythbusters.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Rom\u00e2n\u0103 (Romanian)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Rom\u00e2n\u0103 (Romanian)/Eye health and COVID/Romanian Eye health and COVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Rom\u00e2n\u0103 (Romanian)/Eye health Mythbusters/RomanianEyehealthMythbusters.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/Eye health and COVID/HindiEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/Eye health Mythbusters/HindiEyehealthMythbusters.png"
           }
         }
       ]
