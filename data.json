@@ -1899,20 +1899,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/English/Heart Attack/Accessing healthcare_ heart attack.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Eye Health And COVID",
-            "src": "graphics/Advice for non-COVID patients/English/Eye health and COVID/EnglishEyehealthandCOVID-19.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/English/Diabetes 2/English Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/English/Accessing healthcare in emergency part 1/Accessing healthcare_ emergencies copy 1.png"
           }
         },
         {
@@ -1923,14 +1911,8 @@
         },
         {
           "info": {
-            "name": "Eye Health Mythbusters",
-            "src": "graphics/Advice for non-COVID patients/English/Eye health Mythbusters/EnglishEyehealthMythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/English/Stroke/Accessing healthcare_ stroke 2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/English/Cancer/CanceradviceEnglish.png"
           }
         },
         {
@@ -1941,14 +1923,32 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/English/Cancer/CanceradviceEnglish.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/English/Diabetes 2/English Diabetes Graphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/English/Accessing healthcare in emergency part 1/Accessing healthcare_ emergencies copy 1.png"
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/English/Eye health and COVID/EnglishEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/English/Eye health Mythbusters/EnglishEyehealthMythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/English/Heart Attack/Accessing healthcare_ heart attack.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/English/Stroke/Accessing healthcare_ stroke 2.png"
           }
         }
       ]
@@ -1958,32 +1958,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Eye Health And COVID",
-            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Eye health and COVID/SpanishEyehealthandCOVID-19.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Diabetes 2/Spanish Diabetes Graphic 2.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Eye Health Mythbusters",
-            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Eye health Mythbusters/SpanishEyehealthMythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Stroke/Slide2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Cancer/Spanish cancer.png"
           }
         },
         {
@@ -1994,8 +1970,32 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Cancer/Spanish cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Diabetes 2/Spanish Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Eye health and COVID/SpanishEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Eye health Mythbusters/SpanishEyehealthMythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Stroke/Slide2.png"
           }
         }
       ]
@@ -2005,14 +2005,14 @@
       "graphics": [
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 2",
-            "src": "graphics/Advice for non-COVID patients/\u0627\u0631\u062f\u0648 (Urdu)/Accessing healthcare in emergency part 2/new urdu unsure.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/\u0627\u0631\u062f\u0648 (Urdu)/Accessing healthcare in emergency part 1/urdu emergency.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/\u0627\u0631\u062f\u0648 (Urdu)/Accessing healthcare in emergency part 1/urdu emergency.png"
+            "name": "Accessing Healthcare In Emergency Part 2",
+            "src": "graphics/Advice for non-COVID patients/\u0627\u0631\u062f\u0648 (Urdu)/Accessing healthcare in emergency part 2/new urdu unsure.png"
           }
         }
       ]
@@ -2022,14 +2022,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Diabetes 2/Arabic Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Accessing healthcare in emergency part 1/Arabic emergency.png"
           }
         },
         {
@@ -2040,14 +2034,8 @@
         },
         {
           "info": {
-            "name": "Eye Health Mythbusters",
-            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Eye health Mythbusters/ArabicEyehealthMythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Stroke/Slide2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Cancer/Arabic cancer.png"
           }
         },
         {
@@ -2058,14 +2046,26 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Cancer/Arabic cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Diabetes 2/Arabic Diabetes Graphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Accessing healthcare in emergency part 1/Arabic emergency.png"
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Eye health Mythbusters/ArabicEyehealthMythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Stroke/Slide2.png"
           }
         }
       ]
@@ -2086,20 +2086,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Eye Health And COVID",
-            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Eye health and COVID/Portuguese Eye heath and COVID-19.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Diabetes 2/Portuguese Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Accessing healthcare in emergency part 1/Emergency port.png"
           }
         },
         {
@@ -2110,14 +2098,32 @@
         },
         {
           "info": {
+            "name": "Diabetes 1",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Diabetes 1/Portuguese Diabetes Graphic 1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Diabetes 2/Portuguese Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Eye health and COVID/Portuguese Eye heath and COVID-19.png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Mythbusters",
             "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Eye health Mythbusters/PortugueseEyehealthMythbusters.png"
           }
         },
         {
           "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Stroke/Slide2.png"
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Heart Attack/Slide1.png"
           }
         },
         {
@@ -2128,14 +2134,8 @@
         },
         {
           "info": {
-            "name": "Diabetes 1",
-            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Diabetes 1/Portuguese Diabetes Graphic 1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Accessing healthcare in emergency part 1/Emergency port.png"
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Stroke/Slide2.png"
           }
         }
       ]
@@ -2179,14 +2179,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/Diabetes 2/Gujarati Diabetes Graphic 2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/Cancer/Gujarati cancer.png"
           }
         },
         {
@@ -2197,8 +2191,14 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/Cancer/Gujarati cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/Diabetes 2/Gujarati Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/Heart Attack/Slide1.png"
           }
         }
       ]
@@ -2206,6 +2206,12 @@
     {
       "language": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)",
       "graphics": [
+        {
+          "info": {
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/Accessing healthcare in emergency part 1/Slide1.png"
+          }
+        },
         {
           "info": {
             "name": "Accessing Healthcare In Emergency Part 2",
@@ -2217,12 +2223,6 @@
             "name": "Cancer",
             "src": "graphics/Advice for non-COVID patients/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/Cancer/Cancer Punjabi.png"
           }
-        },
-        {
-          "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/Accessing healthcare in emergency part 1/Slide1.png"
-          }
         }
       ]
     },
@@ -2231,20 +2231,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Eye Health And COVID",
-            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Eye health and COVID/TamilEyehealthandCOVID-19.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Diabetes 2/Tamil Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Accessing healthcare in emergency part 1/Slide1.png"
           }
         },
         {
@@ -2255,14 +2243,8 @@
         },
         {
           "info": {
-            "name": "Eye Health Mythbusters",
-            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Eye health Mythbusters/TamilEyehealthMythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Stroke/Slide2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Cancer/Tamil cancer.png"
           }
         },
         {
@@ -2273,14 +2255,32 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Cancer/Tamil cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Diabetes 2/Tamil Diabetes Graphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Accessing healthcare in emergency part 1/Slide1.png"
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Eye health and COVID/TamilEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Eye health Mythbusters/TamilEyehealthMythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/Stroke/Slide2.png"
           }
         }
       ]
@@ -2290,14 +2290,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Diabetes 2/Somali Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Accessing healthcare in emergency part 1/Somali emergency.png"
           }
         },
         {
@@ -2308,8 +2302,8 @@
         },
         {
           "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Stroke/Slide2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Cancer/Somali cancer.png"
           }
         },
         {
@@ -2320,14 +2314,20 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Cancer/Somali cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Diabetes 2/Somali Diabetes Graphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Accessing healthcare in emergency part 1/Somali emergency.png"
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Af-Soomaali (Somali)/Stroke/Slide2.png"
           }
         }
       ]
@@ -2337,20 +2337,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Eye Health And COVID",
-            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Eye health and COVID/ItalianEyehealthandCOVID-19.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Diabetes 2/Italian Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Accessing healthcare in emergency part 1/new Italian emergency.png"
           }
         },
         {
@@ -2361,14 +2349,8 @@
         },
         {
           "info": {
-            "name": "Eye Health Mythbusters",
-            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Eye health Mythbusters/ItalianEyehealthMythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Stroke/Slide2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Cancer/Italian cancer.png"
           }
         },
         {
@@ -2379,14 +2361,32 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Cancer/Italian cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Diabetes 2/Italian Diabetes Graphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Accessing healthcare in emergency part 1/new Italian emergency.png"
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Eye health and COVID/ItalianEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Eye health Mythbusters/ItalianEyehealthMythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Stroke/Slide2.png"
           }
         }
       ]
@@ -2396,20 +2396,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Eye Health And COVID",
-            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Eye health and COVID/Polish Eye health and COVID-19.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Diabetes 2/Polish Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Accessing healthcare in emergency part 1/new Polish emergency.png"
           }
         },
         {
@@ -2420,14 +2408,8 @@
         },
         {
           "info": {
-            "name": "Eye Health Mythbusters",
-            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Eye health Mythbusters/PolishEyehealthMythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Stroke/Slide2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Cancer/Polish cancer.png"
           }
         },
         {
@@ -2438,14 +2420,32 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Cancer/Polish cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Diabetes 2/Polish Diabetes Graphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Accessing healthcare in emergency part 1/new Polish emergency.png"
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Eye health and COVID/Polish Eye health and COVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Eye health Mythbusters/PolishEyehealthMythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Stroke/Slide2.png"
           }
         }
       ]
@@ -2455,20 +2455,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Eye Health And COVID",
-            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Eye health and COVID/FrenchEyehealthandCOVID-19.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Diabetes 2/French Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Accessing healthcare in emergency part 1/French emergency.png"
           }
         },
         {
@@ -2479,14 +2467,8 @@
         },
         {
           "info": {
-            "name": "Eye Health Mythbusters",
-            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Eye health Mythbusters/FrenchEyehealthMythbusters.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Stroke/Slide2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Cancer/French cancer.png"
           }
         },
         {
@@ -2497,14 +2479,32 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Cancer/French cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Diabetes 2/French Diabetes Graphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Accessing healthcare in emergency part 1/French emergency.png"
+            "name": "Eye Health And COVID",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Eye health and COVID/FrenchEyehealthandCOVID-19.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Mythbusters",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Eye health Mythbusters/FrenchEyehealthMythbusters.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Stroke/Slide2.png"
           }
         }
       ]
@@ -2531,14 +2531,8 @@
       "graphics": [
         {
           "info": {
-            "name": "Heart Attack",
-            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Heart Attack/Slide1.png"
-          }
-        },
-        {
-          "info": {
-            "name": "Diabetes 2",
-            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Diabetes 2/Sorani Kurdish Diabetes Graphic 2.png"
+            "name": "Accessing Healthcare In Emergency Part 1",
+            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Accessing healthcare in emergency part 1/Kurdish emergency.png"
           }
         },
         {
@@ -2549,8 +2543,8 @@
         },
         {
           "info": {
-            "name": "Stroke",
-            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Stroke/Slide2.png"
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Cancer/Kurdish cancer.png"
           }
         },
         {
@@ -2561,14 +2555,20 @@
         },
         {
           "info": {
-            "name": "Cancer",
-            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Cancer/Kurdish cancer.png"
+            "name": "Diabetes 2",
+            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Diabetes 2/Sorani Kurdish Diabetes Graphic 2.png"
           }
         },
         {
           "info": {
-            "name": "Accessing Healthcare In Emergency Part 1",
-            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Accessing healthcare in emergency part 1/Kurdish emergency.png"
+            "name": "Heart Attack",
+            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Heart Attack/Slide1.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Stroke",
+            "src": "graphics/Advice for non-COVID patients/Kurdiya Soran\u008c (Kurdish Sorani)/Stroke/Slide2.png"
           }
         }
       ]

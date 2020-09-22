@@ -83,10 +83,10 @@ def main():
     data[LANGUAGES] = sortedLan
 
     # TODO: make this into a function
-    # count = 0
-    # for lan in data[SCHOOL_ADVICE]:
-    #     data[SCHOOL_ADVICE][count]["graphics"] = sorted(lan["graphics"], key=lambda k: k['info']["name"])
-    #     count = count + 1
+    count = 0
+    for lan in data[ADVICE_NON_COVID]:
+        data[ADVICE_NON_COVID][count]["graphics"] = sorted(lan["graphics"], key=lambda k: k['info']["name"])
+        count = count + 1
 
     indx = 0
     for lan in data[LANGUAGES]:
