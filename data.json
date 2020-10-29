@@ -179,6 +179,12 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/English (English)/16. Social gathering update Sept/EnglishSeptemberupdate.png"
           }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/English (English)/17. Fines for self-isolating/Finesforself-isolatingEnglish.png"
+          }
         }
       ]
     },
@@ -238,6 +244,12 @@
             "name": "11. Shielding Advice",
             "src": "graphics/Languages/Espa\u00a4ol (Spanish)/11. Shielding Advice/Spanish Shielding support.png"
           }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/17. Fines for self-isolating/Fines for self-isolating Spanish.png"
+          }
         }
       ]
     },
@@ -296,6 +308,12 @@
           "info": {
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/Fran\u0087ais (French)/16. Social gathering update Sept/FrenchSeptemberupdate.png"
+          }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Fran\u0087ais (French)/17. Fines for self-isolating/Fines for self-isolating French.png"
           }
         }
       ]
@@ -374,6 +392,12 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/Italiano (Italian)/16. Social gathering update Sept/ItalianSeptemberupdate.png"
           }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Italiano (Italian)/17. Fines for self-isolating/Fines for self-isolating Italian.png"
+          }
         }
       ]
     },
@@ -414,6 +438,23 @@
           "info": {
             "name": "13. Social Gathering Update Sept",
             "src": "graphics/Languages/Kiswahili (Swahili)/13. Social gathering update Sept/SwahiliSeptemberupdate.png"
+          }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Kiswahili (Swahili)/17. Fines for self-isolating/Fines for self-isolating Swahili.png"
+          }
+        }
+      ]
+    },
+    {
+      "language": "Korean",
+      "graphics": [
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Korean/17. Fines for self-isolating/Fines for self-isolating Korean.png"
           }
         }
       ]
@@ -508,6 +549,12 @@
           "info": {
             "name": "13. Social Gathering Update Sept",
             "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/13. Social gathering update Sept/LithuanianSeptemberupdate.png"
+          }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/17. Fines for self-isolating/Finesforself-isolatingLithuanian.png"
           }
         }
       ]
@@ -626,6 +673,12 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/Polskie (Polish)/16. Social gathering update Sept/Polish September update.png"
           }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Polskie (Polish)/17. Fines for self-isolating/Fines for self-isolating Polish.png"
+          }
         }
       ]
     },
@@ -715,6 +768,12 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/Portugu\u0088s (Portuguese)/16. Social gathering update Sept/PortugueseSeptemberupdate.png"
           }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/17. Fines for self-isolating/Finesforself-isolatingPortuguese.png"
+          }
         }
       ]
     },
@@ -767,6 +826,12 @@
           "info": {
             "name": "13. Social Gathering Update Sept",
             "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/13. Social gathering update Sept/RomanianSeptemberupdate.png"
+          }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/17. Fines for self-isolating/Fines for self-isolating Romanian.png"
           }
         }
       ]
@@ -830,6 +895,12 @@
             "name": "13. Social Gathering Update Sept",
             "src": "graphics/Languages/Ti\u1ebfng Vi\u1ec7t (Vietnamese)/13. Social gathering update Sept/VietnameseSeptemberupdate.png"
           }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/Ti\u1ebfng Vi\u1ec7t (Vietnamese)/17. Fines for self-isolating/Fines for self-isolating Vietnamese.png"
+          }
         }
       ]
     },
@@ -876,6 +947,12 @@
           "info": {
             "name": "13. Social Gathering Update Sept",
             "src": "graphics/Languages/T\u0081rk (Turkish)/13. Social gathering update Sept/TurkishSeptemberupdate.png"
+          }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/T\u0081rk (Turkish)/17. Fines for self-isolating/Fines for self-isolating Turkish.png"
           }
         }
       ]
@@ -1167,6 +1244,12 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/16. Social gathering update Sept/ArabicSeptemberupdate.png"
           }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/17. Fines for self-isolating/Finesforself-isolatingArabic.png"
+          }
         }
       ]
     },
@@ -1247,6 +1330,12 @@
           "info": {
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/16. Social gathering update Sept/HindiSeptemberupdate.png"
+          }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/17. Fines for self-isolating/Finesforself-isolatingHindi.png"
           }
         }
       ]
@@ -1358,6 +1447,12 @@
           "info": {
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/16. Social gathering update Sept/Punjabi September update.png"
+          }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/17. Fines for self-isolating/Fines for self-isolating Punjabi.png"
           }
         }
       ]
@@ -1626,6 +1721,12 @@
             "name": "16. Social Gathering Update Sept",
             "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/16. Social gathering update Sept/SimplifiedChineseSeptemberupdate.png"
           }
+        },
+        {
+          "info": {
+            "name": "17. Fines For Self-Isolating",
+            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/17. Fines for self-isolating/Fines for self-isolating Simplified Chinese.png"
+          }
         }
       ]
     },
@@ -1863,7 +1964,7 @@
         {
           "info": {
             "name": "Eye Health Advice",
-            "src": "graphics/Advice for non-COVID patients/T\u0081rk (Turkish)/Eye health advice/TamilEyehealthadvice.png"
+            "src": "graphics/Advice for non-COVID patients/T\u0081rk (Turkish)/Eye health Advice/TamilEyehealthadvice.png"
           }
         },
         {
@@ -1967,6 +2068,12 @@
       "graphics": [
         {
           "info": {
+            "name": "Eye Health And COVID-19",
+            "src": "graphics/Advice for non-COVID patients/\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 (Malayalam)/Eye Health and COVID-19/Eye Health and COVID-19 (Malayalam).png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Mythbusters",
             "src": "graphics/Advice for non-COVID patients/\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 (Malayalam)/Eye Health Mythbusters/Eye mythbusters (Malayalam).png"
           }
@@ -2052,6 +2159,18 @@
     {
       "language": "Yoruba (Yoruba)",
       "graphics": [
+        {
+          "info": {
+            "name": "Eye Health Advice",
+            "src": "graphics/Advice for non-COVID patients/Yoruba (Yoruba)/Eye Health Advice/Eye health Advice (Yoruba).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Eligibility",
+            "src": "graphics/Advice for non-COVID patients/Yoruba (Yoruba)/Eye Health Eligibility/Eye health Eligibility (Yoruba).png"
+          }
+        },
         {
           "info": {
             "name": "Eye Health Mythbusters",
@@ -2234,8 +2353,20 @@
       "graphics": [
         {
           "info": {
+            "name": "Eye Health Advice",
+            "src": "graphics/Advice for non-COVID patients/\u09ac\u09be\u0982\u09b2\u09be (Bengali)/Eye health Advice/Eye health Advice (Bengali).png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health And COVID-19",
             "src": "graphics/Advice for non-COVID patients/\u09ac\u09be\u0982\u09b2\u09be (Bengali)/Eye Health and COVID-19/Eye Health and COVID-19 (Bengali).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Eligibility",
+            "src": "graphics/Advice for non-COVID patients/\u09ac\u09be\u0982\u09b2\u09be (Bengali)/Eye health Eligibility/Eye health Eligibility (Bengali).png"
           }
         },
         {
@@ -2367,6 +2498,12 @@
     {
       "language": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 (Bulgarian)",
       "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID-19",
+            "src": "graphics/Advice for non-COVID patients/\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 (Bulgarian)/Eye Health and COVID-19/Eye Health and COVID-19 (Bulgarian).png"
+          }
+        },
         {
           "info": {
             "name": "Eye Health Mythbusters",
@@ -2612,6 +2749,17 @@
       ]
     },
     {
+      "language": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd (Sinhala)",
+      "graphics": [
+        {
+          "info": {
+            "name": "Eye Health And COVID-19",
+            "src": "graphics/Advice for non-COVID patients/\u0dc3\u0dd2\u0d82\u0dc4\u0dbd (Sinhala)/Eye Health and COVID-19/Eye Health and COVID-19 (Sinhala).png"
+          }
+        }
+      ]
+    },
+    {
       "language": "Kurdiya Soran\u008c (Kurdish Sorani)",
       "graphics": [
         {
@@ -2715,6 +2863,24 @@
       "graphics": [
         {
           "info": {
+            "name": "Eye Health Advice",
+            "src": "graphics/Advice for non-COVID patients/\ud55c\uad6d\uc5b4 (Korean)/Eye health Advice/Eye health Advice (Korean).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health And COVID-19",
+            "src": "graphics/Advice for non-COVID patients/\ud55c\uad6d\uc5b4 (Korean)/Eye Health and COVID-19/Eye Health and COVID-19 (Korean).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Eligibility",
+            "src": "graphics/Advice for non-COVID patients/\ud55c\uad6d\uc5b4 (Korean)/Eye health Eligibility/Eye health Eligibility (Korean).png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Mythbusters",
             "src": "graphics/Advice for non-COVID patients/\ud55c\uad6d\uc5b4 (Korean)/Eye Health Mythbusters/Eye mythbusters (Korean).png"
           }
@@ -2726,8 +2892,26 @@
       "graphics": [
         {
           "info": {
+            "name": "Eye Health And COVID-19",
+            "src": "graphics/Advice for non-COVID patients/\u062f\u0631\u06cc (Dari)/Eye Health and COVID-19/Eye Health and COVID-19 (Dari).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Health Eligibility",
+            "src": "graphics/Advice for non-COVID patients/\u062f\u0631\u06cc (Dari)/Eye health Eligibility/Eye health Eligibility (Dari).png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Mythbusters",
             "src": "graphics/Advice for non-COVID patients/\u062f\u0631\u06cc (Dari)/Eye Health Mythbusters/Eye mythbuster (Dari).png"
+          }
+        },
+        {
+          "info": {
+            "name": "Eye Heath Advice",
+            "src": "graphics/Advice for non-COVID patients/\u062f\u0631\u06cc (Dari)/Eye heath Advice/Eye health Advice (Dari).png"
           }
         }
       ]
