@@ -1800,6 +1800,12 @@
         },
         {
           "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/English (English)/Domestic Violence/English-DomesticViolence.png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Advice",
             "src": "graphics/Advice for non-COVID patients/English (English)/Eye health advice/EnglishEyehealthadvice.png"
           }
@@ -1841,6 +1847,12 @@
       "graphics": [
         {
           "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/Lietuvi\u0173 (Lithuanian)/Domestic Violence/Lithuanian-DomesticViolence.png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Advice",
             "src": "graphics/Advice for non-COVID patients/Lietuvi\u0173 (Lithuanian)/Eye health advice/LithuanianEyehealthadvice.png"
           }
@@ -1856,6 +1868,12 @@
     {
       "language": "T\u0081rk (Turkish)",
       "graphics": [
+        {
+          "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/T\u0081rk (Turkish)/Domestic Violence/Updated Turkish - Domestic Violence.png"
+          }
+        },
         {
           "info": {
             "name": "Eye Health Advice",
@@ -1918,6 +1936,12 @@
           "info": {
             "name": "Diabetes 2",
             "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Diabetes 2/Spanish Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/Espa\u00a4ol (Spanish)/Domestic Violence/Spanish-DomesticViolence.png"
           }
         },
         {
@@ -2027,6 +2051,12 @@
         },
         {
           "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Domestic Violence/Arabic-DomesticViolence.png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Advice",
             "src": "graphics/Advice for non-COVID patients/\u0639\u0631\u0628\u0649 (Arabic)/Eye health advice/ArabicEyehealthadvice.png"
           }
@@ -2091,6 +2121,12 @@
         },
         {
           "info": {
+            "name": "Cancer",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Cancer/Portuguese cancer.png"
+          }
+        },
+        {
+          "info": {
             "name": "Diabetes 1",
             "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Diabetes 1/Portuguese Diabetes Graphic 1.png"
           }
@@ -2099,6 +2135,12 @@
           "info": {
             "name": "Diabetes 2",
             "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Diabetes 2/Portuguese Diabetes Graphic 2.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Domestic Violence/Portuguese-DomesticViolence.png"
           }
         },
         {
@@ -2133,12 +2175,6 @@
         },
         {
           "info": {
-            "name": "Portuguese",
-            "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Portuguese/Portuguese cancer.png"
-          }
-        },
-        {
-          "info": {
             "name": "Stroke",
             "src": "graphics/Advice for non-COVID patients/Portugu\u0088s (Portuguese)/Stroke/Slide2.png"
           }
@@ -2148,6 +2184,12 @@
     {
       "language": "\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
       "graphics": [
+        {
+          "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/Domestic Violence/Updated Traditional Chinese - Domestic Violence.png"
+          }
+        },
         {
           "info": {
             "name": "Eye Health And COVID",
@@ -2165,6 +2207,12 @@
     {
       "language": "Kiswahili (Swahili)",
       "graphics": [
+        {
+          "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/Kiswahili (Swahili)/Domestic Violence/Swahili-DomesticViolence.png"
+          }
+        },
         {
           "info": {
             "name": "Eye Health Advice",
@@ -2239,6 +2287,12 @@
           "info": {
             "name": "Cancer",
             "src": "graphics/Advice for non-COVID patients/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/Cancer/Cancer Punjabi.png"
+          }
+        },
+        {
+          "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/Domestic Violence/Punjabi-DomesticViolence.png"
           }
         }
       ]
@@ -2442,6 +2496,12 @@
         },
         {
           "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Domestic Violence/UPDATED Italian - Domestic Violence.png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Advice",
             "src": "graphics/Advice for non-COVID patients/Italiano (Italian)/Eye health advice/ItalianEyehealthadvice.png"
           }
@@ -2513,6 +2573,12 @@
         },
         {
           "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Domestic Violence/Polish - Domestic Violence.png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health And COVID",
             "src": "graphics/Advice for non-COVID patients/Polskie (Polish)/Eye health and COVID/Polish Eye health and COVID-19.png"
           }
@@ -2578,6 +2644,12 @@
         },
         {
           "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Domestic Violence/Updated French - Domestic Violence.png"
+          }
+        },
+        {
+          "info": {
             "name": "Eye Health Advice",
             "src": "graphics/Advice for non-COVID patients/Fran\u0087ais (French)/Eye health advice/FrenchEyehealthadvice.png"
           }
@@ -2617,6 +2689,12 @@
     {
       "language": "\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
       "graphics": [
+        {
+          "info": {
+            "name": "Domestic Violence",
+            "src": "graphics/Advice for non-COVID patients/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/Domestic Violence/SimplifiedChinese-DomesticViolence.png"
+          }
+        },
         {
           "info": {
             "name": "Eye Health Advice",
