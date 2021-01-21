@@ -35,12 +35,6 @@
         },
         {
           "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/Af-Soomaali (Somali)/8. Places of worship advice/Somali worship.png"
-          }
-        },
-        {
-          "info": {
             "name": "9. Migrants' Rights",
             "src": "graphics/Languages/Af-Soomaali (Somali)/9. Migrants' Rights/SOMALI Migrants' Rights.png"
           }
@@ -157,6 +151,12 @@
         },
         {
           "info": {
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/English (English)/8. Places of Worship/Places of worship (English).png"
+          }
+        },
+        {
+          "info": {
             "name": "9. Migrants' Rights",
             "src": "graphics/Languages/English (English)/9. Migrants' Rights/English Migrants' Rights.png"
           }
@@ -222,8 +222,8 @@
         },
         {
           "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/8. Places of worship advice/Spanish worship.png"
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/8. Places of Worship/Places of worship (Spanish).png"
           }
         },
         {
@@ -305,7 +305,7 @@
         {
           "info": {
             "name": "8. Places Of Worship",
-            "src": "graphics/Languages/Fran\u0087ais (French)/8. Places of worship/French worship.png"
+            "src": "graphics/Languages/Fran\u0087ais (French)/8. Places of Worship/Places of worship (French).png"
           }
         },
         {
@@ -438,7 +438,7 @@
         {
           "info": {
             "name": "8. Places Of Worship",
-            "src": "graphics/Languages/Italiano (Italian)/8. Places of worship/Italianworship.png"
+            "src": "graphics/Languages/Italiano (Italian)/8. Places of Worship/Places of worship (Italian).png"
           }
         },
         {
@@ -492,12 +492,6 @@
           "info": {
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/Kiswahili (Swahili)/17. Fines for self-isolating/Fines for self-isolating Swahili.png"
-          }
-        },
-        {
-          "info": {
-            "name": "18. New COVID-19 Strain",
-            "src": "graphics/Languages/Kiswahili (Swahili)/18. New COVID-19 Strain/New COVID-19 Strain (Swahili).png"
           }
         }
       ]
@@ -590,6 +584,12 @@
           "info": {
             "name": "6. Face Coverings",
             "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/6. Face Coverings/Lithuanian Face Coverings.png"
+          }
+        },
+        {
+          "info": {
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/8. Places of Worship/Places of worship (Lithuanian).png"
           }
         },
         {
@@ -721,8 +721,8 @@
         },
         {
           "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/Polskie (Polish)/8. Places of worship advice/Polish Places of Worship.png"
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/Polskie (Polish)/8. Places of Worship/Places of worship (Polish).png"
           }
         },
         {
@@ -780,8 +780,8 @@
         },
         {
           "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/8. Places of worship advice/Portuguese places of worship.png"
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/8. Places of Worship/Places of worship (Portuguese).png"
           }
         },
         {
@@ -858,12 +858,6 @@
           "info": {
             "name": "6. Face Coverings",
             "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/6. Face Coverings/Romanian Face Coverings.png"
-          }
-        },
-        {
-          "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/8. Places of worship advice/Romanian places of worship.png"
           }
         },
         {
@@ -1238,12 +1232,6 @@
         },
         {
           "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/8. Places of worship advice/Urdu Places of worship.png"
-          }
-        },
-        {
-          "info": {
             "name": "11. Shielding Support",
             "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/11. Shielding support/Urdu Shielding support.png"
           }
@@ -1308,8 +1296,8 @@
         },
         {
           "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/8. Places of worship advice/Arabic places of worship.png"
+            "name": "8. Places Of Worship",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/8. Places of Worship/Places of worship (Arabic).png"
           }
         },
         {
@@ -1494,12 +1482,6 @@
         },
         {
           "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/8. Places of worship advice/Punjabi places of worship.png"
-          }
-        },
-        {
-          "info": {
             "name": "9. Migrants' Rights",
             "src": "graphics/Languages/\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 (Punjabi)/9. Migrants' Rights/PUNJABI Migrants' Rights.png"
           }
@@ -1565,12 +1547,6 @@
         },
         {
           "info": {
-            "name": "8. Places Of Worship Advice",
-            "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/8. Places of worship advice/Gujarati worship.png"
-          }
-        },
-        {
-          "info": {
             "name": "10. Shops Re-Opening",
             "src": "graphics/Languages/\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 (Gujarati)/10. Shops re-opening/Gujarati Shops reopening.png"
           }
@@ -1625,7 +1601,7 @@
         {
           "info": {
             "name": "8. Places Of Worship",
-            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/8. Places of Worship/Tamil Places of worship.png"
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/8. Places of Worship/Places of worship (Tamil).png"
           }
         },
         {
@@ -1734,7 +1710,7 @@
         {
           "info": {
             "name": "8. Places Of Worship",
-            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/8. Places of Worship/Chinese simplified worship.png"
+            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/8. Places of Worship/Places of worship (Simplified Chinese).png"
           }
         },
         {
