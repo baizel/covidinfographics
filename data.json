@@ -84,6 +84,12 @@
             "name": "4. Mythbusters",
             "src": "graphics/Languages/Deutsche (German)/4. Mythbusters/Deutsch Mythbusters.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/Deutsche (German)/18. New UK COVID-19 strain/New COVID-19 Strain (German).png"
+          }
         }
       ]
     },
@@ -166,6 +172,12 @@
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/English (English)/17. Fines for self-isolating/Finesforself-isolatingEnglish.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/English (English)/18. New UK COVID-19 strain/New COVID-19 Strain - English.png"
+          }
         }
       ]
     },
@@ -230,6 +242,12 @@
           "info": {
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/Espa\u00a4ol (Spanish)/17. Fines for self-isolating/Fines for self-isolating Spanish.png"
+          }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/18. New UK COVID-19 strain/New COVID-19 Strain (Spanish).png"
           }
         }
       ]
@@ -306,6 +324,12 @@
           "info": {
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/Fran\u0087ais (French)/17. Fines for self-isolating/Fines for self-isolating French.png"
+          }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/Fran\u0087ais (French)/18. New UK COVID-19 strain/New COVID-19 Strain (French).png"
           }
         }
       ]
@@ -421,6 +445,12 @@
           "info": {
             "name": "11. Shielding Advice",
             "src": "graphics/Languages/Italiano (Italian)/11. Shielding advice/Italian Shielding support.png"
+          }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/Italiano (Italian)/18. New UK COVID-19 strain/New COVID-19 Strain (Italian).png"
           }
         }
       ]
@@ -567,6 +597,12 @@
             "name": "11. Shielding Support",
             "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/11. Shielding support/Lithuanian Shielding support.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/18. New UK COVID-19 strain/New COVID-19 Strain (Lithuanian).png"
+          }
         }
       ]
     },
@@ -694,6 +730,12 @@
             "name": "11. Shielding Support",
             "src": "graphics/Languages/Polskie (Polish)/11. Shielding support/Polish Support for Shielding.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/Polskie (Polish)/18. New UK COVID-19 strain/New COVID-19 Strain (Polish).png"
+          }
         }
       ]
     },
@@ -759,6 +801,12 @@
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/Portugu\u0088s (Portuguese)/17. Fines for self-isolating/Finesforself-isolatingPortuguese.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/18. New UK COVID-19 strain/New COVID-19 Strain (Portuguese).png"
+          }
         }
       ]
     },
@@ -822,6 +870,12 @@
           "info": {
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/17. Fines for self-isolating/Fines for self-isolating Romanian.png"
+          }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/18. New UK COVID-19 strain/New COVID-19 Strain (Romanian).png"
           }
         }
       ]
@@ -960,6 +1014,12 @@
           "info": {
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/T\u0081rk (Turkish)/17. Fines for self-isolating/Fines for self-isolating Turkish.png"
+          }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/T\u0081rk (Turkish)/18. New UK COVID-19 strain/New COVID-19 Strain (Turkish).png"
           }
         }
       ]
@@ -1251,6 +1311,12 @@
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/17. Fines for self-isolating/Finesforself-isolatingArabic.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/18. New UK COVID-19 strain/New COVID-19 Strain (Arabic).png"
+          }
         }
       ]
     },
@@ -1320,6 +1386,12 @@
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/17. Fines for self-isolating/Finesforself-isolatingHindi.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/18. New UK COVID-19 strain/New COVID-19 Strain (Hindi).png"
+          }
         }
       ]
     },
@@ -1360,6 +1432,12 @@
           "info": {
             "name": "7. Test And Trace",
             "src": "graphics/Languages/\u09ac\u09be\u0982\u09b2\u09be (Bengali)/7. Test and Trace/Test and Trace (Bengali).png"
+          }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/\u09ac\u09be\u0982\u09b2\u09be (Bengali)/18. New UK COVID-19 strain/New COVID-19 Strain (Bengali).png"
           }
         }
       ]
@@ -1537,6 +1615,12 @@
             "name": "11. Shielding Support",
             "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/11. Shielding support/Tamil Shielding support.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/18. New UK COVID-19 strain/New COVID-19 Strain (Tamil).png"
+          }
         }
       ]
     },
@@ -1634,6 +1718,12 @@
             "name": "17. Fines For Self-Isolating",
             "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/17. Fines for self-isolating/Fines for self-isolating Simplified Chinese.png"
           }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)/18. New UK COVID-19 strain/New COVID-19 Strain (Simplified Chinese).png"
+          }
         }
       ]
     },
@@ -1650,6 +1740,12 @@
           "info": {
             "name": "5. Wellbeing",
             "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/5. Wellbeing/Infographic 5 \u2013 Traditional Chinese.png"
+          }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/18. New UK COVID-19 strain/New COVID-19 Strain (Traditional Chinese).png"
           }
         }
       ]
