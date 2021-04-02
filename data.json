@@ -90,6 +90,12 @@
             "name": "18. New UK COVID-19 Strain",
             "src": "graphics/Languages/Deutsche (German)/18. New UK COVID-19 strain/New COVID-19 Strain (German).png"
           }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/Deutsche (German)/20. Roadmap out of lockdown/Roadmap Graphic - German.png"
+          }
         }
       ]
     },
@@ -184,6 +190,12 @@
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/English (English)/19. Vaccines overview/English Vaccines overview.png"
           }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/English (English)/20. Roadmap out of lockdown/Roadmap Graphic - English.png"
+          }
         }
       ]
     },
@@ -260,6 +272,12 @@
           "info": {
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/Espa\u00a4ol (Spanish)/19. Vaccines overview/Spanish Vaccines overview.png"
+          }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/Espa\u00a4ol (Spanish)/20. Roadmap out of lockdown/Roadmap Graphic - Spanish.png"
           }
         }
       ]
@@ -342,6 +360,12 @@
           "info": {
             "name": "18. New UK COVID-19 Strain",
             "src": "graphics/Languages/Fran\u0087ais (French)/18. New UK COVID-19 strain/New COVID-19 Strain (French).png"
+          }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/Fran\u0087ais (French)/20. Roadmap out of lockdown/Roadmap Graphic - French.png"
           }
         }
       ]
@@ -517,6 +541,12 @@
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/Kiswahili (Swahili)/19. Vaccines overview/Swahili Vaccines overview.png"
           }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/Kiswahili (Swahili)/20. Roadmap out of lockdown/Roadmap Graphic - Swahili.png"
+          }
         }
       ]
     },
@@ -632,6 +662,12 @@
           "info": {
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/19. Vaccines overview/Lithuanian Vaccines overview.png"
+          }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/Lietuvi\u0173 (Lithuanian)/20. Roadmap out of lockdown/Roadmap Graphic - Lithuanian.png"
           }
         }
       ]
@@ -772,6 +808,12 @@
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/Polskie (Polish)/19. Vaccines overview/Polish Vaccines overview.png"
           }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/Polskie (Polish)/20. Roadmap out of lockdown/Roadmap Graphic - Polish.png"
+          }
         }
       ]
     },
@@ -849,6 +891,12 @@
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/Portugu\u0088s (Portuguese)/19. Vaccines overview/Portuguese Vaccines overview.png"
           }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/Portugu\u0088s (Portuguese)/20. Roadmap out of lockdown/Roadmap Graphic - Portuguese.png"
+          }
         }
       ]
     },
@@ -924,6 +972,12 @@
           "info": {
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/19. Vaccines overview/Romanian Vaccines overview.png"
+          }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/Rom\u00e2n\u0103 (Romanian)/20. Roadmap out of lockdown/Roadmap Graphic - Romanian.png"
           }
         }
       ]
@@ -1085,6 +1139,12 @@
           "info": {
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/T\u0081rk (Turkish)/19. Vaccines overview/Turkish Vaccines overview.png"
+          }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/T\u0081rk (Turkish)/20. Roadmap out of lockdown/Roadmap Graphic - Turkish.png"
           }
         }
       ]
@@ -1315,6 +1375,12 @@
         },
         {
           "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/18. New UK COVID-19 Strain/New COVID-19 Strain (Urdu).png"
+          }
+        },
+        {
+          "info": {
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/\u0627\u0631\u062f\u0648 (Urdu)/19. Vaccines overview/Urdu Vaccines overview.png"
           }
@@ -1412,6 +1478,12 @@
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/19. Vaccines overview/Arabic Vaccines overview.png"
           }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/\u0639\u0631\u0628\u0649 (Arabic)/20. Roadmap out of lockdown/Roadmap Graphic - Arabic.png"
+          }
         }
       ]
     },
@@ -1492,6 +1564,12 @@
           "info": {
             "name": "18. New UK COVID-19 Strain",
             "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/18. New UK COVID-19 strain/New COVID-19 Strain (Hindi).png"
+          }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)/20. Roadmap out of lockdown/Roadmap Graphic - Hindi.png"
           }
         }
       ]
@@ -1734,6 +1812,12 @@
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/19. Vaccines overview/Tamil Vaccines overview.png"
           }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)/20. Roadmap out of lockdown/Roadmap Graphic - Tamil.png"
+          }
         }
       ]
     },
@@ -1784,6 +1868,18 @@
           "info": {
             "name": "9. Migrants' Rights",
             "src": "graphics/Languages/\u1275\u130d\u122d\u129b (Tigrinya)/9. Migrants' Rights/TIGRINYA migrants rights.png"
+          }
+        },
+        {
+          "info": {
+            "name": "18. New UK COVID-19 Strain",
+            "src": "graphics/Languages/\u1275\u130d\u122d\u129b (Tigrinya)/18. New UK COVID-19 Strain/New COVID-19 Strain (Tigrinya).png"
+          }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/\u1275\u130d\u122d\u129b (Tigrinya)/20. Roadmap out of lockdown/Roadmap Graphic - Tigrinya.png"
           }
         }
       ]
@@ -1865,6 +1961,12 @@
           "info": {
             "name": "19. Vaccines Overview",
             "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/19. Vaccines overview/Traditional Chinese Vaccines overview.png"
+          }
+        },
+        {
+          "info": {
+            "name": "20. Roadmap Out Of Lockdown",
+            "src": "graphics/Languages/\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)/20. Roadmap out of lockdown/Roadmap Graphic - Traditional Chinese.png"
           }
         }
       ]
